@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 from collections import defaultdict
 
-from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs
+from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs
 from noise_models import make_agnostic_prior, make_noisy_prior
 from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths)
 
@@ -36,10 +36,10 @@ random.seed(0)
 
 SPECIES = "9606"
 # PATHWAY_JSON = "NData/R-HSA-162582.json"   
-PATHWAY_JSON = "NData/R-HSA-597592.json"   # L400 -> 2,  L250 -> 8 well documented species
+# PATHWAY_JSON = "NData/R-HSA-597592.json"   # L400 -> 2,  L250 -> 8 well documented species
 # PATHWAY_JSON = "NData/R-HSA-9006934.json"  # L400 -> 1,  L250 -> 4 well documented species     pretty good 
 # PATHWAY_JSON = "NData/R-HSA-392499.json"   # L400 -> 3,  L250 -> 10 well documented species
-# PATHWAY_JSON = "NData/R-HSA-556833.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
+PATHWAY_JSON = "NData/R-HSA-556833.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
 
 # PATHWAY_JSON = "NData/R-HSA-372790.json"     # L250 -> 3 well documented species
 
@@ -72,28 +72,9 @@ pathway_res = json.loads(txt)
 R_list = [d['R'] for d in pathway_res]
 Rset = {str(x) for x in R_list}  # ensure all strings
 
-# Load and filter RCR (reaction-compound-reaction)
-rcr = Path(RCR_JSON).read_text(encoding="utf-8-sig")
-rcr_list = json.loads(rcr)
-for d in rcr_list:
-    d['R'] = str(d['R'])
-    d['R2'] = str(d['R2'])
-
-rcr_filtered = []
-# Keep only RCRs where both reactions are in pathway (and compound not banned)
-for d in rcr_list:
-    if d['R'] in Rset and d['R2'] in Rset and d['C'][6:] not in BANNED:
-        rcr_filtered.append(d)
-rcr_filtered = pd.DataFrame(rcr_filtered)
-if not rcr_filtered.empty:
-    rcr_filtered['C'] = rcr_filtered['C'].str.split(':').str[1]  # remove "CHEBI:"
-
 # Create RCR (reaction-compound-reaction) triples
-rcr_from_cr = load_rcr_from_cr_pairs(CR_JSON, Rset, BANNED)
-
-print(f"Size of Rset:         {len(Rset)}")
-print(f"Size of rcr_filtered: {len(rcr_filtered)}")
-print(f"Size of rcr_from_cr:  {len(rcr_from_cr)}")
+#rcr_from_cr = load_rcr_from_cr_pairs(CR_JSON, Rset, BANNED)
+rcr_filtered = load_rcr_from_cr_pairs(RCR_JSON, Rset, BANNED)
 
 # Load and filter RE (reaction-enzyme)
 rec = pd.read_csv(RE_CSV, dtype=str, keep_default_na=False)
@@ -137,19 +118,36 @@ documented_species = (ec_filt["species"].value_counts()[lambda s: s >= 200]).ind
 print(f"We have {len(documented_species)} well documented species")
 ec_filt = ec_filt[ec_filt["species"].isin(documented_species)]
 
+
+# Ortholog relation is:  ortholog_support(G,E) :- ortholog(G,G2), function(G2,E).
+# get ortholog pairs: ortholog(G,G2) where G is from target species
+# only consider the well documented species 
+ortholog_df = build_ortholog_pairs(ec_filt, target_species=SPECIES)
+print(f"Ortholog pairs (target↔other): {len(ortholog_df)}")
+
+# now use genes from non-target species to get function(G2,E) pairs
+ortholog_genes = set(ortholog_df['G2']) 
+ge_orthologs = ec_filt[ec_filt['GeneID'].isin(ortholog_genes)][['GeneID', 'EC']].drop_duplicates()
+ge_orthologs.rename(columns={'GeneID': 'G'}, inplace=True)
+print(f"(G,E) for ortholog genes: {len(ge_orthologs)}")
+
 # Filter to target species
 ge_filtered = (ec_filt[ec_filt['species'] == SPECIES])[['GeneID', 'EC']].drop_duplicates() 
 ge_filtered.rename(columns={'GeneID':'G'}, inplace=True)
+
+ge_all = pd.concat([ge_filtered, ge_orthologs]).drop_duplicates()
+print(f"(G,E) total for ProbLog: {len(ge_all)}")
 
 # Banned compounds dataframe
 banned_df = pd.DataFrame({'C': list(BANNED)})
 
 # Print summary
 print(f"Num Reactions: {len(Rset)}")
-print(f"(R1,C,R2):     {len(rcr_filtered)},    from {len(rcr_list)}")
-print(f"(R,E):         {len(re_filtered)},     from {len(rec)}")
+print(f"(R1,C,R2):     {len(rcr_filtered)}")
+print(f"(R,E):         {len(re_filtered)}")
 print(f"(G,E):         {len(ge_filtered)}")
 print(f"Banned:        {len(banned_df)}\n")
+
 
 ##############################
 ### Index & Graph Building ###
@@ -247,72 +245,64 @@ def compute_auprc_from_prior(noisy_prior, GE_gold):
 
 if __name__ == "__main__":
 
-    ## TESTING ##
-    print("=== Q2 Support Diagnostic (rank_ge_by_q2_support) ===")
+    # ## TESTING ##
+    # print("=== Q2 Support Diagnostic (rank_ge_by_q2_support) ===")
     
-    # Build idx for OLD method
-    idx_old = build_indices_n_graph(rcr_filtered, re_filtered, ge_filtered, banned_df)
-    ranked_old = rank_ge_by_q2_support(ge_filtered, idx_old)
+    # # Build idx for OLD method
+    # idx_old = build_indices_n_graph(rcr_filtered, re_filtered, ge_filtered, banned_df)
+    # ranked_old = rank_ge_by_q2_support(ge_filtered, idx_old)
     
-    # Build idx for NEW method  
-    idx_new = build_indices_n_graph(rcr_from_cr, re_filtered, ge_filtered, banned_df)
-    ranked_new = rank_ge_by_q2_support(ge_filtered, idx_new)
+    # # Build idx for NEW method  
+    # idx_new = build_indices_n_graph(rcr_from_cr, re_filtered, ge_filtered, banned_df)
+    # ranked_new = rank_ge_by_q2_support(ge_filtered, idx_new)
     
-    # Compute summary stats
-    def q2_summary(df, label):
-        n_total = len(df)
-        n_with_support = (df['q2_paths'] > 0).sum()
-        pct_support = 100 * n_with_support / n_total if n_total else 0
-        mean_paths = df['q2_paths'].mean()
-        total_paths = df['q2_paths'].sum()
-        print(f"{label}:")
-        print(f"  Pairs with support: {n_with_support}/{n_total} ({pct_support:.1f}%)")
-        print(f"  Mean q2_paths:      {mean_paths:.2f}")
-        print(f"  Total paths:        {total_paths}")
+    # # Compute summary stats
+    # def q2_summary(df, label):
+    #     n_total = len(df)
+    #     n_with_support = (df['q2_paths'] > 0).sum()
+    #     pct_support = 100 * n_with_support / n_total if n_total else 0
+    #     mean_paths = df['q2_paths'].mean()
+    #     total_paths = df['q2_paths'].sum()
+    #     print(f"{label}:")
+    #     print(f"  Pairs with support: {n_with_support}/{n_total} ({pct_support:.1f}%)")
+    #     print(f"  Mean q2_paths:      {mean_paths:.2f}")
+    #     print(f"  Total paths:        {total_paths}")
     
-    q2_summary(ranked_old, "OLD (rcr_filtered)")
-    q2_summary(ranked_new, "NEW (rcr_from_cr)")
-
-    exit()
+    # q2_summary(ranked_old, "OLD (rcr_filtered)")
+    # q2_summary(ranked_new, "NEW (rcr_from_cr)")
+    # exit()
 
     ## MAIN FUNCTION ##
+    idx = build_indices_n_graph(rcr_filtered, re_filtered, ge_all, banned_df)
 
-    # Build indices
-    idx = build_indices_n_graph(rcr_filtered, re_filtered, ge_filtered, banned_df)
-
-    # Build EC pool and gold standard
+    # Build EC pool (leaf-level enzymes in this pathway)
     EC_pool = {norm_ec(e) for e in re_filtered['EC'].astype(str)}
     EC_pool = {e for e in EC_pool if ec_is_leaf(e)}
 
+    # GE_gold = target species only (for evaluation)
     GE_gold = {(str(g), norm_ec(e)) for g, e in ge_filtered[['G','EC']].itertuples(index=False)}
     GE_gold = {(g,e) for (g,e) in GE_gold if e in EC_pool}
 
-    # # Create noisy priors (choose one or both)
-    # print("\n=== Creating Agnostic Prior (§4.1) ===")
-    # agnostic_prior, perturbations = make_agnostic_prior(GE_gold, EC_pool, s_fraction=0.01)
+    # Create noisy prior from ge_all (includes ortholog genes!)
+    print("\n=== Creating Noisy Prior ===")
+    # Convert DataFrame to set of tuples (same format as GE_gold)
+    GE_all_set = {(str(g), norm_ec(e)) for g, e in ge_all[['G','EC']].itertuples(index=False)}
+    GE_all_set = {(g, e) for (g, e) in GE_all_set if e in EC_pool}
+    noisy_prior = make_noisy_prior(GE_all_set, EC_pool)
+    print(f"Prior has {len(noisy_prior)} (G,E) pairs")
 
-    # print("\n=== Creating Noisy Prior (§4.2) ===")
-    noisy_prior = make_noisy_prior(GE_gold, EC_pool)
-
-    # Evaluate baseline AUPRC
+    # Evaluate baseline AUPRC (against target species gold only)
     initial_auprc = compute_auprc_from_prior(noisy_prior, GE_gold)
-    print(f"Baseline AUCPR of noisy prior (RCR):     {initial_auprc:.4f}")
+    print(f"Baseline AUPRC: {initial_auprc:.4f}")
 
-    # Now also calculate AUPRC using rcr_from_cr
-    idx2 = idx = build_indices_n_graph(rcr_from_cr, re_filtered, ge_filtered, banned_df)
-    noisy_prior2 = make_noisy_prior(GE_gold, EC_pool)
-    initial_auprc2 = compute_auprc_from_prior(noisy_prior2, GE_gold)
-    print(f"Baseline AUCPR of noisy prior (from CR): {initial_auprc2:.4f}")
-
-
-    # Compute automorphism orbits (for optimization)
+    # Compute automorphism orbits
     print("\n=== Computing Automorphism Orbits ===")
     entity_orbits = compute_automorphism_orbits(
         prior=noisy_prior,
         rcr_df=rcr_filtered[['R','C','R2']].copy(),
         re_df=re_filtered[['R','EC']].copy(),
         accepted_compounds=idx['accepted_compounds'],
-        ortholog_df=None,   
+        ortholog_df=ortholog_df, 
         p_round=6
     )
 
@@ -320,14 +310,14 @@ if __name__ == "__main__":
     print(f"Unique orbits per kind: {counts}")
     print(f"Total unique entities: {sum(counts.values())}")
 
-    # Write ProbLog file (uncomment to generate)
+    # # Write ProbLog file
     # print("\n=== Writing ProbLog File ===")
     # write_single_problog(
-    #     out_path="NData/q3_single_test.pl",
+    #     out_path="NData/q3_single.pl",
     #     prior=noisy_prior,
     #     rcr_df=rcr_filtered[['R','C','R2']].copy(),
     #     re_df=re_filtered[['R','EC']].copy(),
     #     accepted_compounds=idx['accepted_compounds'],
-    #     ortholog_df=None,        
+    #     ortholog_df=ortholog_df, 
     #     targets=None            
     # )

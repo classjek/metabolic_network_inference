@@ -80,3 +80,26 @@ def load_rcr_from_cr_pairs(cr_pairs_path, Rset, BANNED):
                 rcr_rows.append({'R': R1, 'C': chebi_id, 'R2': R2})
     
     return pd.DataFrame(rcr_rows)
+
+# Use information in GE_expanded to build ortholog pairs (filtering out paralogs)
+def build_ortholog_pairs(ec_expanded, target_species, ortholog_col='OrthoDB', max_group_size=50):
+    df = ec_expanded[ec_expanded[ortholog_col].ne('') & ec_expanded['GeneID'].ne('')]
+    
+    grouped = df.groupby(ortholog_col).apply(
+        lambda g: list(zip(g['GeneID'], g['species'])),
+        include_groups=False
+    )
+    
+    pairs = []
+    for gene_species_list in grouped:
+        if len(gene_species_list) < 2 or len(gene_species_list) > max_group_size:
+            continue
+        # Separate target vs other species genes
+        target_genes = [(g, sp) for g, sp in gene_species_list if sp == target_species]
+        other_genes = [(g, sp) for g, sp in gene_species_list if sp != target_species]
+        # Pair each target gene with each other-species gene
+        for g1, _ in target_genes:
+            for g2, _ in other_genes:
+                pairs.append({'G': g1, 'G2': g2})
+    
+    return pd.DataFrame(pairs)
