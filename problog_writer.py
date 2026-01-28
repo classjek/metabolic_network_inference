@@ -6,6 +6,80 @@ from typing import Optional, List, Tuple
 
 from ec_utils import r_atom, g_atom, ec_atom, c_atom
 
+def rank_ge_by_q2_support(ge_df, idx):
+    """Rank (G,E) pairs by pathway connectivity (deterministic Q2 approximation)."""
+    E_to_R  = idx['E_to_R']
+    R_to_E  = idx['R_to_E']
+    E_to_G  = idx['E_to_G']
+    adj     = idx['adj']
+
+    # Precompute which E' have any genes (faster membership test)
+    E_has_gene = {e for e, genes in E_to_G.items() if genes}
+
+    rows = []
+    for G, E in ge_df[['G','EC']].itertuples(index=False):
+        if E not in E_to_R:
+            continue
+
+        seen_paths = set()
+        seen_E2    = set()
+        seen_R2    = set()
+
+        # For each reaction Ra using E, walk one RCR step to Rb, then to enzymes E2 at Rb
+        for Ra in E_to_R[E]:
+            for Rb in adj.get(Ra, ()):
+                for E2 in R_to_E.get(Rb, ()):
+                    if E2 in E_has_gene:
+                        seen_paths.add((Ra, Rb, E2))
+                        seen_E2.add(E2)
+                        seen_R2.add(Rb)
+
+        rows.append((G, E, len(seen_paths), len(seen_E2), len(seen_R2)))
+
+    out = (pd.DataFrame(rows, columns=['G','EC','q2_paths','unique_E2','unique_R2'])
+             .sort_values(['q2_paths','unique_E2','unique_R2'], ascending=False, kind='mergesort')
+             .reset_index(drop=True))
+    return out
+
+
+def rank_ge_by_q2_gene_paths(ge_df, idx, exclude_same_gene=True, exclude_same_ec=False):
+    """Rank (G,E) pairs by full gene-to-gene pathway paths."""
+    E_to_R  = idx['E_to_R']   # EC -> {R}
+    R_to_E  = idx['R_to_E']   # R  -> {EC}
+    E_to_G  = idx['E_to_G']   # EC -> {G}
+    adj     = idx['adj']      # R  -> {R'}
+
+    rows = []
+    for G, E in ge_df[['G','EC']].itertuples(index=False):
+        if E not in E_to_R:
+            continue
+
+        seen_paths = set()  # (Ra, Rb, E2, G2)
+        seen_G2    = set()
+        seen_E2    = set()
+        seen_R2    = set()
+
+        for Ra in E_to_R[E]:
+            for Rb in adj.get(Ra, ()):
+                for E2 in R_to_E.get(Rb, ()):
+                    if exclude_same_ec and E2 == E:
+                        continue
+                    for G2 in E_to_G.get(E2, ()):
+                        if exclude_same_gene and G2 == G:
+                            continue
+                        seen_paths.add((Ra, Rb, E2, G2))
+                        seen_G2.add(G2)
+                        seen_E2.add(E2)
+                        seen_R2.add(Rb)
+
+        rows.append((G, E, len(seen_paths), len(seen_G2), len(seen_E2), len(seen_R2)))
+
+    out = (pd.DataFrame(rows, columns=['G','EC','q2_paths','unique_G2','unique_E2','unique_R2'])
+             .sort_values(['q2_paths','unique_G2','unique_E2','unique_R2'],
+                          ascending=False, kind='mergesort')
+             .reset_index(drop=True))
+    return out
+
 def queries_from_perturbations_str(perturbations, which="query2", include_true=True, include_injected=True):
     # allow which to be a single string or a list/tuple
     which_list = (which,) if isinstance(which, str) else tuple(which)
