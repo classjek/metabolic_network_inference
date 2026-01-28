@@ -1,0 +1,3537 @@
+﻿[
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 168053,
+    "R_stId": "R-HSA-168053",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 168136,
+    "R_stId": "R-HSA-168136",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 168162,
+    "R_stId": "R-HSA-168162",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 168166,
+    "R_stId": "R-HSA-168166",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 168184,
+    "R_stId": "R-HSA-168184",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 168440,
+    "R_stId": "R-HSA-168440",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 198669,
+    "R_stId": "R-HSA-198669",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 198731,
+    "R_stId": "R-HSA-198731",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 198746,
+    "R_stId": "R-HSA-198746",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 198756,
+    "R_stId": "R-HSA-198756",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 199895,
+    "R_stId": "R-HSA-199895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 199910,
+    "R_stId": "R-HSA-199910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 199917,
+    "R_stId": "R-HSA-199917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 199929,
+    "R_stId": "R-HSA-199929",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 199935,
+    "R_stId": "R-HSA-199935",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 199959,
+    "R_stId": "R-HSA-199959",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 203797,
+    "R_stId": "R-HSA-203797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 209061,
+    "R_stId": "R-HSA-209061",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 209063,
+    "R_stId": "R-HSA-209063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 209087,
+    "R_stId": "R-HSA-209087",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 209125,
+    "R_stId": "R-HSA-209125",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 445752,
+    "R_stId": "R-HSA-445752",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 445753,
+    "R_stId": "R-HSA-445753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 445757,
+    "R_stId": "R-HSA-445757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446130,
+    "R_stId": "R-HSA-446130",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446634,
+    "R_stId": "R-HSA-446634",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446648,
+    "R_stId": "R-HSA-446648",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446684,
+    "R_stId": "R-HSA-446684",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446692,
+    "R_stId": "R-HSA-446692",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446694,
+    "R_stId": "R-HSA-446694",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446701,
+    "R_stId": "R-HSA-446701",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446862,
+    "R_stId": "R-HSA-446862",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446868,
+    "R_stId": "R-HSA-446868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446870,
+    "R_stId": "R-HSA-446870",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446877,
+    "R_stId": "R-HSA-446877",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 446894,
+    "R_stId": "R-HSA-446894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 447130,
+    "R_stId": "R-HSA-447130",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 447219,
+    "R_stId": "R-HSA-447219",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 447226,
+    "R_stId": "R-HSA-447226",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 447246,
+    "R_stId": "R-HSA-447246",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 447252,
+    "R_stId": "R-HSA-447252",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448421,
+    "R_stId": "R-HSA-448421",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448427,
+    "R_stId": "R-HSA-448427",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448480,
+    "R_stId": "R-HSA-448480",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448591,
+    "R_stId": "R-HSA-448591",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448603,
+    "R_stId": "R-HSA-448603",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448627,
+    "R_stId": "R-HSA-448627",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448629,
+    "R_stId": "R-HSA-448629",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448632,
+    "R_stId": "R-HSA-448632",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448660,
+    "R_stId": "R-HSA-448660",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448661,
+    "R_stId": "R-HSA-448661",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448673,
+    "R_stId": "R-HSA-448673",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448678,
+    "R_stId": "R-HSA-448678",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448702,
+    "R_stId": "R-HSA-448702",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448703,
+    "R_stId": "R-HSA-448703",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448708,
+    "R_stId": "R-HSA-448708",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448728,
+    "R_stId": "R-HSA-448728",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448741,
+    "R_stId": "R-HSA-448741",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 448744,
+    "R_stId": "R-HSA-448744",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449058,
+    "R_stId": "R-HSA-449058",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449073,
+    "R_stId": "R-HSA-449073",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449077,
+    "R_stId": "R-HSA-449077",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449087,
+    "R_stId": "R-HSA-449087",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449115,
+    "R_stId": "R-HSA-449115",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449117,
+    "R_stId": "R-HSA-449117",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449803,
+    "R_stId": "R-HSA-449803",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449811,
+    "R_stId": "R-HSA-449811",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449818,
+    "R_stId": "R-HSA-449818",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449829,
+    "R_stId": "R-HSA-449829",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449855,
+    "R_stId": "R-HSA-449855",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449958,
+    "R_stId": "R-HSA-449958",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449976,
+    "R_stId": "R-HSA-449976",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 449978,
+    "R_stId": "R-HSA-449978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450027,
+    "R_stId": "R-HSA-450027",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450031,
+    "R_stId": "R-HSA-450031",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450054,
+    "R_stId": "R-HSA-450054",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450063,
+    "R_stId": "R-HSA-450063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450074,
+    "R_stId": "R-HSA-450074",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450133,
+    "R_stId": "R-HSA-450133",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450173,
+    "R_stId": "R-HSA-450173",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450187,
+    "R_stId": "R-HSA-450187",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450222,
+    "R_stId": "R-HSA-450222",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450257,
+    "R_stId": "R-HSA-450257",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450292,
+    "R_stId": "R-HSA-450292",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450296,
+    "R_stId": "R-HSA-450296",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450325,
+    "R_stId": "R-HSA-450325",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450333,
+    "R_stId": "R-HSA-450333",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450337,
+    "R_stId": "R-HSA-450337",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450346,
+    "R_stId": "R-HSA-450346",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450348,
+    "R_stId": "R-HSA-450348",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450690,
+    "R_stId": "R-HSA-450690",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 450827,
+    "R_stId": "R-HSA-450827",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451418,
+    "R_stId": "R-HSA-451418",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451561,
+    "R_stId": "R-HSA-451561",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451634,
+    "R_stId": "R-HSA-451634",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451649,
+    "R_stId": "R-HSA-451649",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451895,
+    "R_stId": "R-HSA-451895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451900,
+    "R_stId": "R-HSA-451900",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 451942,
+    "R_stId": "R-HSA-451942",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 452091,
+    "R_stId": "R-HSA-452091",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 452097,
+    "R_stId": "R-HSA-452097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 452100,
+    "R_stId": "R-HSA-452100",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 452102,
+    "R_stId": "R-HSA-452102",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 452108,
+    "R_stId": "R-HSA-452108",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 452122,
+    "R_stId": "R-HSA-452122",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 453104,
+    "R_stId": "R-HSA-453104",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 453111,
+    "R_stId": "R-HSA-453111",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 507719,
+    "R_stId": "R-HSA-507719",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 507937,
+    "R_stId": "R-HSA-507937",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 508247,
+    "R_stId": "R-HSA-508247",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 508282,
+    "R_stId": "R-HSA-508282",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 508292,
+    "R_stId": "R-HSA-508292",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 508451,
+    "R_stId": "R-HSA-508451",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 508513,
+    "R_stId": "R-HSA-508513",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 727819,
+    "R_stId": "R-HSA-727819",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879907,
+    "R_stId": "R-HSA-879907",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879909,
+    "R_stId": "R-HSA-879909",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879910,
+    "R_stId": "R-HSA-879910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879914,
+    "R_stId": "R-HSA-879914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879917,
+    "R_stId": "R-HSA-879917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879925,
+    "R_stId": "R-HSA-879925",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879930,
+    "R_stId": "R-HSA-879930",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879934,
+    "R_stId": "R-HSA-879934",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879937,
+    "R_stId": "R-HSA-879937",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 879942,
+    "R_stId": "R-HSA-879942",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 909738,
+    "R_stId": "R-HSA-909738",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912527,
+    "R_stId": "R-HSA-912527",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912627,
+    "R_stId": "R-HSA-912627",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912629,
+    "R_stId": "R-HSA-912629",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912724,
+    "R_stId": "R-HSA-912724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912727,
+    "R_stId": "R-HSA-912727",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912734,
+    "R_stId": "R-HSA-912734",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912757,
+    "R_stId": "R-HSA-912757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 912790,
+    "R_stId": "R-HSA-912790",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913360,
+    "R_stId": "R-HSA-913360",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913370,
+    "R_stId": "R-HSA-913370",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913371,
+    "R_stId": "R-HSA-913371",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913374,
+    "R_stId": "R-HSA-913374",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913424,
+    "R_stId": "R-HSA-913424",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913446,
+    "R_stId": "R-HSA-913446",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913451,
+    "R_stId": "R-HSA-913451",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 913456,
+    "R_stId": "R-HSA-913456",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 914022,
+    "R_stId": "R-HSA-914022",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 914036,
+    "R_stId": "R-HSA-914036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 914182,
+    "R_stId": "R-HSA-914182",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 919404,
+    "R_stId": "R-HSA-919404",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 921155,
+    "R_stId": "R-HSA-921155",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067640,
+    "R_stId": "R-HSA-1067640",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067646,
+    "R_stId": "R-HSA-1067646",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067651,
+    "R_stId": "R-HSA-1067651",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067659,
+    "R_stId": "R-HSA-1067659",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067667,
+    "R_stId": "R-HSA-1067667",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067676,
+    "R_stId": "R-HSA-1067676",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1067688,
+    "R_stId": "R-HSA-1067688",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112510,
+    "R_stId": "R-HSA-1112510",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112514,
+    "R_stId": "R-HSA-1112514",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112538,
+    "R_stId": "R-HSA-1112538",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112565,
+    "R_stId": "R-HSA-1112565",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112587,
+    "R_stId": "R-HSA-1112587",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112602,
+    "R_stId": "R-HSA-1112602",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112604,
+    "R_stId": "R-HSA-1112604",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112690,
+    "R_stId": "R-HSA-1112690",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112703,
+    "R_stId": "R-HSA-1112703",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112708,
+    "R_stId": "R-HSA-1112708",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112727,
+    "R_stId": "R-HSA-1112727",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1112755,
+    "R_stId": "R-HSA-1112755",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1264832,
+    "R_stId": "R-HSA-1264832",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1266684,
+    "R_stId": "R-HSA-1266684",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1295516,
+    "R_stId": "R-HSA-1295516",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1295519,
+    "R_stId": "R-HSA-1295519",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 1295540,
+    "R_stId": "R-HSA-1295540",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 2730894,
+    "R_stId": "R-HSA-2730894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5340385,
+    "R_stId": "R-HSA-5340385",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5609665,
+    "R_stId": "R-HSA-5609665",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5678544,
+    "R_stId": "R-HSA-5678544",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5684248,
+    "R_stId": "R-HSA-5684248",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5684250,
+    "R_stId": "R-HSA-5684250",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5684261,
+    "R_stId": "R-HSA-5684261",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5684267,
+    "R_stId": "R-HSA-5684267",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5684273,
+    "R_stId": "R-HSA-5684273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5684275,
+    "R_stId": "R-HSA-5684275",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5696482,
+    "R_stId": "R-HSA-5696482",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5696490,
+    "R_stId": "R-HSA-5696490",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 5696491,
+    "R_stId": "R-HSA-5696491",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6783524,
+    "R_stId": "R-HSA-6783524",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6783530,
+    "R_stId": "R-HSA-6783530",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6783552,
+    "R_stId": "R-HSA-6783552",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6783556,
+    "R_stId": "R-HSA-6783556",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6783670,
+    "R_stId": "R-HSA-6783670",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6783681,
+    "R_stId": "R-HSA-6783681",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784006,
+    "R_stId": "R-HSA-6784006",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784160,
+    "R_stId": "R-HSA-6784160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784189,
+    "R_stId": "R-HSA-6784189",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784204,
+    "R_stId": "R-HSA-6784204",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784319,
+    "R_stId": "R-HSA-6784319",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784323,
+    "R_stId": "R-HSA-6784323",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784324,
+    "R_stId": "R-HSA-6784324",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784763,
+    "R_stId": "R-HSA-6784763",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784765,
+    "R_stId": "R-HSA-6784765",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6784791,
+    "R_stId": "R-HSA-6784791",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785047,
+    "R_stId": "R-HSA-6785047",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785165,
+    "R_stId": "R-HSA-6785165",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785762,
+    "R_stId": "R-HSA-6785762",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785821,
+    "R_stId": "R-HSA-6785821",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785860,
+    "R_stId": "R-HSA-6785860",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785895,
+    "R_stId": "R-HSA-6785895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6785898,
+    "R_stId": "R-HSA-6785898",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786050,
+    "R_stId": "R-HSA-6786050",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786058,
+    "R_stId": "R-HSA-6786058",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786070,
+    "R_stId": "R-HSA-6786070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786072,
+    "R_stId": "R-HSA-6786072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786092,
+    "R_stId": "R-HSA-6786092",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786095,
+    "R_stId": "R-HSA-6786095",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786096,
+    "R_stId": "R-HSA-6786096",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786097,
+    "R_stId": "R-HSA-6786097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786101,
+    "R_stId": "R-HSA-6786101",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786110,
+    "R_stId": "R-HSA-6786110",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786114,
+    "R_stId": "R-HSA-6786114",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786118,
+    "R_stId": "R-HSA-6786118",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786124,
+    "R_stId": "R-HSA-6786124",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6786293,
+    "R_stId": "R-HSA-6786293",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6787737,
+    "R_stId": "R-HSA-6787737",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6787820,
+    "R_stId": "R-HSA-6787820",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6788346,
+    "R_stId": "R-HSA-6788346",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6788571,
+    "R_stId": "R-HSA-6788571",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6788582,
+    "R_stId": "R-HSA-6788582",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6788622,
+    "R_stId": "R-HSA-6788622",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6788623,
+    "R_stId": "R-HSA-6788623",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6788628,
+    "R_stId": "R-HSA-6788628",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6789325,
+    "R_stId": "R-HSA-6789325",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6789524,
+    "R_stId": "R-HSA-6789524",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6789615,
+    "R_stId": "R-HSA-6789615",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6789960,
+    "R_stId": "R-HSA-6789960",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6790022,
+    "R_stId": "R-HSA-6790022",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6790025,
+    "R_stId": "R-HSA-6790025",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6790029,
+    "R_stId": "R-HSA-6790029",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6790036,
+    "R_stId": "R-HSA-6790036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6790038,
+    "R_stId": "R-HSA-6790038",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6790041,
+    "R_stId": "R-HSA-6790041",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6793958,
+    "R_stId": "R-HSA-6793958",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6793975,
+    "R_stId": "R-HSA-6793975",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6793978,
+    "R_stId": "R-HSA-6793978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6797245,
+    "R_stId": "R-HSA-6797245",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6797267,
+    "R_stId": "R-HSA-6797267",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6797268,
+    "R_stId": "R-HSA-6797268",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6797269,
+    "R_stId": "R-HSA-6797269",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6797271,
+    "R_stId": "R-HSA-6797271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6797293,
+    "R_stId": "R-HSA-6797293",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 6809140,
+    "R_stId": "R-HSA-6809140",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8848314,
+    "R_stId": "R-HSA-8848314",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8848316,
+    "R_stId": "R-HSA-8848316",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8848335,
+    "R_stId": "R-HSA-8848335",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8848370,
+    "R_stId": "R-HSA-8848370",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8848392,
+    "R_stId": "R-HSA-8848392",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8848395,
+    "R_stId": "R-HSA-8848395",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8854645,
+    "R_stId": "R-HSA-8854645",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8854738,
+    "R_stId": "R-HSA-8854738",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8865605,
+    "R_stId": "R-HSA-8865605",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8865613,
+    "R_stId": "R-HSA-8865613",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8865626,
+    "R_stId": "R-HSA-8865626",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8865693,
+    "R_stId": "R-HSA-8865693",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8865711,
+    "R_stId": "R-HSA-8865711",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8937654,
+    "R_stId": "R-HSA-8937654",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8937656,
+    "R_stId": "R-HSA-8937656",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8940998,
+    "R_stId": "R-HSA-8940998",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8948015,
+    "R_stId": "R-HSA-8948015",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8948018,
+    "R_stId": "R-HSA-8948018",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8948063,
+    "R_stId": "R-HSA-8948063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8948066,
+    "R_stId": "R-HSA-8948066",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950057,
+    "R_stId": "R-HSA-8950057",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950063,
+    "R_stId": "R-HSA-8950063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950113,
+    "R_stId": "R-HSA-8950113",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950128,
+    "R_stId": "R-HSA-8950128",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950173,
+    "R_stId": "R-HSA-8950173",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950175,
+    "R_stId": "R-HSA-8950175",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950179,
+    "R_stId": "R-HSA-8950179",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950181,
+    "R_stId": "R-HSA-8950181",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950183,
+    "R_stId": "R-HSA-8950183",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950190,
+    "R_stId": "R-HSA-8950190",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950201,
+    "R_stId": "R-HSA-8950201",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950210,
+    "R_stId": "R-HSA-8950210",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950213,
+    "R_stId": "R-HSA-8950213",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950218,
+    "R_stId": "R-HSA-8950218",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950225,
+    "R_stId": "R-HSA-8950225",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950260,
+    "R_stId": "R-HSA-8950260",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950269,
+    "R_stId": "R-HSA-8950269",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950271,
+    "R_stId": "R-HSA-8950271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950292,
+    "R_stId": "R-HSA-8950292",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950314,
+    "R_stId": "R-HSA-8950314",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950322,
+    "R_stId": "R-HSA-8950322",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950328,
+    "R_stId": "R-HSA-8950328",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950340,
+    "R_stId": "R-HSA-8950340",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950342,
+    "R_stId": "R-HSA-8950342",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950344,
+    "R_stId": "R-HSA-8950344",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950347,
+    "R_stId": "R-HSA-8950347",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950354,
+    "R_stId": "R-HSA-8950354",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950362,
+    "R_stId": "R-HSA-8950362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950364,
+    "R_stId": "R-HSA-8950364",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950365,
+    "R_stId": "R-HSA-8950365",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950367,
+    "R_stId": "R-HSA-8950367",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950387,
+    "R_stId": "R-HSA-8950387",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950389,
+    "R_stId": "R-HSA-8950389",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950398,
+    "R_stId": "R-HSA-8950398",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950405,
+    "R_stId": "R-HSA-8950405",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950410,
+    "R_stId": "R-HSA-8950410",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950415,
+    "R_stId": "R-HSA-8950415",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950423,
+    "R_stId": "R-HSA-8950423",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950426,
+    "R_stId": "R-HSA-8950426",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950441,
+    "R_stId": "R-HSA-8950441",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950448,
+    "R_stId": "R-HSA-8950448",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950453,
+    "R_stId": "R-HSA-8950453",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950456,
+    "R_stId": "R-HSA-8950456",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950480,
+    "R_stId": "R-HSA-8950480",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950485,
+    "R_stId": "R-HSA-8950485",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950504,
+    "R_stId": "R-HSA-8950504",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950518,
+    "R_stId": "R-HSA-8950518",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950522,
+    "R_stId": "R-HSA-8950522",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950533,
+    "R_stId": "R-HSA-8950533",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950537,
+    "R_stId": "R-HSA-8950537",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950567,
+    "R_stId": "R-HSA-8950567",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950575,
+    "R_stId": "R-HSA-8950575",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950581,
+    "R_stId": "R-HSA-8950581",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950583,
+    "R_stId": "R-HSA-8950583",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950586,
+    "R_stId": "R-HSA-8950586",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950591,
+    "R_stId": "R-HSA-8950591",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950608,
+    "R_stId": "R-HSA-8950608",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950623,
+    "R_stId": "R-HSA-8950623",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950634,
+    "R_stId": "R-HSA-8950634",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950637,
+    "R_stId": "R-HSA-8950637",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950674,
+    "R_stId": "R-HSA-8950674",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950681,
+    "R_stId": "R-HSA-8950681",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950684,
+    "R_stId": "R-HSA-8950684",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950716,
+    "R_stId": "R-HSA-8950716",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950718,
+    "R_stId": "R-HSA-8950718",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950721,
+    "R_stId": "R-HSA-8950721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950724,
+    "R_stId": "R-HSA-8950724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950731,
+    "R_stId": "R-HSA-8950731",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950732,
+    "R_stId": "R-HSA-8950732",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950733,
+    "R_stId": "R-HSA-8950733",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950737,
+    "R_stId": "R-HSA-8950737",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950740,
+    "R_stId": "R-HSA-8950740",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950741,
+    "R_stId": "R-HSA-8950741",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950752,
+    "R_stId": "R-HSA-8950752",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950757,
+    "R_stId": "R-HSA-8950757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950766,
+    "R_stId": "R-HSA-8950766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950771,
+    "R_stId": "R-HSA-8950771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950778,
+    "R_stId": "R-HSA-8950778",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950780,
+    "R_stId": "R-HSA-8950780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8950782,
+    "R_stId": "R-HSA-8950782",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8952749,
+    "R_stId": "R-HSA-8952749",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8952807,
+    "R_stId": "R-HSA-8952807",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8952823,
+    "R_stId": "R-HSA-8952823",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8963734,
+    "R_stId": "R-HSA-8963734",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8981073,
+    "R_stId": "R-HSA-8981073",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8981093,
+    "R_stId": "R-HSA-8981093",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8981657,
+    "R_stId": "R-HSA-8981657",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8982162,
+    "R_stId": "R-HSA-8982162",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8982163,
+    "R_stId": "R-HSA-8982163",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8982165,
+    "R_stId": "R-HSA-8982165",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983003,
+    "R_stId": "R-HSA-8983003",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983011,
+    "R_stId": "R-HSA-8983011",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983059,
+    "R_stId": "R-HSA-8983059",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983061,
+    "R_stId": "R-HSA-8983061",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983063,
+    "R_stId": "R-HSA-8983063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983077,
+    "R_stId": "R-HSA-8983077",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983078,
+    "R_stId": "R-HSA-8983078",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983298,
+    "R_stId": "R-HSA-8983298",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983299,
+    "R_stId": "R-HSA-8983299",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983300,
+    "R_stId": "R-HSA-8983300",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983307,
+    "R_stId": "R-HSA-8983307",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983309,
+    "R_stId": "R-HSA-8983309",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983335,
+    "R_stId": "R-HSA-8983335",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983371,
+    "R_stId": "R-HSA-8983371",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983373,
+    "R_stId": "R-HSA-8983373",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983374,
+    "R_stId": "R-HSA-8983374",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983378,
+    "R_stId": "R-HSA-8983378",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983379,
+    "R_stId": "R-HSA-8983379",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983384,
+    "R_stId": "R-HSA-8983384",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983394,
+    "R_stId": "R-HSA-8983394",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983424,
+    "R_stId": "R-HSA-8983424",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983425,
+    "R_stId": "R-HSA-8983425",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983518,
+    "R_stId": "R-HSA-8983518",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983519,
+    "R_stId": "R-HSA-8983519",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983834,
+    "R_stId": "R-HSA-8983834",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983835,
+    "R_stId": "R-HSA-8983835",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983841,
+    "R_stId": "R-HSA-8983841",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983845,
+    "R_stId": "R-HSA-8983845",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983870,
+    "R_stId": "R-HSA-8983870",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983872,
+    "R_stId": "R-HSA-8983872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983876,
+    "R_stId": "R-HSA-8983876",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983878,
+    "R_stId": "R-HSA-8983878",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983983,
+    "R_stId": "R-HSA-8983983",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8983996,
+    "R_stId": "R-HSA-8983996",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984001,
+    "R_stId": "R-HSA-8984001",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984012,
+    "R_stId": "R-HSA-8984012",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984014,
+    "R_stId": "R-HSA-8984014",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984021,
+    "R_stId": "R-HSA-8984021",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984023,
+    "R_stId": "R-HSA-8984023",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984963,
+    "R_stId": "R-HSA-8984963",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8984964,
+    "R_stId": "R-HSA-8984964",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985900,
+    "R_stId": "R-HSA-8985900",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985914,
+    "R_stId": "R-HSA-8985914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985929,
+    "R_stId": "R-HSA-8985929",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985943,
+    "R_stId": "R-HSA-8985943",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985950,
+    "R_stId": "R-HSA-8985950",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985966,
+    "R_stId": "R-HSA-8985966",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985973,
+    "R_stId": "R-HSA-8985973",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985981,
+    "R_stId": "R-HSA-8985981",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8985988,
+    "R_stId": "R-HSA-8985988",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8986446,
+    "R_stId": "R-HSA-8986446",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8986480,
+    "R_stId": "R-HSA-8986480",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8986972,
+    "R_stId": "R-HSA-8986972",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8986985,
+    "R_stId": "R-HSA-8986985",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8986994,
+    "R_stId": "R-HSA-8986994",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8986995,
+    "R_stId": "R-HSA-8986995",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987007,
+    "R_stId": "R-HSA-8987007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987012,
+    "R_stId": "R-HSA-8987012",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987014,
+    "R_stId": "R-HSA-8987014",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987015,
+    "R_stId": "R-HSA-8987015",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987033,
+    "R_stId": "R-HSA-8987033",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987039,
+    "R_stId": "R-HSA-8987039",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987040,
+    "R_stId": "R-HSA-8987040",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987042,
+    "R_stId": "R-HSA-8987042",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987043,
+    "R_stId": "R-HSA-8987043",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987052,
+    "R_stId": "R-HSA-8987052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987063,
+    "R_stId": "R-HSA-8987063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987070,
+    "R_stId": "R-HSA-8987070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987080,
+    "R_stId": "R-HSA-8987080",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987084,
+    "R_stId": "R-HSA-8987084",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987096,
+    "R_stId": "R-HSA-8987096",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987097,
+    "R_stId": "R-HSA-8987097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987104,
+    "R_stId": "R-HSA-8987104",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987105,
+    "R_stId": "R-HSA-8987105",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987120,
+    "R_stId": "R-HSA-8987120",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987129,
+    "R_stId": "R-HSA-8987129",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987132,
+    "R_stId": "R-HSA-8987132",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987141,
+    "R_stId": "R-HSA-8987141",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987150,
+    "R_stId": "R-HSA-8987150",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987156,
+    "R_stId": "R-HSA-8987156",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987161,
+    "R_stId": "R-HSA-8987161",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987179,
+    "R_stId": "R-HSA-8987179",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987202,
+    "R_stId": "R-HSA-8987202",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987214,
+    "R_stId": "R-HSA-8987214",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987218,
+    "R_stId": "R-HSA-8987218",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987220,
+    "R_stId": "R-HSA-8987220",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987223,
+    "R_stId": "R-HSA-8987223",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987230,
+    "R_stId": "R-HSA-8987230",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987236,
+    "R_stId": "R-HSA-8987236",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987255,
+    "R_stId": "R-HSA-8987255",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987266,
+    "R_stId": "R-HSA-8987266",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 8987270,
+    "R_stId": "R-HSA-8987270",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9005340,
+    "R_stId": "R-HSA-9005340",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9005980,
+    "R_stId": "R-HSA-9005980",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9006431,
+    "R_stId": "R-HSA-9006431",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9006844,
+    "R_stId": "R-HSA-9006844",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9006850,
+    "R_stId": "R-HSA-9006850",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9006870,
+    "R_stId": "R-HSA-9006870",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9006873,
+    "R_stId": "R-HSA-9006873",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9007882,
+    "R_stId": "R-HSA-9007882",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9007901,
+    "R_stId": "R-HSA-9007901",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008043,
+    "R_stId": "R-HSA-9008043",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008052,
+    "R_stId": "R-HSA-9008052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008054,
+    "R_stId": "R-HSA-9008054",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008577,
+    "R_stId": "R-HSA-9008577",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008587,
+    "R_stId": "R-HSA-9008587",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008684,
+    "R_stId": "R-HSA-9008684",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008692,
+    "R_stId": "R-HSA-9008692",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008694,
+    "R_stId": "R-HSA-9008694",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008696,
+    "R_stId": "R-HSA-9008696",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008894,
+    "R_stId": "R-HSA-9008894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9008928,
+    "R_stId": "R-HSA-9008928",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009072,
+    "R_stId": "R-HSA-9009072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009227,
+    "R_stId": "R-HSA-9009227",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009485,
+    "R_stId": "R-HSA-9009485",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009488,
+    "R_stId": "R-HSA-9009488",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009554,
+    "R_stId": "R-HSA-9009554",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009558,
+    "R_stId": "R-HSA-9009558",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009700,
+    "R_stId": "R-HSA-9009700",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9009910,
+    "R_stId": "R-HSA-9009910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9011748,
+    "R_stId": "R-HSA-9011748",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9012542,
+    "R_stId": "R-HSA-9012542",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9012556,
+    "R_stId": "R-HSA-9012556",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9012671,
+    "R_stId": "R-HSA-9012671",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9012689,
+    "R_stId": "R-HSA-9012689",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9014052,
+    "R_stId": "R-HSA-9014052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9014074,
+    "R_stId": "R-HSA-9014074",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9025969,
+    "R_stId": "R-HSA-9025969",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9617941,
+    "R_stId": "R-HSA-9617941",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9630923,
+    "R_stId": "R-HSA-9630923",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9679028,
+    "R_stId": "R-HSA-9679028",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9681294,
+    "R_stId": "R-HSA-9681294",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9681763,
+    "R_stId": "R-HSA-9681763",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9749464,
+    "R_stId": "R-HSA-9749464",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9749471,
+    "R_stId": "R-HSA-9749471",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9749487,
+    "R_stId": "R-HSA-9749487",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9749494,
+    "R_stId": "R-HSA-9749494",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9749505,
+    "R_stId": "R-HSA-9749505",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9750226,
+    "R_stId": "R-HSA-9750226",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9750942,
+    "R_stId": "R-HSA-9750942",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9750946,
+    "R_stId": "R-HSA-9750946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9757951,
+    "R_stId": "R-HSA-9757951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9757954,
+    "R_stId": "R-HSA-9757954",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9758604,
+    "R_stId": "R-HSA-9758604",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9761344,
+    "R_stId": "R-HSA-9761344",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Signaling by Interleukins",
+    "pathway_stId": "R-HSA-449147",
+    "R": 9773803,
+    "R_stId": "R-HSA-9773803",
+    "species": "Homo sapiens"
+  }
+]

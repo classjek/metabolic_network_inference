@@ -1,0 +1,5336 @@
+﻿[
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 74448,
+    "R_stId": "R-HSA-74448",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166015,
+    "R_stId": "R-HSA-166015",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166038,
+    "R_stId": "R-HSA-166038",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166041,
+    "R_stId": "R-HSA-166041",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166072,
+    "R_stId": "R-HSA-166072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166082,
+    "R_stId": "R-HSA-166082",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166091,
+    "R_stId": "R-HSA-166091",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166119,
+    "R_stId": "R-HSA-166119",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166168,
+    "R_stId": "R-HSA-166168",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166175,
+    "R_stId": "R-HSA-166175",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166245,
+    "R_stId": "R-HSA-166245",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166271,
+    "R_stId": "R-HSA-166271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166284,
+    "R_stId": "R-HSA-166284",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166286,
+    "R_stId": "R-HSA-166286",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166362,
+    "R_stId": "R-HSA-166362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166363,
+    "R_stId": "R-HSA-166363",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166721,
+    "R_stId": "R-HSA-166721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166726,
+    "R_stId": "R-HSA-166726",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166753,
+    "R_stId": "R-HSA-166753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166792,
+    "R_stId": "R-HSA-166792",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166795,
+    "R_stId": "R-HSA-166795",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166817,
+    "R_stId": "R-HSA-166817",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 166869,
+    "R_stId": "R-HSA-166869",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 167686,
+    "R_stId": "R-HSA-167686",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 167983,
+    "R_stId": "R-HSA-167983",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168053,
+    "R_stId": "R-HSA-168053",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168092,
+    "R_stId": "R-HSA-168092",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168136,
+    "R_stId": "R-HSA-168136",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168140,
+    "R_stId": "R-HSA-168140",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168162,
+    "R_stId": "R-HSA-168162",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168166,
+    "R_stId": "R-HSA-168166",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168184,
+    "R_stId": "R-HSA-168184",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168400,
+    "R_stId": "R-HSA-168400",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168405,
+    "R_stId": "R-HSA-168405",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168412,
+    "R_stId": "R-HSA-168412",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168440,
+    "R_stId": "R-HSA-168440",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168909,
+    "R_stId": "R-HSA-168909",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168910,
+    "R_stId": "R-HSA-168910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168915,
+    "R_stId": "R-HSA-168915",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168921,
+    "R_stId": "R-HSA-168921",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168929,
+    "R_stId": "R-HSA-168929",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168930,
+    "R_stId": "R-HSA-168930",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168933,
+    "R_stId": "R-HSA-168933",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168934,
+    "R_stId": "R-HSA-168934",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168935,
+    "R_stId": "R-HSA-168935",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168947,
+    "R_stId": "R-HSA-168947",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168950,
+    "R_stId": "R-HSA-168950",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 168951,
+    "R_stId": "R-HSA-168951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 169680,
+    "R_stId": "R-HSA-169680",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 169683,
+    "R_stId": "R-HSA-169683",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 169719,
+    "R_stId": "R-HSA-169719",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173626,
+    "R_stId": "R-HSA-173626",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173631,
+    "R_stId": "R-HSA-173631",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173636,
+    "R_stId": "R-HSA-173636",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173680,
+    "R_stId": "R-HSA-173680",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173705,
+    "R_stId": "R-HSA-173705",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173709,
+    "R_stId": "R-HSA-173709",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173720,
+    "R_stId": "R-HSA-173720",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173723,
+    "R_stId": "R-HSA-173723",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173725,
+    "R_stId": "R-HSA-173725",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173739,
+    "R_stId": "R-HSA-173739",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173740,
+    "R_stId": "R-HSA-173740",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173745,
+    "R_stId": "R-HSA-173745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 173754,
+    "R_stId": "R-HSA-173754",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 174551,
+    "R_stId": "R-HSA-174551",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 177671,
+    "R_stId": "R-HSA-177671",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 177690,
+    "R_stId": "R-HSA-177690",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 177692,
+    "R_stId": "R-HSA-177692",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 177694,
+    "R_stId": "R-HSA-177694",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 183122,
+    "R_stId": "R-HSA-183122",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 183126,
+    "R_stId": "R-HSA-183126",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 183130,
+    "R_stId": "R-HSA-183130",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 187895,
+    "R_stId": "R-HSA-187895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 188002,
+    "R_stId": "R-HSA-188002",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 188025,
+    "R_stId": "R-HSA-188025",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 198314,
+    "R_stId": "R-HSA-198314",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 198669,
+    "R_stId": "R-HSA-198669",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 198731,
+    "R_stId": "R-HSA-198731",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 198746,
+    "R_stId": "R-HSA-198746",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 198756,
+    "R_stId": "R-HSA-198756",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 199895,
+    "R_stId": "R-HSA-199895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 199910,
+    "R_stId": "R-HSA-199910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 199917,
+    "R_stId": "R-HSA-199917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 199929,
+    "R_stId": "R-HSA-199929",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 199935,
+    "R_stId": "R-HSA-199935",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 199959,
+    "R_stId": "R-HSA-199959",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 202164,
+    "R_stId": "R-HSA-202164",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 202328,
+    "R_stId": "R-HSA-202328",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 202534,
+    "R_stId": "R-HSA-202534",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 202541,
+    "R_stId": "R-HSA-202541",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 203797,
+    "R_stId": "R-HSA-203797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210271,
+    "R_stId": "R-HSA-210271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210273,
+    "R_stId": "R-HSA-210273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210274,
+    "R_stId": "R-HSA-210274",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210289,
+    "R_stId": "R-HSA-210289",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210292,
+    "R_stId": "R-HSA-210292",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210295,
+    "R_stId": "R-HSA-210295",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210298,
+    "R_stId": "R-HSA-210298",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210300,
+    "R_stId": "R-HSA-210300",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 210309,
+    "R_stId": "R-HSA-210309",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 375395,
+    "R_stId": "R-HSA-375395",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 399950,
+    "R_stId": "R-HSA-399950",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 418436,
+    "R_stId": "R-HSA-418436",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 419644,
+    "R_stId": "R-HSA-419644",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 419645,
+    "R_stId": "R-HSA-419645",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 435171,
+    "R_stId": "R-HSA-435171",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 442586,
+    "R_stId": "R-HSA-442586",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 442592,
+    "R_stId": "R-HSA-442592",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 444647,
+    "R_stId": "R-HSA-444647",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450222,
+    "R_stId": "R-HSA-450222",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450257,
+    "R_stId": "R-HSA-450257",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450259,
+    "R_stId": "R-HSA-450259",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450292,
+    "R_stId": "R-HSA-450292",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450296,
+    "R_stId": "R-HSA-450296",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450325,
+    "R_stId": "R-HSA-450325",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450333,
+    "R_stId": "R-HSA-450333",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450337,
+    "R_stId": "R-HSA-450337",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450346,
+    "R_stId": "R-HSA-450346",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450348,
+    "R_stId": "R-HSA-450348",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 450358,
+    "R_stId": "R-HSA-450358",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 451634,
+    "R_stId": "R-HSA-451634",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 451649,
+    "R_stId": "R-HSA-451649",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 622310,
+    "R_stId": "R-HSA-622310",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 622415,
+    "R_stId": "R-HSA-622415",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 622420,
+    "R_stId": "R-HSA-622420",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 688136,
+    "R_stId": "R-HSA-688136",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 688137,
+    "R_stId": "R-HSA-688137",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 688985,
+    "R_stId": "R-HSA-688985",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 706479,
+    "R_stId": "R-HSA-706479",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 708349,
+    "R_stId": "R-HSA-708349",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 727819,
+    "R_stId": "R-HSA-727819",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 741386,
+    "R_stId": "R-HSA-741386",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 741395,
+    "R_stId": "R-HSA-741395",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 741411,
+    "R_stId": "R-HSA-741411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844438,
+    "R_stId": "R-HSA-844438",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844440,
+    "R_stId": "R-HSA-844440",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844447,
+    "R_stId": "R-HSA-844447",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844610,
+    "R_stId": "R-HSA-844610",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844612,
+    "R_stId": "R-HSA-844612",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844617,
+    "R_stId": "R-HSA-844617",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844618,
+    "R_stId": "R-HSA-844618",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844619,
+    "R_stId": "R-HSA-844619",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 844620,
+    "R_stId": "R-HSA-844620",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 847070,
+    "R_stId": "R-HSA-847070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 873951,
+    "R_stId": "R-HSA-873951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 874079,
+    "R_stId": "R-HSA-874079",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 874084,
+    "R_stId": "R-HSA-874084",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 874087,
+    "R_stId": "R-HSA-874087",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 877158,
+    "R_stId": "R-HSA-877158",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 877178,
+    "R_stId": "R-HSA-877178",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 877187,
+    "R_stId": "R-HSA-877187",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 877198,
+    "R_stId": "R-HSA-877198",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 877361,
+    "R_stId": "R-HSA-877361",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879201,
+    "R_stId": "R-HSA-879201",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879221,
+    "R_stId": "R-HSA-879221",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879222,
+    "R_stId": "R-HSA-879222",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879358,
+    "R_stId": "R-HSA-879358",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879362,
+    "R_stId": "R-HSA-879362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879377,
+    "R_stId": "R-HSA-879377",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 879411,
+    "R_stId": "R-HSA-879411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 913725,
+    "R_stId": "R-HSA-913725",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 918224,
+    "R_stId": "R-HSA-918224",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 918225,
+    "R_stId": "R-HSA-918225",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 918227,
+    "R_stId": "R-HSA-918227",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 918229,
+    "R_stId": "R-HSA-918229",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 918230,
+    "R_stId": "R-HSA-918230",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 918232,
+    "R_stId": "R-HSA-918232",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933523,
+    "R_stId": "R-HSA-933523",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933525,
+    "R_stId": "R-HSA-933525",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933526,
+    "R_stId": "R-HSA-933526",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933527,
+    "R_stId": "R-HSA-933527",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933528,
+    "R_stId": "R-HSA-933528",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933530,
+    "R_stId": "R-HSA-933530",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933531,
+    "R_stId": "R-HSA-933531",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933532,
+    "R_stId": "R-HSA-933532",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933533,
+    "R_stId": "R-HSA-933533",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933536,
+    "R_stId": "R-HSA-933536",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933537,
+    "R_stId": "R-HSA-933537",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933538,
+    "R_stId": "R-HSA-933538",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 933539,
+    "R_stId": "R-HSA-933539",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936378,
+    "R_stId": "R-HSA-936378",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936380,
+    "R_stId": "R-HSA-936380",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936381,
+    "R_stId": "R-HSA-936381",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936390,
+    "R_stId": "R-HSA-936390",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936412,
+    "R_stId": "R-HSA-936412",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936462,
+    "R_stId": "R-HSA-936462",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936475,
+    "R_stId": "R-HSA-936475",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936563,
+    "R_stId": "R-HSA-936563",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936564,
+    "R_stId": "R-HSA-936564",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936942,
+    "R_stId": "R-HSA-936942",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936947,
+    "R_stId": "R-HSA-936947",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936951,
+    "R_stId": "R-HSA-936951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936952,
+    "R_stId": "R-HSA-936952",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936960,
+    "R_stId": "R-HSA-936960",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936963,
+    "R_stId": "R-HSA-936963",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936985,
+    "R_stId": "R-HSA-936985",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936986,
+    "R_stId": "R-HSA-936986",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 936991,
+    "R_stId": "R-HSA-936991",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937022,
+    "R_stId": "R-HSA-937022",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937029,
+    "R_stId": "R-HSA-937029",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937032,
+    "R_stId": "R-HSA-937032",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937034,
+    "R_stId": "R-HSA-937034",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937044,
+    "R_stId": "R-HSA-937044",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937050,
+    "R_stId": "R-HSA-937050",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937059,
+    "R_stId": "R-HSA-937059",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937075,
+    "R_stId": "R-HSA-937075",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937079,
+    "R_stId": "R-HSA-937079",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937337,
+    "R_stId": "R-HSA-937337",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 937343,
+    "R_stId": "R-HSA-937343",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 964811,
+    "R_stId": "R-HSA-964811",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975097,
+    "R_stId": "R-HSA-975097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975098,
+    "R_stId": "R-HSA-975098",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975100,
+    "R_stId": "R-HSA-975100",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975103,
+    "R_stId": "R-HSA-975103",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975106,
+    "R_stId": "R-HSA-975106",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975111,
+    "R_stId": "R-HSA-975111",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975115,
+    "R_stId": "R-HSA-975115",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975118,
+    "R_stId": "R-HSA-975118",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975119,
+    "R_stId": "R-HSA-975119",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975122,
+    "R_stId": "R-HSA-975122",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975125,
+    "R_stId": "R-HSA-975125",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975134,
+    "R_stId": "R-HSA-975134",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975139,
+    "R_stId": "R-HSA-975139",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975142,
+    "R_stId": "R-HSA-975142",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975147,
+    "R_stId": "R-HSA-975147",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975156,
+    "R_stId": "R-HSA-975156",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975160,
+    "R_stId": "R-HSA-975160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975170,
+    "R_stId": "R-HSA-975170",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975175,
+    "R_stId": "R-HSA-975175",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975180,
+    "R_stId": "R-HSA-975180",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975185,
+    "R_stId": "R-HSA-975185",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975188,
+    "R_stId": "R-HSA-975188",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975852,
+    "R_stId": "R-HSA-975852",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975853,
+    "R_stId": "R-HSA-975853",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975857,
+    "R_stId": "R-HSA-975857",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975861,
+    "R_stId": "R-HSA-975861",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975865,
+    "R_stId": "R-HSA-975865",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975866,
+    "R_stId": "R-HSA-975866",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975873,
+    "R_stId": "R-HSA-975873",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975874,
+    "R_stId": "R-HSA-975874",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975878,
+    "R_stId": "R-HSA-975878",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975879,
+    "R_stId": "R-HSA-975879",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 975880,
+    "R_stId": "R-HSA-975880",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 976743,
+    "R_stId": "R-HSA-976743",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 976768,
+    "R_stId": "R-HSA-976768",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 976801,
+    "R_stId": "R-HSA-976801",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 976810,
+    "R_stId": "R-HSA-976810",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977359,
+    "R_stId": "R-HSA-977359",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977363,
+    "R_stId": "R-HSA-977363",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977371,
+    "R_stId": "R-HSA-977371",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977375,
+    "R_stId": "R-HSA-977375",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977602,
+    "R_stId": "R-HSA-977602",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977605,
+    "R_stId": "R-HSA-977605",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977615,
+    "R_stId": "R-HSA-977615",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977619,
+    "R_stId": "R-HSA-977619",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977626,
+    "R_stId": "R-HSA-977626",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 977629,
+    "R_stId": "R-HSA-977629",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981535,
+    "R_stId": "R-HSA-981535",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981539,
+    "R_stId": "R-HSA-981539",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981621,
+    "R_stId": "R-HSA-981621",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981637,
+    "R_stId": "R-HSA-981637",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981648,
+    "R_stId": "R-HSA-981648",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981658,
+    "R_stId": "R-HSA-981658",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981665,
+    "R_stId": "R-HSA-981665",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981680,
+    "R_stId": "R-HSA-981680",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981713,
+    "R_stId": "R-HSA-981713",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 981728,
+    "R_stId": "R-HSA-981728",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 990526,
+    "R_stId": "R-HSA-990526",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 990528,
+    "R_stId": "R-HSA-990528",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1006143,
+    "R_stId": "R-HSA-1006143",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1006169,
+    "R_stId": "R-HSA-1006169",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028812,
+    "R_stId": "R-HSA-1028812",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028815,
+    "R_stId": "R-HSA-1028815",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028816,
+    "R_stId": "R-HSA-1028816",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028817,
+    "R_stId": "R-HSA-1028817",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028819,
+    "R_stId": "R-HSA-1028819",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028820,
+    "R_stId": "R-HSA-1028820",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1028821,
+    "R_stId": "R-HSA-1028821",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222342,
+    "R_stId": "R-HSA-1222342",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222353,
+    "R_stId": "R-HSA-1222353",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222384,
+    "R_stId": "R-HSA-1222384",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222407,
+    "R_stId": "R-HSA-1222407",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222411,
+    "R_stId": "R-HSA-1222411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222491,
+    "R_stId": "R-HSA-1222491",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222512,
+    "R_stId": "R-HSA-1222512",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222516,
+    "R_stId": "R-HSA-1222516",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222662,
+    "R_stId": "R-HSA-1222662",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222685,
+    "R_stId": "R-HSA-1222685",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1222686,
+    "R_stId": "R-HSA-1222686",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1247960,
+    "R_stId": "R-HSA-1247960",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1250253,
+    "R_stId": "R-HSA-1250253",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1250264,
+    "R_stId": "R-HSA-1250264",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1250272,
+    "R_stId": "R-HSA-1250272",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1250280,
+    "R_stId": "R-HSA-1250280",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1296421,
+    "R_stId": "R-HSA-1296421",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1306876,
+    "R_stId": "R-HSA-1306876",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1461971,
+    "R_stId": "R-HSA-1461971",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1461982,
+    "R_stId": "R-HSA-1461982",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1461993,
+    "R_stId": "R-HSA-1461993",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1461995,
+    "R_stId": "R-HSA-1461995",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1462003,
+    "R_stId": "R-HSA-1462003",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1462005,
+    "R_stId": "R-HSA-1462005",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1462014,
+    "R_stId": "R-HSA-1462014",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1462023,
+    "R_stId": "R-HSA-1462023",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1462039,
+    "R_stId": "R-HSA-1462039",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1462041,
+    "R_stId": "R-HSA-1462041",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1467209,
+    "R_stId": "R-HSA-1467209",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1467269,
+    "R_stId": "R-HSA-1467269",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1470073,
+    "R_stId": "R-HSA-1470073",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1471314,
+    "R_stId": "R-HSA-1471314",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1471322,
+    "R_stId": "R-HSA-1471322",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1471338,
+    "R_stId": "R-HSA-1471338",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1471354,
+    "R_stId": "R-HSA-1471354",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1591234,
+    "R_stId": "R-HSA-1591234",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1606324,
+    "R_stId": "R-HSA-1606324",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1606327,
+    "R_stId": "R-HSA-1606327",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1606345,
+    "R_stId": "R-HSA-1606345",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678920,
+    "R_stId": "R-HSA-1678920",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678921,
+    "R_stId": "R-HSA-1678921",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678923,
+    "R_stId": "R-HSA-1678923",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678927,
+    "R_stId": "R-HSA-1678927",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678944,
+    "R_stId": "R-HSA-1678944",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678981,
+    "R_stId": "R-HSA-1678981",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1678998,
+    "R_stId": "R-HSA-1678998",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1679098,
+    "R_stId": "R-HSA-1679098",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1679589,
+    "R_stId": "R-HSA-1679589",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1810457,
+    "R_stId": "R-HSA-1810457",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1834939,
+    "R_stId": "R-HSA-1834939",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1834951,
+    "R_stId": "R-HSA-1834951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1861595,
+    "R_stId": "R-HSA-1861595",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1861621,
+    "R_stId": "R-HSA-1861621",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1964482,
+    "R_stId": "R-HSA-1964482",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1964496,
+    "R_stId": "R-HSA-1964496",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1972385,
+    "R_stId": "R-HSA-1972385",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1973968,
+    "R_stId": "R-HSA-1973968",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 1974676,
+    "R_stId": "R-HSA-1974676",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029268,
+    "R_stId": "R-HSA-2029268",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029270,
+    "R_stId": "R-HSA-2029270",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029271,
+    "R_stId": "R-HSA-2029271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029272,
+    "R_stId": "R-HSA-2029272",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029273,
+    "R_stId": "R-HSA-2029273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029445,
+    "R_stId": "R-HSA-2029445",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029449,
+    "R_stId": "R-HSA-2029449",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029451,
+    "R_stId": "R-HSA-2029451",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029452,
+    "R_stId": "R-HSA-2029452",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029453,
+    "R_stId": "R-HSA-2029453",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029454,
+    "R_stId": "R-HSA-2029454",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029455,
+    "R_stId": "R-HSA-2029455",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029456,
+    "R_stId": "R-HSA-2029456",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029457,
+    "R_stId": "R-HSA-2029457",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029458,
+    "R_stId": "R-HSA-2029458",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029459,
+    "R_stId": "R-HSA-2029459",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029460,
+    "R_stId": "R-HSA-2029460",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029465,
+    "R_stId": "R-HSA-2029465",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029466,
+    "R_stId": "R-HSA-2029466",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029467,
+    "R_stId": "R-HSA-2029467",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029468,
+    "R_stId": "R-HSA-2029468",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029469,
+    "R_stId": "R-HSA-2029469",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029471,
+    "R_stId": "R-HSA-2029471",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029473,
+    "R_stId": "R-HSA-2029473",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029475,
+    "R_stId": "R-HSA-2029475",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2029476,
+    "R_stId": "R-HSA-2029476",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2032396,
+    "R_stId": "R-HSA-2032396",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2130151,
+    "R_stId": "R-HSA-2130151",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2130194,
+    "R_stId": "R-HSA-2130194",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2172123,
+    "R_stId": "R-HSA-2172123",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2172126,
+    "R_stId": "R-HSA-2172126",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2197690,
+    "R_stId": "R-HSA-2197690",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2197691,
+    "R_stId": "R-HSA-2197691",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2197697,
+    "R_stId": "R-HSA-2197697",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2197698,
+    "R_stId": "R-HSA-2197698",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2201293,
+    "R_stId": "R-HSA-2201293",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2201316,
+    "R_stId": "R-HSA-2201316",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2201322,
+    "R_stId": "R-HSA-2201322",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2201338,
+    "R_stId": "R-HSA-2201338",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2201341,
+    "R_stId": "R-HSA-2201341",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2213017,
+    "R_stId": "R-HSA-2213017",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2262775,
+    "R_stId": "R-HSA-2262775",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2262777,
+    "R_stId": "R-HSA-2262777",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2272668,
+    "R_stId": "R-HSA-2272668",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2272753,
+    "R_stId": "R-HSA-2272753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2272795,
+    "R_stId": "R-HSA-2272795",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2395412,
+    "R_stId": "R-HSA-2395412",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2395439,
+    "R_stId": "R-HSA-2395439",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2395801,
+    "R_stId": "R-HSA-2395801",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2395992,
+    "R_stId": "R-HSA-2395992",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396002,
+    "R_stId": "R-HSA-2396002",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396007,
+    "R_stId": "R-HSA-2396007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396009,
+    "R_stId": "R-HSA-2396009",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396561,
+    "R_stId": "R-HSA-2396561",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396594,
+    "R_stId": "R-HSA-2396594",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396599,
+    "R_stId": "R-HSA-2396599",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2396606,
+    "R_stId": "R-HSA-2396606",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424476,
+    "R_stId": "R-HSA-2424476",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424477,
+    "R_stId": "R-HSA-2424477",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424480,
+    "R_stId": "R-HSA-2424480",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424481,
+    "R_stId": "R-HSA-2424481",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424482,
+    "R_stId": "R-HSA-2424482",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424484,
+    "R_stId": "R-HSA-2424484",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424485,
+    "R_stId": "R-HSA-2424485",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424486,
+    "R_stId": "R-HSA-2424486",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2424487,
+    "R_stId": "R-HSA-2424487",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2426566,
+    "R_stId": "R-HSA-2426566",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2426569,
+    "R_stId": "R-HSA-2426569",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2454192,
+    "R_stId": "R-HSA-2454192",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2454208,
+    "R_stId": "R-HSA-2454208",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2454239,
+    "R_stId": "R-HSA-2454239",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2454240,
+    "R_stId": "R-HSA-2454240",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2530429,
+    "R_stId": "R-HSA-2530429",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2530445,
+    "R_stId": "R-HSA-2530445",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2530453,
+    "R_stId": "R-HSA-2530453",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2559414,
+    "R_stId": "R-HSA-2559414",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2559439,
+    "R_stId": "R-HSA-2559439",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2559456,
+    "R_stId": "R-HSA-2559456",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2559464,
+    "R_stId": "R-HSA-2559464",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2559468,
+    "R_stId": "R-HSA-2559468",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2559568,
+    "R_stId": "R-HSA-2559568",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2562541,
+    "R_stId": "R-HSA-2562541",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2562564,
+    "R_stId": "R-HSA-2562564",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2569057,
+    "R_stId": "R-HSA-2569057",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730833,
+    "R_stId": "R-HSA-2730833",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730835,
+    "R_stId": "R-HSA-2730835",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730836,
+    "R_stId": "R-HSA-2730836",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730837,
+    "R_stId": "R-HSA-2730837",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730840,
+    "R_stId": "R-HSA-2730840",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730841,
+    "R_stId": "R-HSA-2730841",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730842,
+    "R_stId": "R-HSA-2730842",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730843,
+    "R_stId": "R-HSA-2730843",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730844,
+    "R_stId": "R-HSA-2730844",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730847,
+    "R_stId": "R-HSA-2730847",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730848,
+    "R_stId": "R-HSA-2730848",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730849,
+    "R_stId": "R-HSA-2730849",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730851,
+    "R_stId": "R-HSA-2730851",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730856,
+    "R_stId": "R-HSA-2730856",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730858,
+    "R_stId": "R-HSA-2730858",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730860,
+    "R_stId": "R-HSA-2730860",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730861,
+    "R_stId": "R-HSA-2730861",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730862,
+    "R_stId": "R-HSA-2730862",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730863,
+    "R_stId": "R-HSA-2730863",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730864,
+    "R_stId": "R-HSA-2730864",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730867,
+    "R_stId": "R-HSA-2730867",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730868,
+    "R_stId": "R-HSA-2730868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730870,
+    "R_stId": "R-HSA-2730870",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730871,
+    "R_stId": "R-HSA-2730871",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730872,
+    "R_stId": "R-HSA-2730872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730876,
+    "R_stId": "R-HSA-2730876",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730882,
+    "R_stId": "R-HSA-2730882",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730884,
+    "R_stId": "R-HSA-2730884",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730885,
+    "R_stId": "R-HSA-2730885",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730886,
+    "R_stId": "R-HSA-2730886",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730887,
+    "R_stId": "R-HSA-2730887",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730888,
+    "R_stId": "R-HSA-2730888",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730889,
+    "R_stId": "R-HSA-2730889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730892,
+    "R_stId": "R-HSA-2730892",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730894,
+    "R_stId": "R-HSA-2730894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730896,
+    "R_stId": "R-HSA-2730896",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730899,
+    "R_stId": "R-HSA-2730899",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730900,
+    "R_stId": "R-HSA-2730900",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730902,
+    "R_stId": "R-HSA-2730902",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730903,
+    "R_stId": "R-HSA-2730903",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2730904,
+    "R_stId": "R-HSA-2730904",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2855047,
+    "R_stId": "R-HSA-2855047",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2855054,
+    "R_stId": "R-HSA-2855054",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2855077,
+    "R_stId": "R-HSA-2855077",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 2855125,
+    "R_stId": "R-HSA-2855125",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134800,
+    "R_stId": "R-HSA-3134800",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134804,
+    "R_stId": "R-HSA-3134804",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134821,
+    "R_stId": "R-HSA-3134821",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134822,
+    "R_stId": "R-HSA-3134822",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134883,
+    "R_stId": "R-HSA-3134883",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134896,
+    "R_stId": "R-HSA-3134896",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134901,
+    "R_stId": "R-HSA-3134901",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134904,
+    "R_stId": "R-HSA-3134904",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134914,
+    "R_stId": "R-HSA-3134914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134946,
+    "R_stId": "R-HSA-3134946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134953,
+    "R_stId": "R-HSA-3134953",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134954,
+    "R_stId": "R-HSA-3134954",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3134962,
+    "R_stId": "R-HSA-3134962",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3204303,
+    "R_stId": "R-HSA-3204303",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3244605,
+    "R_stId": "R-HSA-3244605",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3244614,
+    "R_stId": "R-HSA-3244614",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3244643,
+    "R_stId": "R-HSA-3244643",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3244647,
+    "R_stId": "R-HSA-3244647",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3245943,
+    "R_stId": "R-HSA-3245943",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249370,
+    "R_stId": "R-HSA-3249370",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249371,
+    "R_stId": "R-HSA-3249371",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249372,
+    "R_stId": "R-HSA-3249372",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249378,
+    "R_stId": "R-HSA-3249378",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249379,
+    "R_stId": "R-HSA-3249379",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249386,
+    "R_stId": "R-HSA-3249386",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249390,
+    "R_stId": "R-HSA-3249390",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3249392,
+    "R_stId": "R-HSA-3249392",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 3266557,
+    "R_stId": "R-HSA-3266557",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5229273,
+    "R_stId": "R-HSA-5229273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5362486,
+    "R_stId": "R-HSA-5362486",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5362500,
+    "R_stId": "R-HSA-5362500",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5432814,
+    "R_stId": "R-HSA-5432814",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5432825,
+    "R_stId": "R-HSA-5432825",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5432849,
+    "R_stId": "R-HSA-5432849",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5432852,
+    "R_stId": "R-HSA-5432852",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607720,
+    "R_stId": "R-HSA-5607720",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607721,
+    "R_stId": "R-HSA-5607721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607722,
+    "R_stId": "R-HSA-5607722",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607723,
+    "R_stId": "R-HSA-5607723",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607724,
+    "R_stId": "R-HSA-5607724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607725,
+    "R_stId": "R-HSA-5607725",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607726,
+    "R_stId": "R-HSA-5607726",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607728,
+    "R_stId": "R-HSA-5607728",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607731,
+    "R_stId": "R-HSA-5607731",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607732,
+    "R_stId": "R-HSA-5607732",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607733,
+    "R_stId": "R-HSA-5607733",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607734,
+    "R_stId": "R-HSA-5607734",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607735,
+    "R_stId": "R-HSA-5607735",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607736,
+    "R_stId": "R-HSA-5607736",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607737,
+    "R_stId": "R-HSA-5607737",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607738,
+    "R_stId": "R-HSA-5607738",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607740,
+    "R_stId": "R-HSA-5607740",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607741,
+    "R_stId": "R-HSA-5607741",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607742,
+    "R_stId": "R-HSA-5607742",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607744,
+    "R_stId": "R-HSA-5607744",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607745,
+    "R_stId": "R-HSA-5607745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607746,
+    "R_stId": "R-HSA-5607746",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607747,
+    "R_stId": "R-HSA-5607747",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607750,
+    "R_stId": "R-HSA-5607750",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607751,
+    "R_stId": "R-HSA-5607751",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607753,
+    "R_stId": "R-HSA-5607753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607755,
+    "R_stId": "R-HSA-5607755",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607756,
+    "R_stId": "R-HSA-5607756",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607757,
+    "R_stId": "R-HSA-5607757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607758,
+    "R_stId": "R-HSA-5607758",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5607759,
+    "R_stId": "R-HSA-5607759",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5609665,
+    "R_stId": "R-HSA-5609665",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621347,
+    "R_stId": "R-HSA-5621347",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621352,
+    "R_stId": "R-HSA-5621352",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621353,
+    "R_stId": "R-HSA-5621353",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621354,
+    "R_stId": "R-HSA-5621354",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621355,
+    "R_stId": "R-HSA-5621355",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621356,
+    "R_stId": "R-HSA-5621356",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621363,
+    "R_stId": "R-HSA-5621363",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621366,
+    "R_stId": "R-HSA-5621366",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621367,
+    "R_stId": "R-HSA-5621367",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621370,
+    "R_stId": "R-HSA-5621370",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621371,
+    "R_stId": "R-HSA-5621371",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621571,
+    "R_stId": "R-HSA-5621571",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621573,
+    "R_stId": "R-HSA-5621573",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621606,
+    "R_stId": "R-HSA-5621606",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5621615,
+    "R_stId": "R-HSA-5621615",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5624473,
+    "R_stId": "R-HSA-5624473",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5624486,
+    "R_stId": "R-HSA-5624486",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5624492,
+    "R_stId": "R-HSA-5624492",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5624494,
+    "R_stId": "R-HSA-5624494",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660622,
+    "R_stId": "R-HSA-5660622",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660660,
+    "R_stId": "R-HSA-5660660",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660662,
+    "R_stId": "R-HSA-5660662",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660663,
+    "R_stId": "R-HSA-5660663",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660665,
+    "R_stId": "R-HSA-5660665",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660666,
+    "R_stId": "R-HSA-5660666",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660965,
+    "R_stId": "R-HSA-5660965",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5660980,
+    "R_stId": "R-HSA-5660980",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5684248,
+    "R_stId": "R-HSA-5684248",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5684250,
+    "R_stId": "R-HSA-5684250",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5684261,
+    "R_stId": "R-HSA-5684261",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5684267,
+    "R_stId": "R-HSA-5684267",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5684273,
+    "R_stId": "R-HSA-5684273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 5684275,
+    "R_stId": "R-HSA-5684275",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6788974,
+    "R_stId": "R-HSA-6788974",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6788975,
+    "R_stId": "R-HSA-6788975",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6788999,
+    "R_stId": "R-HSA-6788999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789031,
+    "R_stId": "R-HSA-6789031",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789042,
+    "R_stId": "R-HSA-6789042",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789072,
+    "R_stId": "R-HSA-6789072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789077,
+    "R_stId": "R-HSA-6789077",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789092,
+    "R_stId": "R-HSA-6789092",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789109,
+    "R_stId": "R-HSA-6789109",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789114,
+    "R_stId": "R-HSA-6789114",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789126,
+    "R_stId": "R-HSA-6789126",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789136,
+    "R_stId": "R-HSA-6789136",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789160,
+    "R_stId": "R-HSA-6789160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789185,
+    "R_stId": "R-HSA-6789185",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789208,
+    "R_stId": "R-HSA-6789208",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6789218,
+    "R_stId": "R-HSA-6789218",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798474,
+    "R_stId": "R-HSA-6798474",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798489,
+    "R_stId": "R-HSA-6798489",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798528,
+    "R_stId": "R-HSA-6798528",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798739,
+    "R_stId": "R-HSA-6798739",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798743,
+    "R_stId": "R-HSA-6798743",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798745,
+    "R_stId": "R-HSA-6798745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798747,
+    "R_stId": "R-HSA-6798747",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798748,
+    "R_stId": "R-HSA-6798748",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798749,
+    "R_stId": "R-HSA-6798749",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6798751,
+    "R_stId": "R-HSA-6798751",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6799350,
+    "R_stId": "R-HSA-6799350",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6799959,
+    "R_stId": "R-HSA-6799959",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6799977,
+    "R_stId": "R-HSA-6799977",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6799981,
+    "R_stId": "R-HSA-6799981",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6800426,
+    "R_stId": "R-HSA-6800426",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6800434,
+    "R_stId": "R-HSA-6800434",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6801687,
+    "R_stId": "R-HSA-6801687",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6801762,
+    "R_stId": "R-HSA-6801762",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6801766,
+    "R_stId": "R-HSA-6801766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6801776,
+    "R_stId": "R-HSA-6801776",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6801808,
+    "R_stId": "R-HSA-6801808",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6802999,
+    "R_stId": "R-HSA-6802999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803047,
+    "R_stId": "R-HSA-6803047",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803060,
+    "R_stId": "R-HSA-6803060",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803063,
+    "R_stId": "R-HSA-6803063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803104,
+    "R_stId": "R-HSA-6803104",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803545,
+    "R_stId": "R-HSA-6803545",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803978,
+    "R_stId": "R-HSA-6803978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803988,
+    "R_stId": "R-HSA-6803988",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803989,
+    "R_stId": "R-HSA-6803989",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803998,
+    "R_stId": "R-HSA-6803998",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6803999,
+    "R_stId": "R-HSA-6803999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6804006,
+    "R_stId": "R-HSA-6804006",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6804035,
+    "R_stId": "R-HSA-6804035",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6804099,
+    "R_stId": "R-HSA-6804099",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6804100,
+    "R_stId": "R-HSA-6804100",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6804527,
+    "R_stId": "R-HSA-6804527",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6805943,
+    "R_stId": "R-HSA-6805943",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6805981,
+    "R_stId": "R-HSA-6805981",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6806732,
+    "R_stId": "R-HSA-6806732",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6807144,
+    "R_stId": "R-HSA-6807144",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6807565,
+    "R_stId": "R-HSA-6807565",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6807578,
+    "R_stId": "R-HSA-6807578",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6807581,
+    "R_stId": "R-HSA-6807581",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6807585,
+    "R_stId": "R-HSA-6807585",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6808566,
+    "R_stId": "R-HSA-6808566",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6809521,
+    "R_stId": "R-HSA-6809521",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6810643,
+    "R_stId": "R-HSA-6810643",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6810724,
+    "R_stId": "R-HSA-6810724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6813626,
+    "R_stId": "R-HSA-6813626",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 6813659,
+    "R_stId": "R-HSA-6813659",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8851436,
+    "R_stId": "R-HSA-8851436",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852266,
+    "R_stId": "R-HSA-8852266",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852481,
+    "R_stId": "R-HSA-8852481",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852509,
+    "R_stId": "R-HSA-8852509",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852580,
+    "R_stId": "R-HSA-8852580",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852716,
+    "R_stId": "R-HSA-8852716",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852809,
+    "R_stId": "R-HSA-8852809",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8852874,
+    "R_stId": "R-HSA-8852874",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8853252,
+    "R_stId": "R-HSA-8853252",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8855490,
+    "R_stId": "R-HSA-8855490",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8858500,
+    "R_stId": "R-HSA-8858500",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8862300,
+    "R_stId": "R-HSA-8862300",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8862320,
+    "R_stId": "R-HSA-8862320",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8862771,
+    "R_stId": "R-HSA-8862771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8869667,
+    "R_stId": "R-HSA-8869667",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8869683,
+    "R_stId": "R-HSA-8869683",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8869694,
+    "R_stId": "R-HSA-8869694",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8870678,
+    "R_stId": "R-HSA-8870678",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8933635,
+    "R_stId": "R-HSA-8933635",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8941411,
+    "R_stId": "R-HSA-8941411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8942052,
+    "R_stId": "R-HSA-8942052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8942075,
+    "R_stId": "R-HSA-8942075",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8948027,
+    "R_stId": "R-HSA-8948027",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8948180,
+    "R_stId": "R-HSA-8948180",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8948703,
+    "R_stId": "R-HSA-8948703",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8948709,
+    "R_stId": "R-HSA-8948709",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 8951486,
+    "R_stId": "R-HSA-8951486",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013869,
+    "R_stId": "R-HSA-9013869",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013889,
+    "R_stId": "R-HSA-9013889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013895,
+    "R_stId": "R-HSA-9013895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013963,
+    "R_stId": "R-HSA-9013963",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013974,
+    "R_stId": "R-HSA-9013974",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013978,
+    "R_stId": "R-HSA-9013978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013979,
+    "R_stId": "R-HSA-9013979",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013985,
+    "R_stId": "R-HSA-9013985",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013990,
+    "R_stId": "R-HSA-9013990",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9013992,
+    "R_stId": "R-HSA-9013992",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9014320,
+    "R_stId": "R-HSA-9014320",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9014342,
+    "R_stId": "R-HSA-9014342",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9014343,
+    "R_stId": "R-HSA-9014343",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9021306,
+    "R_stId": "R-HSA-9021306",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9603905,
+    "R_stId": "R-HSA-9603905",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9604480,
+    "R_stId": "R-HSA-9604480",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9604487,
+    "R_stId": "R-HSA-9604487",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9604499,
+    "R_stId": "R-HSA-9604499",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9625540,
+    "R_stId": "R-HSA-9625540",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9625548,
+    "R_stId": "R-HSA-9625548",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9625904,
+    "R_stId": "R-HSA-9625904",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9625913,
+    "R_stId": "R-HSA-9625913",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9626753,
+    "R_stId": "R-HSA-9626753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9628444,
+    "R_stId": "R-HSA-9628444",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9630923,
+    "R_stId": "R-HSA-9630923",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645394,
+    "R_stId": "R-HSA-9645394",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645406,
+    "R_stId": "R-HSA-9645406",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645414,
+    "R_stId": "R-HSA-9645414",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645428,
+    "R_stId": "R-HSA-9645428",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645442,
+    "R_stId": "R-HSA-9645442",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645481,
+    "R_stId": "R-HSA-9645481",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645501,
+    "R_stId": "R-HSA-9645501",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645520,
+    "R_stId": "R-HSA-9645520",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645524,
+    "R_stId": "R-HSA-9645524",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9645535,
+    "R_stId": "R-HSA-9645535",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9676160,
+    "R_stId": "R-HSA-9676160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9679029,
+    "R_stId": "R-HSA-9679029",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9679045,
+    "R_stId": "R-HSA-9679045",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9679819,
+    "R_stId": "R-HSA-9679819",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9686096,
+    "R_stId": "R-HSA-9686096",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9686100,
+    "R_stId": "R-HSA-9686100",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9686271,
+    "R_stId": "R-HSA-9686271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9691204,
+    "R_stId": "R-HSA-9691204",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9691621,
+    "R_stId": "R-HSA-9691621",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9705137,
+    "R_stId": "R-HSA-9705137",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9705145,
+    "R_stId": "R-HSA-9705145",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9705320,
+    "R_stId": "R-HSA-9705320",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9705323,
+    "R_stId": "R-HSA-9705323",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9709831,
+    "R_stId": "R-HSA-9709831",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9709842,
+    "R_stId": "R-HSA-9709842",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9709852,
+    "R_stId": "R-HSA-9709852",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9724670,
+    "R_stId": "R-HSA-9724670",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9724685,
+    "R_stId": "R-HSA-9724685",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9725206,
+    "R_stId": "R-HSA-9725206",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9749464,
+    "R_stId": "R-HSA-9749464",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9749471,
+    "R_stId": "R-HSA-9749471",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9749487,
+    "R_stId": "R-HSA-9749487",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9749494,
+    "R_stId": "R-HSA-9749494",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9749505,
+    "R_stId": "R-HSA-9749505",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9750226,
+    "R_stId": "R-HSA-9750226",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9750942,
+    "R_stId": "R-HSA-9750942",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9750946,
+    "R_stId": "R-HSA-9750946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9757951,
+    "R_stId": "R-HSA-9757951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9757954,
+    "R_stId": "R-HSA-9757954",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9758604,
+    "R_stId": "R-HSA-9758604",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9761344,
+    "R_stId": "R-HSA-9761344",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9773803,
+    "R_stId": "R-HSA-9773803",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9823904,
+    "R_stId": "R-HSA-9823904",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9823906,
+    "R_stId": "R-HSA-9823906",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9823910,
+    "R_stId": "R-HSA-9823910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9823932,
+    "R_stId": "R-HSA-9823932",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9823934,
+    "R_stId": "R-HSA-9823934",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9823939,
+    "R_stId": "R-HSA-9823939",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9824732,
+    "R_stId": "R-HSA-9824732",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9824882,
+    "R_stId": "R-HSA-9824882",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9828196,
+    "R_stId": "R-HSA-9828196",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9828200,
+    "R_stId": "R-HSA-9828200",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9828204,
+    "R_stId": "R-HSA-9828204",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9828205,
+    "R_stId": "R-HSA-9828205",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9828209,
+    "R_stId": "R-HSA-9828209",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9830706,
+    "R_stId": "R-HSA-9830706",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9830710,
+    "R_stId": "R-HSA-9830710",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9860264,
+    "R_stId": "R-HSA-9860264",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9860273,
+    "R_stId": "R-HSA-9860273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9860278,
+    "R_stId": "R-HSA-9860278",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9860290,
+    "R_stId": "R-HSA-9860290",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9860292,
+    "R_stId": "R-HSA-9860292",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9860295,
+    "R_stId": "R-HSA-9860295",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947849,
+    "R_stId": "R-HSA-9947849",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947861,
+    "R_stId": "R-HSA-9947861",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947908,
+    "R_stId": "R-HSA-9947908",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947934,
+    "R_stId": "R-HSA-9947934",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947937,
+    "R_stId": "R-HSA-9947937",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947940,
+    "R_stId": "R-HSA-9947940",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947978,
+    "R_stId": "R-HSA-9947978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947987,
+    "R_stId": "R-HSA-9947987",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9947997,
+    "R_stId": "R-HSA-9947997",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9948146,
+    "R_stId": "R-HSA-9948146",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9948160,
+    "R_stId": "R-HSA-9948160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9957021,
+    "R_stId": "R-HSA-9957021",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9958657,
+    "R_stId": "R-HSA-9958657",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9960522,
+    "R_stId": "R-HSA-9960522",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Innate Immune System",
+    "pathway_stId": "R-HSA-168249",
+    "R": 9960526,
+    "R_stId": "R-HSA-9960526",
+    "species": "Homo sapiens"
+  }
+]

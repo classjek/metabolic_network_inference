@@ -1,0 +1,8052 @@
+﻿[
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212663,
+    "R_stId": "R-CFA-166015",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212673,
+    "R_stId": "R-CFA-166038",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212725,
+    "R_stId": "R-CFA-166041",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212747,
+    "R_stId": "R-CFA-166168",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212755,
+    "R_stId": "R-CFA-166175",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212824,
+    "R_stId": "R-CFA-166245",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212828,
+    "R_stId": "R-CFA-166271",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212877,
+    "R_stId": "R-CFA-166795",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212924,
+    "R_stId": "R-CFA-166817",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10212940,
+    "R_stId": "R-CFA-166869",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213023,
+    "R_stId": "R-CFA-168053",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213034,
+    "R_stId": "R-CFA-168136",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213103,
+    "R_stId": "R-CFA-168140",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213135,
+    "R_stId": "R-CFA-168162",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213171,
+    "R_stId": "R-CFA-168166",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213180,
+    "R_stId": "R-CFA-168400",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213200,
+    "R_stId": "R-CFA-168405",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213202,
+    "R_stId": "R-CFA-168412",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213206,
+    "R_stId": "R-CFA-168440",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213293,
+    "R_stId": "R-CFA-168915",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213305,
+    "R_stId": "R-CFA-168921",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213311,
+    "R_stId": "R-CFA-168933",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10213335,
+    "R_stId": "R-CFA-169719",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214305,
+    "R_stId": "R-CFA-173626",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214321,
+    "R_stId": "R-CFA-173631",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214323,
+    "R_stId": "R-CFA-173636",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214344,
+    "R_stId": "R-CFA-173680",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214352,
+    "R_stId": "R-CFA-173705",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214390,
+    "R_stId": "R-CFA-173709",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214393,
+    "R_stId": "R-CFA-173720",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214397,
+    "R_stId": "R-CFA-173723",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214401,
+    "R_stId": "R-CFA-173725",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214403,
+    "R_stId": "R-CFA-173739",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214409,
+    "R_stId": "R-CFA-173740",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214418,
+    "R_stId": "R-CFA-173745",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214420,
+    "R_stId": "R-CFA-173754",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10214805,
+    "R_stId": "R-CFA-174551",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10215370,
+    "R_stId": "R-CFA-177671",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10215858,
+    "R_stId": "R-CFA-183122",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10215860,
+    "R_stId": "R-CFA-183126",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10215863,
+    "R_stId": "R-CFA-183130",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10216096,
+    "R_stId": "R-CFA-187895",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10216148,
+    "R_stId": "R-CFA-188002",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218094,
+    "R_stId": "R-CFA-198314",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218162,
+    "R_stId": "R-CFA-198669",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218221,
+    "R_stId": "R-CFA-198746",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218226,
+    "R_stId": "R-CFA-198756",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218298,
+    "R_stId": "R-CFA-198941",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218423,
+    "R_stId": "R-CFA-198955",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218451,
+    "R_stId": "R-CFA-198983",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218463,
+    "R_stId": "R-CFA-199014",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218477,
+    "R_stId": "R-CFA-199032",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218633,
+    "R_stId": "R-CFA-199046",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218669,
+    "R_stId": "R-CFA-199050",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218681,
+    "R_stId": "R-CFA-199093",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218693,
+    "R_stId": "R-CFA-199112",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218701,
+    "R_stId": "R-CFA-199131",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218705,
+    "R_stId": "R-CFA-199144",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218717,
+    "R_stId": "R-CFA-199154",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218727,
+    "R_stId": "R-CFA-199169",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218833,
+    "R_stId": "R-CFA-199404",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218850,
+    "R_stId": "R-CFA-199456",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218920,
+    "R_stId": "R-CFA-199518",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218953,
+    "R_stId": "R-CFA-199895",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218963,
+    "R_stId": "R-CFA-199910",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218965,
+    "R_stId": "R-CFA-199935",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10218986,
+    "R_stId": "R-CFA-199959",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10219878,
+    "R_stId": "R-CFA-202164",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10219950,
+    "R_stId": "R-CFA-202165",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10219964,
+    "R_stId": "R-CFA-202168",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10219972,
+    "R_stId": "R-CFA-202174",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10219983,
+    "R_stId": "R-CFA-202203",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10219998,
+    "R_stId": "R-CFA-202212",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220020,
+    "R_stId": "R-CFA-202214",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220042,
+    "R_stId": "R-CFA-202216",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220057,
+    "R_stId": "R-CFA-202222",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220064,
+    "R_stId": "R-CFA-202233",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220072,
+    "R_stId": "R-CFA-202237",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220074,
+    "R_stId": "R-CFA-202241",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220079,
+    "R_stId": "R-CFA-202245",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220109,
+    "R_stId": "R-CFA-202248",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220113,
+    "R_stId": "R-CFA-202291",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220119,
+    "R_stId": "R-CFA-202307",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220121,
+    "R_stId": "R-CFA-202325",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220123,
+    "R_stId": "R-CFA-202328",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220125,
+    "R_stId": "R-CFA-202331",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220127,
+    "R_stId": "R-CFA-202344",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220134,
+    "R_stId": "R-CFA-202354",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220137,
+    "R_stId": "R-CFA-202365",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220139,
+    "R_stId": "R-CFA-202375",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220147,
+    "R_stId": "R-CFA-202394",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220157,
+    "R_stId": "R-CFA-202407",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220165,
+    "R_stId": "R-CFA-202437",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220169,
+    "R_stId": "R-CFA-202443",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220194,
+    "R_stId": "R-CFA-202453",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220203,
+    "R_stId": "R-CFA-202459",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220205,
+    "R_stId": "R-CFA-202466",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220207,
+    "R_stId": "R-CFA-202472",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220209,
+    "R_stId": "R-CFA-202478",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220211,
+    "R_stId": "R-CFA-202489",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220232,
+    "R_stId": "R-CFA-202500",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220240,
+    "R_stId": "R-CFA-202510",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220251,
+    "R_stId": "R-CFA-202534",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220256,
+    "R_stId": "R-CFA-202541",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220635,
+    "R_stId": "R-CFA-203774",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10220652,
+    "R_stId": "R-CFA-203797",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221129,
+    "R_stId": "R-CFA-203979",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221743,
+    "R_stId": "R-CFA-209061",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221756,
+    "R_stId": "R-CFA-209063",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221759,
+    "R_stId": "R-CFA-209087",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221761,
+    "R_stId": "R-CFA-209125",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221974,
+    "R_stId": "R-CFA-210271",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221982,
+    "R_stId": "R-CFA-210273",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10221992,
+    "R_stId": "R-CFA-210274",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10222054,
+    "R_stId": "R-CFA-210289",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10222067,
+    "R_stId": "R-CFA-210292",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10222075,
+    "R_stId": "R-CFA-210300",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10222729,
+    "R_stId": "R-CFA-213406",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10222731,
+    "R_stId": "R-CFA-213407",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10223974,
+    "R_stId": "R-CFA-354173",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10225006,
+    "R_stId": "R-CFA-375395",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227765,
+    "R_stId": "R-CFA-388808",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227768,
+    "R_stId": "R-CFA-388809",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227772,
+    "R_stId": "R-CFA-388811",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227783,
+    "R_stId": "R-CFA-388814",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227795,
+    "R_stId": "R-CFA-388817",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227839,
+    "R_stId": "R-CFA-388828",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227854,
+    "R_stId": "R-CFA-388829",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227887,
+    "R_stId": "R-CFA-388830",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227892,
+    "R_stId": "R-CFA-388831",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227896,
+    "R_stId": "R-CFA-388832",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227898,
+    "R_stId": "R-CFA-388833",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227942,
+    "R_stId": "R-CFA-389158",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227960,
+    "R_stId": "R-CFA-389348",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227966,
+    "R_stId": "R-CFA-389350",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227970,
+    "R_stId": "R-CFA-389352",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227973,
+    "R_stId": "R-CFA-389354",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227977,
+    "R_stId": "R-CFA-389381",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227997,
+    "R_stId": "R-CFA-389523",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10227999,
+    "R_stId": "R-CFA-389532",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228095,
+    "R_stId": "R-CFA-389758",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228097,
+    "R_stId": "R-CFA-389759",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228100,
+    "R_stId": "R-CFA-389762",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228128,
+    "R_stId": "R-CFA-389788",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228191,
+    "R_stId": "R-CFA-389919",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228195,
+    "R_stId": "R-CFA-389941",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228734,
+    "R_stId": "R-CFA-392513",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228745,
+    "R_stId": "R-CFA-392530",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228757,
+    "R_stId": "R-CFA-392834",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10228765,
+    "R_stId": "R-CFA-392835",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10229589,
+    "R_stId": "R-CFA-418436",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10229896,
+    "R_stId": "R-CFA-419644",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10229898,
+    "R_stId": "R-CFA-419645",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10231698,
+    "R_stId": "R-CFA-430135",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10231710,
+    "R_stId": "R-CFA-430183",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10231712,
+    "R_stId": "R-CFA-430190",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10232231,
+    "R_stId": "R-CFA-435171",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10232642,
+    "R_stId": "R-CFA-444647",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10232883,
+    "R_stId": "R-CFA-445752",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10232887,
+    "R_stId": "R-CFA-445753",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10232902,
+    "R_stId": "R-CFA-445757",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10232964,
+    "R_stId": "R-CFA-446130",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233168,
+    "R_stId": "R-CFA-446634",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233170,
+    "R_stId": "R-CFA-446648",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233179,
+    "R_stId": "R-CFA-446684",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233185,
+    "R_stId": "R-CFA-446692",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233194,
+    "R_stId": "R-CFA-446694",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233202,
+    "R_stId": "R-CFA-446701",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233206,
+    "R_stId": "R-CFA-446862",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233208,
+    "R_stId": "R-CFA-446868",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233232,
+    "R_stId": "R-CFA-446870",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233245,
+    "R_stId": "R-CFA-446877",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233251,
+    "R_stId": "R-CFA-446894",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233284,
+    "R_stId": "R-CFA-447130",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233304,
+    "R_stId": "R-CFA-447226",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233308,
+    "R_stId": "R-CFA-447252",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233326,
+    "R_stId": "R-CFA-448421",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233346,
+    "R_stId": "R-CFA-448427",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233367,
+    "R_stId": "R-CFA-448480",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233376,
+    "R_stId": "R-CFA-448627",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233384,
+    "R_stId": "R-CFA-448632",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233406,
+    "R_stId": "R-CFA-448660",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233426,
+    "R_stId": "R-CFA-448661",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233436,
+    "R_stId": "R-CFA-448673",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233449,
+    "R_stId": "R-CFA-448678",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233453,
+    "R_stId": "R-CFA-448702",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233482,
+    "R_stId": "R-CFA-448703",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233497,
+    "R_stId": "R-CFA-448708",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233513,
+    "R_stId": "R-CFA-448728",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233515,
+    "R_stId": "R-CFA-448741",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233517,
+    "R_stId": "R-CFA-448744",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233626,
+    "R_stId": "R-CFA-449058",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233638,
+    "R_stId": "R-CFA-449073",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233642,
+    "R_stId": "R-CFA-449077",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233646,
+    "R_stId": "R-CFA-449087",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233678,
+    "R_stId": "R-CFA-449117",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233717,
+    "R_stId": "R-CFA-449803",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233721,
+    "R_stId": "R-CFA-449811",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233733,
+    "R_stId": "R-CFA-449818",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233745,
+    "R_stId": "R-CFA-449829",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233747,
+    "R_stId": "R-CFA-449855",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233767,
+    "R_stId": "R-CFA-449976",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233781,
+    "R_stId": "R-CFA-449978",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233795,
+    "R_stId": "R-CFA-450027",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233797,
+    "R_stId": "R-CFA-450054",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233814,
+    "R_stId": "R-CFA-450133",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233816,
+    "R_stId": "R-CFA-450173",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233820,
+    "R_stId": "R-CFA-450187",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233832,
+    "R_stId": "R-CFA-450292",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233854,
+    "R_stId": "R-CFA-450296",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233858,
+    "R_stId": "R-CFA-450325",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233884,
+    "R_stId": "R-CFA-450337",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233892,
+    "R_stId": "R-CFA-450346",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233894,
+    "R_stId": "R-CFA-450348",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10233910,
+    "R_stId": "R-CFA-450358",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234122,
+    "R_stId": "R-CFA-450690",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234142,
+    "R_stId": "R-CFA-450827",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234265,
+    "R_stId": "R-CFA-451418",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234269,
+    "R_stId": "R-CFA-451561",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234289,
+    "R_stId": "R-CFA-451634",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234307,
+    "R_stId": "R-CFA-451900",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234331,
+    "R_stId": "R-CFA-451942",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234351,
+    "R_stId": "R-CFA-452091",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234368,
+    "R_stId": "R-CFA-452097",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234378,
+    "R_stId": "R-CFA-452100",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234380,
+    "R_stId": "R-CFA-452108",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234383,
+    "R_stId": "R-CFA-452122",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234467,
+    "R_stId": "R-CFA-453104",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10234471,
+    "R_stId": "R-CFA-453111",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235184,
+    "R_stId": "R-CFA-507719",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235319,
+    "R_stId": "R-CFA-508247",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235326,
+    "R_stId": "R-CFA-508282",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235328,
+    "R_stId": "R-CFA-508292",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235341,
+    "R_stId": "R-CFA-508451",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235345,
+    "R_stId": "R-CFA-508513",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235660,
+    "R_stId": "R-CFA-622310",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235748,
+    "R_stId": "R-CFA-622415",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235754,
+    "R_stId": "R-CFA-622420",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235786,
+    "R_stId": "R-CFA-688136",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235795,
+    "R_stId": "R-CFA-688137",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235805,
+    "R_stId": "R-CFA-688985",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235807,
+    "R_stId": "R-CFA-706479",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235809,
+    "R_stId": "R-CFA-708349",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235844,
+    "R_stId": "R-CFA-727819",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235859,
+    "R_stId": "R-CFA-741386",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235862,
+    "R_stId": "R-CFA-741411",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235995,
+    "R_stId": "R-CFA-844438",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10235997,
+    "R_stId": "R-CFA-844447",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236032,
+    "R_stId": "R-CFA-873917",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236069,
+    "R_stId": "R-CFA-873918",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236080,
+    "R_stId": "R-CFA-873919",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236095,
+    "R_stId": "R-CFA-873921",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236104,
+    "R_stId": "R-CFA-873922",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236107,
+    "R_stId": "R-CFA-873924",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236109,
+    "R_stId": "R-CFA-873926",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236113,
+    "R_stId": "R-CFA-873927",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236127,
+    "R_stId": "R-CFA-873951",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236129,
+    "R_stId": "R-CFA-874087",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236136,
+    "R_stId": "R-CFA-877187",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236142,
+    "R_stId": "R-CFA-877198",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236144,
+    "R_stId": "R-CFA-877269",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236156,
+    "R_stId": "R-CFA-877281",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236170,
+    "R_stId": "R-CFA-877361",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236176,
+    "R_stId": "R-CFA-879201",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236186,
+    "R_stId": "R-CFA-879221",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236188,
+    "R_stId": "R-CFA-879222",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236200,
+    "R_stId": "R-CFA-879411",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236327,
+    "R_stId": "R-CFA-879907",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236350,
+    "R_stId": "R-CFA-879909",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236355,
+    "R_stId": "R-CFA-879910",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236359,
+    "R_stId": "R-CFA-879914",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236369,
+    "R_stId": "R-CFA-879917",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236379,
+    "R_stId": "R-CFA-879930",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236381,
+    "R_stId": "R-CFA-879934",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236385,
+    "R_stId": "R-CFA-879942",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236545,
+    "R_stId": "R-CFA-909552",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236652,
+    "R_stId": "R-CFA-909718",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236666,
+    "R_stId": "R-CFA-909719",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236677,
+    "R_stId": "R-CFA-909720",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236697,
+    "R_stId": "R-CFA-909722",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236707,
+    "R_stId": "R-CFA-909724",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236719,
+    "R_stId": "R-CFA-909729",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236723,
+    "R_stId": "R-CFA-909730",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236726,
+    "R_stId": "R-CFA-909732",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236730,
+    "R_stId": "R-CFA-909738",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236732,
+    "R_stId": "R-CFA-912527",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236808,
+    "R_stId": "R-CFA-912627",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236816,
+    "R_stId": "R-CFA-912685",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236820,
+    "R_stId": "R-CFA-912727",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236826,
+    "R_stId": "R-CFA-912734",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236849,
+    "R_stId": "R-CFA-912757",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236851,
+    "R_stId": "R-CFA-912790",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236853,
+    "R_stId": "R-CFA-913360",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236855,
+    "R_stId": "R-CFA-913370",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236857,
+    "R_stId": "R-CFA-913371",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236867,
+    "R_stId": "R-CFA-913374",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236873,
+    "R_stId": "R-CFA-913424",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236875,
+    "R_stId": "R-CFA-913446",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236878,
+    "R_stId": "R-CFA-913451",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236880,
+    "R_stId": "R-CFA-913456",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10236888,
+    "R_stId": "R-CFA-913529",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237034,
+    "R_stId": "R-CFA-913993",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237040,
+    "R_stId": "R-CFA-913996",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237340,
+    "R_stId": "R-CFA-914036",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237344,
+    "R_stId": "R-CFA-914182",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237570,
+    "R_stId": "R-CFA-919404",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237572,
+    "R_stId": "R-CFA-921155",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237726,
+    "R_stId": "R-CFA-936380",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237752,
+    "R_stId": "R-CFA-936564",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237847,
+    "R_stId": "R-CFA-936942",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237851,
+    "R_stId": "R-CFA-936947",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237856,
+    "R_stId": "R-CFA-936951",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237860,
+    "R_stId": "R-CFA-936952",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237864,
+    "R_stId": "R-CFA-936960",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237866,
+    "R_stId": "R-CFA-936963",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237868,
+    "R_stId": "R-CFA-936985",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237871,
+    "R_stId": "R-CFA-936986",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237876,
+    "R_stId": "R-CFA-936991",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237880,
+    "R_stId": "R-CFA-937029",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237886,
+    "R_stId": "R-CFA-937032",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237895,
+    "R_stId": "R-CFA-937034",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237897,
+    "R_stId": "R-CFA-937044",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237900,
+    "R_stId": "R-CFA-937050",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237902,
+    "R_stId": "R-CFA-937075",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237931,
+    "R_stId": "R-CFA-937337",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10237934,
+    "R_stId": "R-CFA-939265",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238088,
+    "R_stId": "R-CFA-964811",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238141,
+    "R_stId": "R-CFA-975097",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238147,
+    "R_stId": "R-CFA-975103",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238157,
+    "R_stId": "R-CFA-975119",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238166,
+    "R_stId": "R-CFA-975122",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238169,
+    "R_stId": "R-CFA-975139",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238171,
+    "R_stId": "R-CFA-975142",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238178,
+    "R_stId": "R-CFA-975147",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238180,
+    "R_stId": "R-CFA-975185",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238473,
+    "R_stId": "R-CFA-976743",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238475,
+    "R_stId": "R-CFA-976768",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238477,
+    "R_stId": "R-CFA-976801",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238479,
+    "R_stId": "R-CFA-976810",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238510,
+    "R_stId": "R-CFA-976991",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238596,
+    "R_stId": "R-CFA-977359",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238602,
+    "R_stId": "R-CFA-977363",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238620,
+    "R_stId": "R-CFA-977371",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238634,
+    "R_stId": "R-CFA-977375",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238652,
+    "R_stId": "R-CFA-977602",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238654,
+    "R_stId": "R-CFA-977605",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238673,
+    "R_stId": "R-CFA-977615",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238687,
+    "R_stId": "R-CFA-977619",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238689,
+    "R_stId": "R-CFA-977629",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238738,
+    "R_stId": "R-CFA-981535",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238740,
+    "R_stId": "R-CFA-981539",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238742,
+    "R_stId": "R-CFA-981621",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238769,
+    "R_stId": "R-CFA-981713",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238771,
+    "R_stId": "R-CFA-981728",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238849,
+    "R_stId": "R-CFA-982765",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238863,
+    "R_stId": "R-CFA-982810",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10238916,
+    "R_stId": "R-CFA-983138",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239697,
+    "R_stId": "R-CFA-983140",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239709,
+    "R_stId": "R-CFA-983145",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239713,
+    "R_stId": "R-CFA-983146",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239717,
+    "R_stId": "R-CFA-983147",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239719,
+    "R_stId": "R-CFA-983150",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239746,
+    "R_stId": "R-CFA-983152",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239749,
+    "R_stId": "R-CFA-983153",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239752,
+    "R_stId": "R-CFA-983156",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239754,
+    "R_stId": "R-CFA-983157",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239761,
+    "R_stId": "R-CFA-983158",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10239800,
+    "R_stId": "R-CFA-983162",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240070,
+    "R_stId": "R-CFA-983421",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240083,
+    "R_stId": "R-CFA-983422",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240095,
+    "R_stId": "R-CFA-983424",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240097,
+    "R_stId": "R-CFA-983425",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240099,
+    "R_stId": "R-CFA-983427",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240293,
+    "R_stId": "R-CFA-983696",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240315,
+    "R_stId": "R-CFA-983700",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240350,
+    "R_stId": "R-CFA-983703",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240363,
+    "R_stId": "R-CFA-983707",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240556,
+    "R_stId": "R-CFA-997309",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240560,
+    "R_stId": "R-CFA-997311",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240563,
+    "R_stId": "R-CFA-997314",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240572,
+    "R_stId": "R-CFA-997326",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240574,
+    "R_stId": "R-CFA-1006143",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240576,
+    "R_stId": "R-CFA-1006169",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240790,
+    "R_stId": "R-CFA-1067640",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240798,
+    "R_stId": "R-CFA-1067651",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240807,
+    "R_stId": "R-CFA-1067659",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240811,
+    "R_stId": "R-CFA-1067667",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240814,
+    "R_stId": "R-CFA-1067676",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240816,
+    "R_stId": "R-CFA-1067688",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240828,
+    "R_stId": "R-CFA-1112510",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240830,
+    "R_stId": "R-CFA-1112514",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240843,
+    "R_stId": "R-CFA-1112538",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240849,
+    "R_stId": "R-CFA-1112565",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240859,
+    "R_stId": "R-CFA-1112587",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240866,
+    "R_stId": "R-CFA-1112602",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240869,
+    "R_stId": "R-CFA-1112604",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240892,
+    "R_stId": "R-CFA-1112666",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240898,
+    "R_stId": "R-CFA-1112690",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240901,
+    "R_stId": "R-CFA-1112703",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240903,
+    "R_stId": "R-CFA-1112708",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240912,
+    "R_stId": "R-CFA-1112727",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240914,
+    "R_stId": "R-CFA-1112755",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240916,
+    "R_stId": "R-CFA-1168373",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240929,
+    "R_stId": "R-CFA-1168376",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240942,
+    "R_stId": "R-CFA-1168459",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240966,
+    "R_stId": "R-CFA-1168633",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240977,
+    "R_stId": "R-CFA-1168635",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10240992,
+    "R_stId": "R-CFA-1168636",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241027,
+    "R_stId": "R-CFA-1168638",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241051,
+    "R_stId": "R-CFA-1168640",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241057,
+    "R_stId": "R-CFA-1168642",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241059,
+    "R_stId": "R-CFA-1168643",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241063,
+    "R_stId": "R-CFA-1168644",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241088,
+    "R_stId": "R-CFA-1169192",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241093,
+    "R_stId": "R-CFA-1169397",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241097,
+    "R_stId": "R-CFA-1169399",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241117,
+    "R_stId": "R-CFA-1170539",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241202,
+    "R_stId": "R-CFA-1222491",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241237,
+    "R_stId": "R-CFA-1222516",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241245,
+    "R_stId": "R-CFA-1222685",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241535,
+    "R_stId": "R-CFA-1236940",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241557,
+    "R_stId": "R-CFA-1236941",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241603,
+    "R_stId": "R-CFA-1236943",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241610,
+    "R_stId": "R-CFA-1236954",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241612,
+    "R_stId": "R-CFA-1236955",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241628,
+    "R_stId": "R-CFA-1236956",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241630,
+    "R_stId": "R-CFA-1236958",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241632,
+    "R_stId": "R-CFA-1236964",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241678,
+    "R_stId": "R-CFA-1236965",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241700,
+    "R_stId": "R-CFA-1236967",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241702,
+    "R_stId": "R-CFA-1236970",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241866,
+    "R_stId": "R-CFA-1247960",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241984,
+    "R_stId": "R-CFA-1250264",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10241986,
+    "R_stId": "R-CFA-1250280",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10242160,
+    "R_stId": "R-CFA-1295540",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10242675,
+    "R_stId": "R-CFA-1306876",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10242832,
+    "R_stId": "R-CFA-1364044",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10242852,
+    "R_stId": "R-CFA-1370500",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10242854,
+    "R_stId": "R-CFA-1370505",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10243968,
+    "R_stId": "R-CFA-1462023",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10244029,
+    "R_stId": "R-CFA-1471338",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10246681,
+    "R_stId": "R-CFA-1671687",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10246683,
+    "R_stId": "R-CFA-1675473",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247148,
+    "R_stId": "R-CFA-1678841",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247194,
+    "R_stId": "R-CFA-1678842",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247246,
+    "R_stId": "R-CFA-1678920",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247280,
+    "R_stId": "R-CFA-1678921",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247296,
+    "R_stId": "R-CFA-1678923",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247328,
+    "R_stId": "R-CFA-1678927",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247330,
+    "R_stId": "R-CFA-1678944",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247345,
+    "R_stId": "R-CFA-1678981",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247347,
+    "R_stId": "R-CFA-1678998",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247359,
+    "R_stId": "R-CFA-1679098",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247361,
+    "R_stId": "R-CFA-1679589",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247929,
+    "R_stId": "R-CFA-1861595",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10247937,
+    "R_stId": "R-CFA-1861621",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10248606,
+    "R_stId": "R-CFA-1973968",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251577,
+    "R_stId": "R-CFA-2025890",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251828,
+    "R_stId": "R-CFA-2029268",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251830,
+    "R_stId": "R-CFA-2029270",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251835,
+    "R_stId": "R-CFA-2029271",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251837,
+    "R_stId": "R-CFA-2029272",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251839,
+    "R_stId": "R-CFA-2029273",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251848,
+    "R_stId": "R-CFA-2029451",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251852,
+    "R_stId": "R-CFA-2029452",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251857,
+    "R_stId": "R-CFA-2029453",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251861,
+    "R_stId": "R-CFA-2029454",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251869,
+    "R_stId": "R-CFA-2029455",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251875,
+    "R_stId": "R-CFA-2029456",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251888,
+    "R_stId": "R-CFA-2029457",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251890,
+    "R_stId": "R-CFA-2029458",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251899,
+    "R_stId": "R-CFA-2029459",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251902,
+    "R_stId": "R-CFA-2029460",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10251956,
+    "R_stId": "R-CFA-2029465",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252027,
+    "R_stId": "R-CFA-2029466",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252044,
+    "R_stId": "R-CFA-2029467",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252057,
+    "R_stId": "R-CFA-2029468",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252060,
+    "R_stId": "R-CFA-2029469",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252075,
+    "R_stId": "R-CFA-2029471",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252081,
+    "R_stId": "R-CFA-2029473",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252084,
+    "R_stId": "R-CFA-2029475",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252110,
+    "R_stId": "R-CFA-2029476",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252116,
+    "R_stId": "R-CFA-2032396",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252183,
+    "R_stId": "R-CFA-2045911",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252497,
+    "R_stId": "R-CFA-2076220",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252565,
+    "R_stId": "R-CFA-2089927",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10252568,
+    "R_stId": "R-CFA-2089943",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253033,
+    "R_stId": "R-CFA-2130151",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253036,
+    "R_stId": "R-CFA-2130194",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253085,
+    "R_stId": "R-CFA-2130336",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253128,
+    "R_stId": "R-CFA-2130349",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253176,
+    "R_stId": "R-CFA-2130378",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253202,
+    "R_stId": "R-CFA-2130393",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253228,
+    "R_stId": "R-CFA-2130478",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253304,
+    "R_stId": "R-CFA-2130486",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253312,
+    "R_stId": "R-CFA-2130500",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253317,
+    "R_stId": "R-CFA-2130504",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253327,
+    "R_stId": "R-CFA-2130619",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253331,
+    "R_stId": "R-CFA-2130640",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253362,
+    "R_stId": "R-CFA-2130641",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253364,
+    "R_stId": "R-CFA-2130706",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253366,
+    "R_stId": "R-CFA-2130725",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10253398,
+    "R_stId": "R-CFA-2130731",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254175,
+    "R_stId": "R-CFA-2172123",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254179,
+    "R_stId": "R-CFA-2172126",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254481,
+    "R_stId": "R-CFA-2197690",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254487,
+    "R_stId": "R-CFA-2197691",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254489,
+    "R_stId": "R-CFA-2197697",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254496,
+    "R_stId": "R-CFA-2197698",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254508,
+    "R_stId": "R-CFA-2201293",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254516,
+    "R_stId": "R-CFA-2201338",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254524,
+    "R_stId": "R-CFA-2201341",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254569,
+    "R_stId": "R-CFA-2213017",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254623,
+    "R_stId": "R-CFA-2213235",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254625,
+    "R_stId": "R-CFA-2213236",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254627,
+    "R_stId": "R-CFA-2213239",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254634,
+    "R_stId": "R-CFA-2213240",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254638,
+    "R_stId": "R-CFA-2213241",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254640,
+    "R_stId": "R-CFA-2213243",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254668,
+    "R_stId": "R-CFA-2213244",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254672,
+    "R_stId": "R-CFA-2213246",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10254752,
+    "R_stId": "R-CFA-2213248",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255165,
+    "R_stId": "R-CFA-2316429",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255590,
+    "R_stId": "R-CFA-2395412",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255622,
+    "R_stId": "R-CFA-2395801",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255676,
+    "R_stId": "R-CFA-2395992",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255731,
+    "R_stId": "R-CFA-2396561",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255739,
+    "R_stId": "R-CFA-2396594",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255741,
+    "R_stId": "R-CFA-2396599",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255743,
+    "R_stId": "R-CFA-2396606",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255975,
+    "R_stId": "R-CFA-2424476",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255978,
+    "R_stId": "R-CFA-2424477",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255983,
+    "R_stId": "R-CFA-2424480",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255989,
+    "R_stId": "R-CFA-2424481",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255991,
+    "R_stId": "R-CFA-2424482",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10255997,
+    "R_stId": "R-CFA-2424484",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256010,
+    "R_stId": "R-CFA-2424485",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256012,
+    "R_stId": "R-CFA-2424486",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256019,
+    "R_stId": "R-CFA-2424487",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256059,
+    "R_stId": "R-CFA-2426566",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256067,
+    "R_stId": "R-CFA-2426569",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256219,
+    "R_stId": "R-CFA-2454192",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256242,
+    "R_stId": "R-CFA-2454208",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256246,
+    "R_stId": "R-CFA-2454240",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256804,
+    "R_stId": "R-CFA-2530429",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256810,
+    "R_stId": "R-CFA-2530445",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256812,
+    "R_stId": "R-CFA-2530453",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256948,
+    "R_stId": "R-CFA-2559439",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256956,
+    "R_stId": "R-CFA-2559456",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10256958,
+    "R_stId": "R-CFA-2559568",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257057,
+    "R_stId": "R-CFA-2562564",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257071,
+    "R_stId": "R-CFA-2569057",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257380,
+    "R_stId": "R-CFA-2730833",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257387,
+    "R_stId": "R-CFA-2730835",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257405,
+    "R_stId": "R-CFA-2730837",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257412,
+    "R_stId": "R-CFA-2730840",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257416,
+    "R_stId": "R-CFA-2730841",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257427,
+    "R_stId": "R-CFA-2730842",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257429,
+    "R_stId": "R-CFA-2730843",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257431,
+    "R_stId": "R-CFA-2730844",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257436,
+    "R_stId": "R-CFA-2730847",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257449,
+    "R_stId": "R-CFA-2730849",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257451,
+    "R_stId": "R-CFA-2730851",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257460,
+    "R_stId": "R-CFA-2730856",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257476,
+    "R_stId": "R-CFA-2730858",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257492,
+    "R_stId": "R-CFA-2730861",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257497,
+    "R_stId": "R-CFA-2730862",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257504,
+    "R_stId": "R-CFA-2730863",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257518,
+    "R_stId": "R-CFA-2730864",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257546,
+    "R_stId": "R-CFA-2730867",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257553,
+    "R_stId": "R-CFA-2730868",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257556,
+    "R_stId": "R-CFA-2730870",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257558,
+    "R_stId": "R-CFA-2730872",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257561,
+    "R_stId": "R-CFA-2730876",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257564,
+    "R_stId": "R-CFA-2730882",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257568,
+    "R_stId": "R-CFA-2730884",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257572,
+    "R_stId": "R-CFA-2730886",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257574,
+    "R_stId": "R-CFA-2730889",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257576,
+    "R_stId": "R-CFA-2730892",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257578,
+    "R_stId": "R-CFA-2730894",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257580,
+    "R_stId": "R-CFA-2730896",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257588,
+    "R_stId": "R-CFA-2730899",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257591,
+    "R_stId": "R-CFA-2730900",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257595,
+    "R_stId": "R-CFA-2730902",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257603,
+    "R_stId": "R-CFA-2730903",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257606,
+    "R_stId": "R-CFA-2730904",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257772,
+    "R_stId": "R-CFA-2855047",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257798,
+    "R_stId": "R-CFA-2855054",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10257810,
+    "R_stId": "R-CFA-2855125",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258356,
+    "R_stId": "R-CFA-3134883",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258360,
+    "R_stId": "R-CFA-3134914",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258375,
+    "R_stId": "R-CFA-3134946",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258397,
+    "R_stId": "R-CFA-3134953",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258399,
+    "R_stId": "R-CFA-3134954",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258401,
+    "R_stId": "R-CFA-3134962",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10258463,
+    "R_stId": "R-CFA-3204303",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10259251,
+    "R_stId": "R-CFA-3249370",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10259253,
+    "R_stId": "R-CFA-3249372",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10259257,
+    "R_stId": "R-CFA-3249379",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10259288,
+    "R_stId": "R-CFA-3266557",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10263909,
+    "R_stId": "R-CFA-5223305",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10264141,
+    "R_stId": "R-CFA-5229273",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10265235,
+    "R_stId": "R-CFA-5362486",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10265237,
+    "R_stId": "R-CFA-5362500",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10265802,
+    "R_stId": "R-CFA-5432814",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10265809,
+    "R_stId": "R-CFA-5432825",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10265823,
+    "R_stId": "R-CFA-5432849",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10265827,
+    "R_stId": "R-CFA-5432852",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266127,
+    "R_stId": "R-CFA-5607720",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266129,
+    "R_stId": "R-CFA-5607721",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266134,
+    "R_stId": "R-CFA-5607722",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266151,
+    "R_stId": "R-CFA-5607723",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266155,
+    "R_stId": "R-CFA-5607724",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266163,
+    "R_stId": "R-CFA-5607725",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266166,
+    "R_stId": "R-CFA-5607726",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266171,
+    "R_stId": "R-CFA-5607728",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266175,
+    "R_stId": "R-CFA-5607731",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266209,
+    "R_stId": "R-CFA-5607732",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266213,
+    "R_stId": "R-CFA-5607733",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266217,
+    "R_stId": "R-CFA-5607734",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266222,
+    "R_stId": "R-CFA-5607735",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266226,
+    "R_stId": "R-CFA-5607736",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266228,
+    "R_stId": "R-CFA-5607737",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266235,
+    "R_stId": "R-CFA-5607740",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266241,
+    "R_stId": "R-CFA-5607741",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266244,
+    "R_stId": "R-CFA-5607742",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266246,
+    "R_stId": "R-CFA-5607744",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266248,
+    "R_stId": "R-CFA-5607746",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266252,
+    "R_stId": "R-CFA-5607747",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266265,
+    "R_stId": "R-CFA-5607750",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266269,
+    "R_stId": "R-CFA-5607751",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266273,
+    "R_stId": "R-CFA-5607753",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266277,
+    "R_stId": "R-CFA-5607755",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266280,
+    "R_stId": "R-CFA-5607756",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266285,
+    "R_stId": "R-CFA-5607757",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266287,
+    "R_stId": "R-CFA-5607759",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10266289,
+    "R_stId": "R-CFA-5609665",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267013,
+    "R_stId": "R-CFA-5621347",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267023,
+    "R_stId": "R-CFA-5621353",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267029,
+    "R_stId": "R-CFA-5621354",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267034,
+    "R_stId": "R-CFA-5621355",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267039,
+    "R_stId": "R-CFA-5621363",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267043,
+    "R_stId": "R-CFA-5621366",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267046,
+    "R_stId": "R-CFA-5621370",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267269,
+    "R_stId": "R-CFA-5624473",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267282,
+    "R_stId": "R-CFA-5624486",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267287,
+    "R_stId": "R-CFA-5624492",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10267289,
+    "R_stId": "R-CFA-5624494",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269340,
+    "R_stId": "R-CFA-5660660",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269346,
+    "R_stId": "R-CFA-5660662",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269349,
+    "R_stId": "R-CFA-5660663",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269351,
+    "R_stId": "R-CFA-5660665",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269353,
+    "R_stId": "R-CFA-5660666",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269357,
+    "R_stId": "R-CFA-5660980",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269744,
+    "R_stId": "R-CFA-5668404",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269863,
+    "R_stId": "R-CFA-5668414",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269865,
+    "R_stId": "R-CFA-5668417",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269875,
+    "R_stId": "R-CFA-5668454",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269877,
+    "R_stId": "R-CFA-5668467",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269879,
+    "R_stId": "R-CFA-5668481",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269884,
+    "R_stId": "R-CFA-5668520",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269887,
+    "R_stId": "R-CFA-5668534",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269890,
+    "R_stId": "R-CFA-5668543",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269895,
+    "R_stId": "R-CFA-5668545",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269987,
+    "R_stId": "R-CFA-5669012",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10269989,
+    "R_stId": "R-CFA-5669023",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270003,
+    "R_stId": "R-CFA-5669024",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270011,
+    "R_stId": "R-CFA-5669035",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270019,
+    "R_stId": "R-CFA-5669097",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270662,
+    "R_stId": "R-CFA-5675656",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270688,
+    "R_stId": "R-CFA-5675947",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270696,
+    "R_stId": "R-CFA-5675948",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270732,
+    "R_stId": "R-CFA-5676589",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270734,
+    "R_stId": "R-CFA-5676591",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270736,
+    "R_stId": "R-CFA-5676592",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270738,
+    "R_stId": "R-CFA-5676593",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270740,
+    "R_stId": "R-CFA-5676595",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270742,
+    "R_stId": "R-CFA-5676596",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270744,
+    "R_stId": "R-CFA-5676597",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270746,
+    "R_stId": "R-CFA-5676598",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270748,
+    "R_stId": "R-CFA-5676599",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10270768,
+    "R_stId": "R-CFA-5676607",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271484,
+    "R_stId": "R-CFA-5684248",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271487,
+    "R_stId": "R-CFA-5684250",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271491,
+    "R_stId": "R-CFA-5684261",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271496,
+    "R_stId": "R-CFA-5684267",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271498,
+    "R_stId": "R-CFA-5684273",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271502,
+    "R_stId": "R-CFA-5684275",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271723,
+    "R_stId": "R-CFA-5685602",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271731,
+    "R_stId": "R-CFA-5685605",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271747,
+    "R_stId": "R-CFA-5685606",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271837,
+    "R_stId": "R-CFA-5685607",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10271853,
+    "R_stId": "R-CFA-5685608",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10272046,
+    "R_stId": "R-CFA-5686625",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10273401,
+    "R_stId": "R-CFA-5690669",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10273403,
+    "R_stId": "R-CFA-5690701",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10273412,
+    "R_stId": "R-CFA-5690702",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10273414,
+    "R_stId": "R-CFA-5690740",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10273811,
+    "R_stId": "R-CFA-5692315",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10274765,
+    "R_stId": "R-CFA-5696356",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10274773,
+    "R_stId": "R-CFA-5696357",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10274811,
+    "R_stId": "R-CFA-5696358",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10274886,
+    "R_stId": "R-CFA-5696482",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10274904,
+    "R_stId": "R-CFA-5696490",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275873,
+    "R_stId": "R-CFA-6783524",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275877,
+    "R_stId": "R-CFA-6783530",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275879,
+    "R_stId": "R-CFA-6783552",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275883,
+    "R_stId": "R-CFA-6783556",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275885,
+    "R_stId": "R-CFA-6783670",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275887,
+    "R_stId": "R-CFA-6783681",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275936,
+    "R_stId": "R-CFA-6784006",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275938,
+    "R_stId": "R-CFA-6784189",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275940,
+    "R_stId": "R-CFA-6784204",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275960,
+    "R_stId": "R-CFA-6784319",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275962,
+    "R_stId": "R-CFA-6784323",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10275965,
+    "R_stId": "R-CFA-6784324",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276039,
+    "R_stId": "R-CFA-6784763",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276041,
+    "R_stId": "R-CFA-6784765",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276043,
+    "R_stId": "R-CFA-6784791",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276114,
+    "R_stId": "R-CFA-6785165",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276214,
+    "R_stId": "R-CFA-6785762",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276236,
+    "R_stId": "R-CFA-6785821",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276238,
+    "R_stId": "R-CFA-6785898",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276331,
+    "R_stId": "R-CFA-6786050",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276337,
+    "R_stId": "R-CFA-6786058",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276339,
+    "R_stId": "R-CFA-6786070",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276359,
+    "R_stId": "R-CFA-6786072",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276366,
+    "R_stId": "R-CFA-6786095",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276369,
+    "R_stId": "R-CFA-6786096",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276375,
+    "R_stId": "R-CFA-6786097",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276377,
+    "R_stId": "R-CFA-6786101",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276379,
+    "R_stId": "R-CFA-6786110",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276381,
+    "R_stId": "R-CFA-6786114",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276383,
+    "R_stId": "R-CFA-6786118",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276385,
+    "R_stId": "R-CFA-6786124",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276438,
+    "R_stId": "R-CFA-6786293",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276471,
+    "R_stId": "R-CFA-6786789",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276543,
+    "R_stId": "R-CFA-6787737",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276570,
+    "R_stId": "R-CFA-6787820",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276611,
+    "R_stId": "R-CFA-6788571",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276620,
+    "R_stId": "R-CFA-6788582",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276640,
+    "R_stId": "R-CFA-6788622",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276644,
+    "R_stId": "R-CFA-6788623",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276646,
+    "R_stId": "R-CFA-6788628",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276692,
+    "R_stId": "R-CFA-6788999",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276707,
+    "R_stId": "R-CFA-6789031",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276717,
+    "R_stId": "R-CFA-6789072",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276719,
+    "R_stId": "R-CFA-6789092",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276722,
+    "R_stId": "R-CFA-6789126",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276724,
+    "R_stId": "R-CFA-6789136",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10276747,
+    "R_stId": "R-CFA-6790038",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10277829,
+    "R_stId": "R-CFA-6798474",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10277833,
+    "R_stId": "R-CFA-6798528",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10278087,
+    "R_stId": "R-CFA-6798739",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10278383,
+    "R_stId": "R-CFA-6798743",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10278603,
+    "R_stId": "R-CFA-6798745",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10278837,
+    "R_stId": "R-CFA-6798747",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10279257,
+    "R_stId": "R-CFA-6798748",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10279433,
+    "R_stId": "R-CFA-6798749",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10279800,
+    "R_stId": "R-CFA-6798751",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280154,
+    "R_stId": "R-CFA-6799350",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280261,
+    "R_stId": "R-CFA-6799977",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280263,
+    "R_stId": "R-CFA-6799981",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280568,
+    "R_stId": "R-CFA-6800426",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280854,
+    "R_stId": "R-CFA-6800434",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280983,
+    "R_stId": "R-CFA-6801762",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280992,
+    "R_stId": "R-CFA-6801766",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280994,
+    "R_stId": "R-CFA-6801776",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10280998,
+    "R_stId": "R-CFA-6801808",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281029,
+    "R_stId": "R-CFA-6803545",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281059,
+    "R_stId": "R-CFA-6804099",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281063,
+    "R_stId": "R-CFA-6804100",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281585,
+    "R_stId": "R-CFA-6805943",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281589,
+    "R_stId": "R-CFA-6805981",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281626,
+    "R_stId": "R-CFA-6806732",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281810,
+    "R_stId": "R-CFA-6807565",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281814,
+    "R_stId": "R-CFA-6807578",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10281818,
+    "R_stId": "R-CFA-6807585",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10282093,
+    "R_stId": "R-CFA-6808566",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10282280,
+    "R_stId": "R-CFA-6809140",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10282378,
+    "R_stId": "R-CFA-6809521",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10282667,
+    "R_stId": "R-CFA-6810724",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10282947,
+    "R_stId": "R-CFA-6813626",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10282953,
+    "R_stId": "R-CFA-6813659",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10283791,
+    "R_stId": "R-CFA-8848314",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10283794,
+    "R_stId": "R-CFA-8848316",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10283809,
+    "R_stId": "R-CFA-8848335",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10283833,
+    "R_stId": "R-CFA-8848370",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10283842,
+    "R_stId": "R-CFA-8848395",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284236,
+    "R_stId": "R-CFA-8850326",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284254,
+    "R_stId": "R-CFA-8850356",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284424,
+    "R_stId": "R-CFA-8851044",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284499,
+    "R_stId": "R-CFA-8851436",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284616,
+    "R_stId": "R-CFA-8851979",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284622,
+    "R_stId": "R-CFA-8851988",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284630,
+    "R_stId": "R-CFA-8852010",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284852,
+    "R_stId": "R-CFA-8852200",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284856,
+    "R_stId": "R-CFA-8852266",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284915,
+    "R_stId": "R-CFA-8852481",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284929,
+    "R_stId": "R-CFA-8852509",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284948,
+    "R_stId": "R-CFA-8852580",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284959,
+    "R_stId": "R-CFA-8852716",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284978,
+    "R_stId": "R-CFA-8852809",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284990,
+    "R_stId": "R-CFA-8852874",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10284996,
+    "R_stId": "R-CFA-8853252",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285382,
+    "R_stId": "R-CFA-8854645",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285386,
+    "R_stId": "R-CFA-8854736",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285390,
+    "R_stId": "R-CFA-8854738",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285458,
+    "R_stId": "R-CFA-8855375",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285460,
+    "R_stId": "R-CFA-8855381",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285469,
+    "R_stId": "R-CFA-8855490",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285584,
+    "R_stId": "R-CFA-8856157",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285596,
+    "R_stId": "R-CFA-8856189",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285876,
+    "R_stId": "R-CFA-8858475",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285894,
+    "R_stId": "R-CFA-8862084",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285912,
+    "R_stId": "R-CFA-8862090",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285952,
+    "R_stId": "R-CFA-8862300",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10285955,
+    "R_stId": "R-CFA-8862320",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10286218,
+    "R_stId": "R-CFA-8863973",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10286398,
+    "R_stId": "R-CFA-8865605",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10286464,
+    "R_stId": "R-CFA-8865613",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10287323,
+    "R_stId": "R-CFA-8869683",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10287327,
+    "R_stId": "R-CFA-8869694",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10287747,
+    "R_stId": "R-CFA-8870678",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10289113,
+    "R_stId": "R-CFA-8933635",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10289498,
+    "R_stId": "R-CFA-8938431",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290166,
+    "R_stId": "R-CFA-8940641",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290179,
+    "R_stId": "R-CFA-8940998",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290662,
+    "R_stId": "R-CFA-8948015",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290664,
+    "R_stId": "R-CFA-8948018",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290681,
+    "R_stId": "R-CFA-8948063",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290683,
+    "R_stId": "R-CFA-8948066",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290878,
+    "R_stId": "R-CFA-8950113",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290880,
+    "R_stId": "R-CFA-8950128",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290884,
+    "R_stId": "R-CFA-8950179",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290897,
+    "R_stId": "R-CFA-8950181",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290903,
+    "R_stId": "R-CFA-8950183",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290905,
+    "R_stId": "R-CFA-8950210",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290927,
+    "R_stId": "R-CFA-8950269",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290956,
+    "R_stId": "R-CFA-8950340",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290962,
+    "R_stId": "R-CFA-8950342",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290972,
+    "R_stId": "R-CFA-8950347",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290978,
+    "R_stId": "R-CFA-8950362",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290980,
+    "R_stId": "R-CFA-8950387",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290982,
+    "R_stId": "R-CFA-8950398",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290991,
+    "R_stId": "R-CFA-8950405",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10290995,
+    "R_stId": "R-CFA-8950410",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291002,
+    "R_stId": "R-CFA-8950423",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291008,
+    "R_stId": "R-CFA-8950441",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291023,
+    "R_stId": "R-CFA-8950448",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291038,
+    "R_stId": "R-CFA-8950453",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291040,
+    "R_stId": "R-CFA-8950456",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291043,
+    "R_stId": "R-CFA-8950485",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291051,
+    "R_stId": "R-CFA-8950504",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291053,
+    "R_stId": "R-CFA-8950518",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291059,
+    "R_stId": "R-CFA-8950522",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291062,
+    "R_stId": "R-CFA-8950537",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291068,
+    "R_stId": "R-CFA-8950724",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291072,
+    "R_stId": "R-CFA-8950731",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291074,
+    "R_stId": "R-CFA-8950733",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291076,
+    "R_stId": "R-CFA-8950740",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291078,
+    "R_stId": "R-CFA-8950741",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291081,
+    "R_stId": "R-CFA-8950757",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291085,
+    "R_stId": "R-CFA-8950766",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291087,
+    "R_stId": "R-CFA-8950778",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291089,
+    "R_stId": "R-CFA-8950780",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291091,
+    "R_stId": "R-CFA-8950782",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291097,
+    "R_stId": "R-CFA-8951486",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291101,
+    "R_stId": "R-CFA-8951498",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291103,
+    "R_stId": "R-CFA-8951499",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10291109,
+    "R_stId": "R-CFA-8951500",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10292143,
+    "R_stId": "R-CFA-8952749",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10292147,
+    "R_stId": "R-CFA-8952807",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10292149,
+    "R_stId": "R-CFA-8952823",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10292757,
+    "R_stId": "R-CFA-8981093",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10292975,
+    "R_stId": "R-CFA-8981657",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293068,
+    "R_stId": "R-CFA-8982162",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293073,
+    "R_stId": "R-CFA-8982163",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293075,
+    "R_stId": "R-CFA-8982165",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293095,
+    "R_stId": "R-CFA-8983003",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293117,
+    "R_stId": "R-CFA-8983059",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293119,
+    "R_stId": "R-CFA-8983061",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293126,
+    "R_stId": "R-CFA-8983063",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293128,
+    "R_stId": "R-CFA-8983078",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293137,
+    "R_stId": "R-CFA-8983300",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293139,
+    "R_stId": "R-CFA-8983307",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293161,
+    "R_stId": "R-CFA-8983335",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293195,
+    "R_stId": "R-CFA-8983371",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293197,
+    "R_stId": "R-CFA-8983373",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293199,
+    "R_stId": "R-CFA-8983374",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293201,
+    "R_stId": "R-CFA-8983378",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293209,
+    "R_stId": "R-CFA-8983379",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293219,
+    "R_stId": "R-CFA-8983384",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293223,
+    "R_stId": "R-CFA-8983518",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293227,
+    "R_stId": "R-CFA-8983519",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293235,
+    "R_stId": "R-CFA-8983834",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293243,
+    "R_stId": "R-CFA-8983835",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293245,
+    "R_stId": "R-CFA-8983841",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293247,
+    "R_stId": "R-CFA-8983845",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293251,
+    "R_stId": "R-CFA-8983870",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293258,
+    "R_stId": "R-CFA-8983872",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293260,
+    "R_stId": "R-CFA-8983876",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293262,
+    "R_stId": "R-CFA-8983878",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293264,
+    "R_stId": "R-CFA-8983983",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293266,
+    "R_stId": "R-CFA-8983996",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293270,
+    "R_stId": "R-CFA-8984001",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293274,
+    "R_stId": "R-CFA-8984012",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293282,
+    "R_stId": "R-CFA-8984014",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293284,
+    "R_stId": "R-CFA-8984021",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293286,
+    "R_stId": "R-CFA-8984023",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293298,
+    "R_stId": "R-CFA-8985201",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293328,
+    "R_stId": "R-CFA-8985900",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293338,
+    "R_stId": "R-CFA-8985914",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293342,
+    "R_stId": "R-CFA-8985929",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293346,
+    "R_stId": "R-CFA-8985943",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293350,
+    "R_stId": "R-CFA-8985950",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293354,
+    "R_stId": "R-CFA-8985966",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293356,
+    "R_stId": "R-CFA-8985973",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293362,
+    "R_stId": "R-CFA-8985981",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293368,
+    "R_stId": "R-CFA-8985988",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293419,
+    "R_stId": "R-CFA-8986446",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293423,
+    "R_stId": "R-CFA-8986480",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293435,
+    "R_stId": "R-CFA-8986972",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293459,
+    "R_stId": "R-CFA-8986985",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293469,
+    "R_stId": "R-CFA-8986994",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293484,
+    "R_stId": "R-CFA-8986995",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293488,
+    "R_stId": "R-CFA-8987007",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293493,
+    "R_stId": "R-CFA-8987012",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293499,
+    "R_stId": "R-CFA-8987014",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293507,
+    "R_stId": "R-CFA-8987015",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293509,
+    "R_stId": "R-CFA-8987033",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293511,
+    "R_stId": "R-CFA-8987039",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293518,
+    "R_stId": "R-CFA-8987040",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293521,
+    "R_stId": "R-CFA-8987042",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293523,
+    "R_stId": "R-CFA-8987043",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293531,
+    "R_stId": "R-CFA-8987052",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293535,
+    "R_stId": "R-CFA-8987063",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293540,
+    "R_stId": "R-CFA-8987070",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293544,
+    "R_stId": "R-CFA-8987080",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293547,
+    "R_stId": "R-CFA-8987084",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293552,
+    "R_stId": "R-CFA-8987096",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293560,
+    "R_stId": "R-CFA-8987097",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293570,
+    "R_stId": "R-CFA-8987104",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293582,
+    "R_stId": "R-CFA-8987105",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293584,
+    "R_stId": "R-CFA-8987120",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293587,
+    "R_stId": "R-CFA-8987129",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293589,
+    "R_stId": "R-CFA-8987132",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293594,
+    "R_stId": "R-CFA-8987141",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293601,
+    "R_stId": "R-CFA-8987150",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293603,
+    "R_stId": "R-CFA-8987156",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293605,
+    "R_stId": "R-CFA-8987161",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293612,
+    "R_stId": "R-CFA-8987179",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293615,
+    "R_stId": "R-CFA-8987202",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293617,
+    "R_stId": "R-CFA-8987214",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293623,
+    "R_stId": "R-CFA-8987218",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293625,
+    "R_stId": "R-CFA-8987220",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293627,
+    "R_stId": "R-CFA-8987223",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293631,
+    "R_stId": "R-CFA-8987230",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293633,
+    "R_stId": "R-CFA-8987236",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293636,
+    "R_stId": "R-CFA-8987255",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293638,
+    "R_stId": "R-CFA-8987266",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293640,
+    "R_stId": "R-CFA-8987270",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293654,
+    "R_stId": "R-CFA-9005980",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293688,
+    "R_stId": "R-CFA-9006850",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293700,
+    "R_stId": "R-CFA-9006870",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293702,
+    "R_stId": "R-CFA-9006873",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293731,
+    "R_stId": "R-CFA-9007882",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293735,
+    "R_stId": "R-CFA-9007901",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293751,
+    "R_stId": "R-CFA-9008043",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293755,
+    "R_stId": "R-CFA-9008052",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293759,
+    "R_stId": "R-CFA-9008054",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293800,
+    "R_stId": "R-CFA-9008577",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293805,
+    "R_stId": "R-CFA-9008684",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293812,
+    "R_stId": "R-CFA-9008692",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293816,
+    "R_stId": "R-CFA-9008694",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293820,
+    "R_stId": "R-CFA-9008696",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293851,
+    "R_stId": "R-CFA-9008928",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293863,
+    "R_stId": "R-CFA-9009072",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293868,
+    "R_stId": "R-CFA-9009227",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293903,
+    "R_stId": "R-CFA-9009485",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293905,
+    "R_stId": "R-CFA-9009488",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293933,
+    "R_stId": "R-CFA-9009554",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293935,
+    "R_stId": "R-CFA-9009558",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293941,
+    "R_stId": "R-CFA-9009910",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293946,
+    "R_stId": "R-CFA-9009936",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10293953,
+    "R_stId": "R-CFA-9009950",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294002,
+    "R_stId": "R-CFA-9011748",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294156,
+    "R_stId": "R-CFA-9012542",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294163,
+    "R_stId": "R-CFA-9012556",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294191,
+    "R_stId": "R-CFA-9012689",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294627,
+    "R_stId": "R-CFA-9013869",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294635,
+    "R_stId": "R-CFA-9014052",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10294639,
+    "R_stId": "R-CFA-9014074",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10295206,
+    "R_stId": "R-CFA-9021306",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10295388,
+    "R_stId": "R-CFA-9025969",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10295953,
+    "R_stId": "R-CFA-9604480",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10295961,
+    "R_stId": "R-CFA-9604767",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10295992,
+    "R_stId": "R-CFA-9606151",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10296003,
+    "R_stId": "R-CFA-9606884",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10296007,
+    "R_stId": "R-CFA-9606887",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10296011,
+    "R_stId": "R-CFA-9606894",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10296013,
+    "R_stId": "R-CFA-9607301",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10296016,
+    "R_stId": "R-CFA-9607304",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10296686,
+    "R_stId": "R-CFA-9630923",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297126,
+    "R_stId": "R-CFA-9645394",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297130,
+    "R_stId": "R-CFA-9645406",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297135,
+    "R_stId": "R-CFA-9645414",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297137,
+    "R_stId": "R-CFA-9645428",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297142,
+    "R_stId": "R-CFA-9645442",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297146,
+    "R_stId": "R-CFA-9645481",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297150,
+    "R_stId": "R-CFA-9645501",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297152,
+    "R_stId": "R-CFA-9645520",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297160,
+    "R_stId": "R-CFA-9645524",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297163,
+    "R_stId": "R-CFA-9645535",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297822,
+    "R_stId": "R-CFA-9674816",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297832,
+    "R_stId": "R-CFA-9676160",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297886,
+    "R_stId": "R-CFA-9677579",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297890,
+    "R_stId": "R-CFA-9677585",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297902,
+    "R_stId": "R-CFA-9678561",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297904,
+    "R_stId": "R-CFA-9678737",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297928,
+    "R_stId": "R-CFA-9678935",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297932,
+    "R_stId": "R-CFA-9679028",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297940,
+    "R_stId": "R-CFA-9679029",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297944,
+    "R_stId": "R-CFA-9679045",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297946,
+    "R_stId": "R-CFA-9679421",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297952,
+    "R_stId": "R-CFA-9679740",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297966,
+    "R_stId": "R-CFA-9681294",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10297972,
+    "R_stId": "R-CFA-9681763",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298055,
+    "R_stId": "R-CFA-9689680",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298067,
+    "R_stId": "R-CFA-9690461",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298095,
+    "R_stId": "R-CFA-9691421",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298103,
+    "R_stId": "R-CFA-9691621",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298278,
+    "R_stId": "R-CFA-9696179",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298397,
+    "R_stId": "R-CFA-9698170",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298403,
+    "R_stId": "R-CFA-9698408",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298406,
+    "R_stId": "R-CFA-9699578",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298408,
+    "R_stId": "R-CFA-9699581",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298615,
+    "R_stId": "R-CFA-9705738",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298633,
+    "R_stId": "R-CFA-9706287",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298651,
+    "R_stId": "R-CFA-9706293",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298658,
+    "R_stId": "R-CFA-9706298",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298662,
+    "R_stId": "R-CFA-9706304",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298666,
+    "R_stId": "R-CFA-9706308",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298670,
+    "R_stId": "R-CFA-9706312",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298672,
+    "R_stId": "R-CFA-9706315",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298674,
+    "R_stId": "R-CFA-9706319",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298676,
+    "R_stId": "R-CFA-9706323",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298680,
+    "R_stId": "R-CFA-9706328",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298684,
+    "R_stId": "R-CFA-9706330",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298688,
+    "R_stId": "R-CFA-9706336",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298697,
+    "R_stId": "R-CFA-9706340",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298700,
+    "R_stId": "R-CFA-9706344",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298704,
+    "R_stId": "R-CFA-9706345",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298709,
+    "R_stId": "R-CFA-9706350",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298721,
+    "R_stId": "R-CFA-9706354",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298733,
+    "R_stId": "R-CFA-9706364",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298852,
+    "R_stId": "R-CFA-9707977",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298948,
+    "R_stId": "R-CFA-9709831",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298952,
+    "R_stId": "R-CFA-9709842",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298977,
+    "R_stId": "R-CFA-9710959",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10298981,
+    "R_stId": "R-CFA-9710963",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299435,
+    "R_stId": "R-CFA-9714959",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299500,
+    "R_stId": "R-CFA-9724670",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299504,
+    "R_stId": "R-CFA-9724685",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299514,
+    "R_stId": "R-CFA-9725206",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299703,
+    "R_stId": "R-CFA-9732729",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299711,
+    "R_stId": "R-CFA-9732738",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299714,
+    "R_stId": "R-CFA-9732753",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299781,
+    "R_stId": "R-CFA-9734547",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299818,
+    "R_stId": "R-CFA-9736836",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299866,
+    "R_stId": "R-CFA-9749471",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299874,
+    "R_stId": "R-CFA-9749505",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299911,
+    "R_stId": "R-CFA-9750226",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299937,
+    "R_stId": "R-CFA-9750942",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10299940,
+    "R_stId": "R-CFA-9750946",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10300107,
+    "R_stId": "R-CFA-9757951",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10300111,
+    "R_stId": "R-CFA-9757954",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10300123,
+    "R_stId": "R-CFA-9758604",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10300270,
+    "R_stId": "R-CFA-9761344",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301048,
+    "R_stId": "R-CFA-9773803",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301549,
+    "R_stId": "R-CFA-9823904",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301553,
+    "R_stId": "R-CFA-9823906",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301556,
+    "R_stId": "R-CFA-9823910",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301562,
+    "R_stId": "R-CFA-9823932",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301564,
+    "R_stId": "R-CFA-9823934",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301574,
+    "R_stId": "R-CFA-9823939",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301589,
+    "R_stId": "R-CFA-9824732",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301595,
+    "R_stId": "R-CFA-9824882",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301847,
+    "R_stId": "R-CFA-9833635",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301853,
+    "R_stId": "R-CFA-9833777",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301910,
+    "R_stId": "R-CFA-9834807",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301920,
+    "R_stId": "R-CFA-9834821",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301956,
+    "R_stId": "R-CFA-9835121",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301960,
+    "R_stId": "R-CFA-9835189",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301964,
+    "R_stId": "R-CFA-9835328",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301974,
+    "R_stId": "R-CFA-9835358",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10301982,
+    "R_stId": "R-CFA-9835385",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302020,
+    "R_stId": "R-CFA-9835411",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302024,
+    "R_stId": "R-CFA-9835443",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302030,
+    "R_stId": "R-CFA-9835454",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302038,
+    "R_stId": "R-CFA-9835944",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302044,
+    "R_stId": "R-CFA-9836159",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302049,
+    "R_stId": "R-CFA-9836184",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302059,
+    "R_stId": "R-CFA-9836322",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302066,
+    "R_stId": "R-CFA-9836362",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302076,
+    "R_stId": "R-CFA-9836383",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302092,
+    "R_stId": "R-CFA-9836404",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302101,
+    "R_stId": "R-CFA-9836435",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302105,
+    "R_stId": "R-CFA-9836500",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302110,
+    "R_stId": "R-CFA-9836515",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302114,
+    "R_stId": "R-CFA-9836606",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302120,
+    "R_stId": "R-CFA-9836617",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302122,
+    "R_stId": "R-CFA-9836621",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302131,
+    "R_stId": "R-CFA-9836664",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10302135,
+    "R_stId": "R-CFA-9836702",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10303457,
+    "R_stId": "R-CFA-9860273",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10303463,
+    "R_stId": "R-CFA-9860278",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10303967,
+    "R_stId": "R-CFA-9909631",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10303969,
+    "R_stId": "R-CFA-9909646",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10303993,
+    "R_stId": "R-CFA-9912636",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304008,
+    "R_stId": "R-CFA-9912655",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304010,
+    "R_stId": "R-CFA-9912747",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304012,
+    "R_stId": "R-CFA-9912751",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304288,
+    "R_stId": "R-CFA-9921802",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304330,
+    "R_stId": "R-CFA-9929350",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304332,
+    "R_stId": "R-CFA-9929352",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304337,
+    "R_stId": "R-CFA-9929353",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304341,
+    "R_stId": "R-CFA-9929357",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304357,
+    "R_stId": "R-CFA-9929360",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304371,
+    "R_stId": "R-CFA-9929482",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304387,
+    "R_stId": "R-CFA-9929484",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304393,
+    "R_stId": "R-CFA-9929486",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304395,
+    "R_stId": "R-CFA-9929487",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304398,
+    "R_stId": "R-CFA-9929490",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304516,
+    "R_stId": "R-CFA-9931262",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304559,
+    "R_stId": "R-CFA-9931264",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304581,
+    "R_stId": "R-CFA-9931286",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304591,
+    "R_stId": "R-CFA-9931288",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304596,
+    "R_stId": "R-CFA-9931290",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304619,
+    "R_stId": "R-CFA-9931292",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304624,
+    "R_stId": "R-CFA-9931297",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304627,
+    "R_stId": "R-CFA-9931298",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304629,
+    "R_stId": "R-CFA-9931313",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304631,
+    "R_stId": "R-CFA-9931314",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304636,
+    "R_stId": "R-CFA-9931409",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304641,
+    "R_stId": "R-CFA-9931418",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304643,
+    "R_stId": "R-CFA-9931419",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10304648,
+    "R_stId": "R-CFA-9931430",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10305105,
+    "R_stId": "R-CFA-9936162",
+    "species": "Canis familiaris"
+  },
+  {
+    "pathway_name": "Immune System",
+    "pathway_stId": "R-CFA-168256",
+    "R": 10305508,
+    "R_stId": "R-CFA-9957021",
+    "species": "Canis familiaris"
+  }
+]

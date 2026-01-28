@@ -1,0 +1,4244 @@
+﻿[
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159728,
+    "R_stId": "R-HSA-159728",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159729,
+    "R_stId": "R-HSA-159729",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159733,
+    "R_stId": "R-HSA-159733",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159752,
+    "R_stId": "R-HSA-159752",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159757,
+    "R_stId": "R-HSA-159757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159761,
+    "R_stId": "R-HSA-159761",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159762,
+    "R_stId": "R-HSA-159762",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159771,
+    "R_stId": "R-HSA-159771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159773,
+    "R_stId": "R-HSA-159773",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159783,
+    "R_stId": "R-HSA-159783",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159795,
+    "R_stId": "R-HSA-159795",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159796,
+    "R_stId": "R-HSA-159796",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159803,
+    "R_stId": "R-HSA-159803",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159819,
+    "R_stId": "R-HSA-159819",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159826,
+    "R_stId": "R-HSA-159826",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159836,
+    "R_stId": "R-HSA-159836",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159843,
+    "R_stId": "R-HSA-159843",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 159868,
+    "R_stId": "R-HSA-159868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162683,
+    "R_stId": "R-HSA-162683",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162715,
+    "R_stId": "R-HSA-162715",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162721,
+    "R_stId": "R-HSA-162721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162729,
+    "R_stId": "R-HSA-162729",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162730,
+    "R_stId": "R-HSA-162730",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162742,
+    "R_stId": "R-HSA-162742",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162797,
+    "R_stId": "R-HSA-162797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162798,
+    "R_stId": "R-HSA-162798",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162821,
+    "R_stId": "R-HSA-162821",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162830,
+    "R_stId": "R-HSA-162830",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162836,
+    "R_stId": "R-HSA-162836",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162840,
+    "R_stId": "R-HSA-162840",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162857,
+    "R_stId": "R-HSA-162857",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 162873,
+    "R_stId": "R-HSA-162873",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163069,
+    "R_stId": "R-HSA-163069",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163798,
+    "R_stId": "R-HSA-163798",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163809,
+    "R_stId": "R-HSA-163809",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163810,
+    "R_stId": "R-HSA-163810",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163820,
+    "R_stId": "R-HSA-163820",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163825,
+    "R_stId": "R-HSA-163825",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 163843,
+    "R_stId": "R-HSA-163843",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 191414,
+    "R_stId": "R-HSA-191414",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 203973,
+    "R_stId": "R-HSA-203973",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 203977,
+    "R_stId": "R-HSA-203977",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 204008,
+    "R_stId": "R-HSA-204008",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 204617,
+    "R_stId": "R-HSA-204617",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 204647,
+    "R_stId": "R-HSA-204647",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 204662,
+    "R_stId": "R-HSA-204662",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 428585,
+    "R_stId": "R-HSA-428585",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446185,
+    "R_stId": "R-HSA-446185",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446187,
+    "R_stId": "R-HSA-446187",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446188,
+    "R_stId": "R-HSA-446188",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446189,
+    "R_stId": "R-HSA-446189",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446191,
+    "R_stId": "R-HSA-446191",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446194,
+    "R_stId": "R-HSA-446194",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446195,
+    "R_stId": "R-HSA-446195",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446198,
+    "R_stId": "R-HSA-446198",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446200,
+    "R_stId": "R-HSA-446200",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446201,
+    "R_stId": "R-HSA-446201",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446202,
+    "R_stId": "R-HSA-446202",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446204,
+    "R_stId": "R-HSA-446204",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446207,
+    "R_stId": "R-HSA-446207",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446208,
+    "R_stId": "R-HSA-446208",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446209,
+    "R_stId": "R-HSA-446209",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446211,
+    "R_stId": "R-HSA-446211",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446212,
+    "R_stId": "R-HSA-446212",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446214,
+    "R_stId": "R-HSA-446214",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446215,
+    "R_stId": "R-HSA-446215",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446216,
+    "R_stId": "R-HSA-446216",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446218,
+    "R_stId": "R-HSA-446218",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 446221,
+    "R_stId": "R-HSA-446221",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 449715,
+    "R_stId": "R-HSA-449715",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 449718,
+    "R_stId": "R-HSA-449718",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 449734,
+    "R_stId": "R-HSA-449734",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 532549,
+    "R_stId": "R-HSA-532549",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 532667,
+    "R_stId": "R-HSA-532667",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 532678,
+    "R_stId": "R-HSA-532678",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 535717,
+    "R_stId": "R-HSA-535717",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 548884,
+    "R_stId": "R-HSA-548884",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 548890,
+    "R_stId": "R-HSA-548890",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 688136,
+    "R_stId": "R-HSA-688136",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 727807,
+    "R_stId": "R-HSA-727807",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 742345,
+    "R_stId": "R-HSA-742345",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 870437,
+    "R_stId": "R-HSA-870437",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 870479,
+    "R_stId": "R-HSA-870479",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 901006,
+    "R_stId": "R-HSA-901006",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 901024,
+    "R_stId": "R-HSA-901024",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 901036,
+    "R_stId": "R-HSA-901036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 901039,
+    "R_stId": "R-HSA-901039",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 901047,
+    "R_stId": "R-HSA-901047",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 901074,
+    "R_stId": "R-HSA-901074",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 912291,
+    "R_stId": "R-HSA-912291",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 913675,
+    "R_stId": "R-HSA-913675",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914005,
+    "R_stId": "R-HSA-914005",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914006,
+    "R_stId": "R-HSA-914006",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914008,
+    "R_stId": "R-HSA-914008",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914010,
+    "R_stId": "R-HSA-914010",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914012,
+    "R_stId": "R-HSA-914012",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914017,
+    "R_stId": "R-HSA-914017",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 914018,
+    "R_stId": "R-HSA-914018",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 915148,
+    "R_stId": "R-HSA-915148",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 936381,
+    "R_stId": "R-HSA-936381",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 936390,
+    "R_stId": "R-HSA-936390",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 947991,
+    "R_stId": "R-HSA-947991",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 964737,
+    "R_stId": "R-HSA-964737",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 964759,
+    "R_stId": "R-HSA-964759",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 964768,
+    "R_stId": "R-HSA-964768",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 964825,
+    "R_stId": "R-HSA-964825",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 964830,
+    "R_stId": "R-HSA-964830",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975814,
+    "R_stId": "R-HSA-975814",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975829,
+    "R_stId": "R-HSA-975829",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975902,
+    "R_stId": "R-HSA-975902",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975903,
+    "R_stId": "R-HSA-975903",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975916,
+    "R_stId": "R-HSA-975916",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975919,
+    "R_stId": "R-HSA-975919",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 975926,
+    "R_stId": "R-HSA-975926",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 977071,
+    "R_stId": "R-HSA-977071",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 981497,
+    "R_stId": "R-HSA-981497",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 981809,
+    "R_stId": "R-HSA-981809",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 981814,
+    "R_stId": "R-HSA-981814",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1017228,
+    "R_stId": "R-HSA-1017228",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1022127,
+    "R_stId": "R-HSA-1022127",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1022129,
+    "R_stId": "R-HSA-1022129",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1022133,
+    "R_stId": "R-HSA-1022133",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1028788,
+    "R_stId": "R-HSA-1028788",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1614336,
+    "R_stId": "R-HSA-1614336",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1614362,
+    "R_stId": "R-HSA-1614362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1964501,
+    "R_stId": "R-HSA-1964501",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 1964505,
+    "R_stId": "R-HSA-1964505",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2179291,
+    "R_stId": "R-HSA-2179291",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2990833,
+    "R_stId": "R-HSA-2990833",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2990840,
+    "R_stId": "R-HSA-2990840",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2990842,
+    "R_stId": "R-HSA-2990842",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2993763,
+    "R_stId": "R-HSA-2993763",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2993769,
+    "R_stId": "R-HSA-2993769",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2993780,
+    "R_stId": "R-HSA-2993780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2993781,
+    "R_stId": "R-HSA-2993781",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2993784,
+    "R_stId": "R-HSA-2993784",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2993790,
+    "R_stId": "R-HSA-2993790",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2997616,
+    "R_stId": "R-HSA-2997616",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2997706,
+    "R_stId": "R-HSA-2997706",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2997709,
+    "R_stId": "R-HSA-2997709",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 2997723,
+    "R_stId": "R-HSA-2997723",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000348,
+    "R_stId": "R-HSA-3000348",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000383,
+    "R_stId": "R-HSA-3000383",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000399,
+    "R_stId": "R-HSA-3000399",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000411,
+    "R_stId": "R-HSA-3000411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000433,
+    "R_stId": "R-HSA-3000433",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000434,
+    "R_stId": "R-HSA-3000434",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3000449,
+    "R_stId": "R-HSA-3000449",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3108203,
+    "R_stId": "R-HSA-3108203",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3108209,
+    "R_stId": "R-HSA-3108209",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3108212,
+    "R_stId": "R-HSA-3108212",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3232162,
+    "R_stId": "R-HSA-3232162",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3234081,
+    "R_stId": "R-HSA-3234081",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3234084,
+    "R_stId": "R-HSA-3234084",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3234094,
+    "R_stId": "R-HSA-3234094",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3247493,
+    "R_stId": "R-HSA-3247493",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3296126,
+    "R_stId": "R-HSA-3296126",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3465545,
+    "R_stId": "R-HSA-3465545",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3640872,
+    "R_stId": "R-HSA-3640872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3782535,
+    "R_stId": "R-HSA-3782535",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3899291,
+    "R_stId": "R-HSA-3899291",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3900047,
+    "R_stId": "R-HSA-3900047",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3900070,
+    "R_stId": "R-HSA-3900070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3900177,
+    "R_stId": "R-HSA-3900177",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3900194,
+    "R_stId": "R-HSA-3900194",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3903017,
+    "R_stId": "R-HSA-3903017",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3927824,
+    "R_stId": "R-HSA-3927824",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3927886,
+    "R_stId": "R-HSA-3927886",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3927959,
+    "R_stId": "R-HSA-3927959",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3968362,
+    "R_stId": "R-HSA-3968362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 3968414,
+    "R_stId": "R-HSA-3968414",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084976,
+    "R_stId": "R-HSA-4084976",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084978,
+    "R_stId": "R-HSA-4084978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084980,
+    "R_stId": "R-HSA-4084980",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084982,
+    "R_stId": "R-HSA-4084982",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084984,
+    "R_stId": "R-HSA-4084984",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084989,
+    "R_stId": "R-HSA-4084989",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084990,
+    "R_stId": "R-HSA-4084990",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084994,
+    "R_stId": "R-HSA-4084994",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4084999,
+    "R_stId": "R-HSA-4084999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085020,
+    "R_stId": "R-HSA-4085020",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085021,
+    "R_stId": "R-HSA-4085021",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085028,
+    "R_stId": "R-HSA-4085028",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085029,
+    "R_stId": "R-HSA-4085029",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085033,
+    "R_stId": "R-HSA-4085033",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085217,
+    "R_stId": "R-HSA-4085217",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085296,
+    "R_stId": "R-HSA-4085296",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085318,
+    "R_stId": "R-HSA-4085318",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085331,
+    "R_stId": "R-HSA-4085331",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085347,
+    "R_stId": "R-HSA-4085347",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085350,
+    "R_stId": "R-HSA-4085350",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085372,
+    "R_stId": "R-HSA-4085372",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085992,
+    "R_stId": "R-HSA-4085992",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4085994,
+    "R_stId": "R-HSA-4085994",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4086036,
+    "R_stId": "R-HSA-4086036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4086059,
+    "R_stId": "R-HSA-4086059",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4086083,
+    "R_stId": "R-HSA-4086083",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4086088,
+    "R_stId": "R-HSA-4086088",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4088205,
+    "R_stId": "R-HSA-4088205",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4088207,
+    "R_stId": "R-HSA-4088207",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4088210,
+    "R_stId": "R-HSA-4088210",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4090281,
+    "R_stId": "R-HSA-4090281",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4090284,
+    "R_stId": "R-HSA-4090284",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4090288,
+    "R_stId": "R-HSA-4090288",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4090390,
+    "R_stId": "R-HSA-4090390",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4090408,
+    "R_stId": "R-HSA-4090408",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4341016,
+    "R_stId": "R-HSA-4341016",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4341025,
+    "R_stId": "R-HSA-4341025",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4341048,
+    "R_stId": "R-HSA-4341048",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4341070,
+    "R_stId": "R-HSA-4341070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4341072,
+    "R_stId": "R-HSA-4341072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4341073,
+    "R_stId": "R-HSA-4341073",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4419978,
+    "R_stId": "R-HSA-4419978",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4419986,
+    "R_stId": "R-HSA-4419986",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4546385,
+    "R_stId": "R-HSA-4546385",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4546386,
+    "R_stId": "R-HSA-4546386",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4546387,
+    "R_stId": "R-HSA-4546387",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551604,
+    "R_stId": "R-HSA-4551604",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551616,
+    "R_stId": "R-HSA-4551616",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551648,
+    "R_stId": "R-HSA-4551648",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551649,
+    "R_stId": "R-HSA-4551649",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551655,
+    "R_stId": "R-HSA-4551655",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551661,
+    "R_stId": "R-HSA-4551661",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551679,
+    "R_stId": "R-HSA-4551679",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551683,
+    "R_stId": "R-HSA-4551683",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551721,
+    "R_stId": "R-HSA-4551721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551724,
+    "R_stId": "R-HSA-4551724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551727,
+    "R_stId": "R-HSA-4551727",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551738,
+    "R_stId": "R-HSA-4551738",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4551768,
+    "R_stId": "R-HSA-4551768",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4568846,
+    "R_stId": "R-HSA-4568846",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4568848,
+    "R_stId": "R-HSA-4568848",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4568863,
+    "R_stId": "R-HSA-4568863",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4568914,
+    "R_stId": "R-HSA-4568914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570463,
+    "R_stId": "R-HSA-4570463",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570467,
+    "R_stId": "R-HSA-4570467",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570485,
+    "R_stId": "R-HSA-4570485",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570489,
+    "R_stId": "R-HSA-4570489",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570493,
+    "R_stId": "R-HSA-4570493",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570496,
+    "R_stId": "R-HSA-4570496",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570499,
+    "R_stId": "R-HSA-4570499",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570528,
+    "R_stId": "R-HSA-4570528",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570553,
+    "R_stId": "R-HSA-4570553",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4570554,
+    "R_stId": "R-HSA-4570554",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615839,
+    "R_stId": "R-HSA-4615839",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615872,
+    "R_stId": "R-HSA-4615872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615873,
+    "R_stId": "R-HSA-4615873",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615889,
+    "R_stId": "R-HSA-4615889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615900,
+    "R_stId": "R-HSA-4615900",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615905,
+    "R_stId": "R-HSA-4615905",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615910,
+    "R_stId": "R-HSA-4615910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615933,
+    "R_stId": "R-HSA-4615933",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4615987,
+    "R_stId": "R-HSA-4615987",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4616015,
+    "R_stId": "R-HSA-4616015",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4641342,
+    "R_stId": "R-HSA-4641342",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4641345,
+    "R_stId": "R-HSA-4641345",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4641350,
+    "R_stId": "R-HSA-4641350",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4641362,
+    "R_stId": "R-HSA-4641362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4655355,
+    "R_stId": "R-HSA-4655355",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4655374,
+    "R_stId": "R-HSA-4655374",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4655404,
+    "R_stId": "R-HSA-4655404",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4655431,
+    "R_stId": "R-HSA-4655431",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4655440,
+    "R_stId": "R-HSA-4655440",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4656914,
+    "R_stId": "R-HSA-4656914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4717461,
+    "R_stId": "R-HSA-4717461",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4717521,
+    "R_stId": "R-HSA-4717521",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4719413,
+    "R_stId": "R-HSA-4719413",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4719423,
+    "R_stId": "R-HSA-4719423",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4719424,
+    "R_stId": "R-HSA-4719424",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4719436,
+    "R_stId": "R-HSA-4719436",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4719447,
+    "R_stId": "R-HSA-4719447",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4719448,
+    "R_stId": "R-HSA-4719448",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4720432,
+    "R_stId": "R-HSA-4720432",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4720446,
+    "R_stId": "R-HSA-4720446",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755411,
+    "R_stId": "R-HSA-4755411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755419,
+    "R_stId": "R-HSA-4755419",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755478,
+    "R_stId": "R-HSA-4755478",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755479,
+    "R_stId": "R-HSA-4755479",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755494,
+    "R_stId": "R-HSA-4755494",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755524,
+    "R_stId": "R-HSA-4755524",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755526,
+    "R_stId": "R-HSA-4755526",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 4755536,
+    "R_stId": "R-HSA-4755536",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5173005,
+    "R_stId": "R-HSA-5173005",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5173192,
+    "R_stId": "R-HSA-5173192",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5228508,
+    "R_stId": "R-HSA-5228508",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5228521,
+    "R_stId": "R-HSA-5228521",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5228523,
+    "R_stId": "R-HSA-5228523",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5228525,
+    "R_stId": "R-HSA-5228525",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5358475,
+    "R_stId": "R-HSA-5358475",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5358484,
+    "R_stId": "R-HSA-5358484",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5358494,
+    "R_stId": "R-HSA-5358494",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5367022,
+    "R_stId": "R-HSA-5367022",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5615637,
+    "R_stId": "R-HSA-5615637",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5617037,
+    "R_stId": "R-HSA-5617037",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5617143,
+    "R_stId": "R-HSA-5617143",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5665854,
+    "R_stId": "R-HSA-5665854",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5665871,
+    "R_stId": "R-HSA-5665871",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5688786,
+    "R_stId": "R-HSA-5688786",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5688797,
+    "R_stId": "R-HSA-5688797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5688834,
+    "R_stId": "R-HSA-5688834",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5688837,
+    "R_stId": "R-HSA-5688837",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689085,
+    "R_stId": "R-HSA-5689085",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689111,
+    "R_stId": "R-HSA-5689111",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689539,
+    "R_stId": "R-HSA-5689539",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689544,
+    "R_stId": "R-HSA-5689544",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689630,
+    "R_stId": "R-HSA-5689630",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689649,
+    "R_stId": "R-HSA-5689649",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689950,
+    "R_stId": "R-HSA-5689950",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689972,
+    "R_stId": "R-HSA-5689972",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5689973,
+    "R_stId": "R-HSA-5689973",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690080,
+    "R_stId": "R-HSA-5690080",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690152,
+    "R_stId": "R-HSA-5690152",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690157,
+    "R_stId": "R-HSA-5690157",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690159,
+    "R_stId": "R-HSA-5690159",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690196,
+    "R_stId": "R-HSA-5690196",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690319,
+    "R_stId": "R-HSA-5690319",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690759,
+    "R_stId": "R-HSA-5690759",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690785,
+    "R_stId": "R-HSA-5690785",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690790,
+    "R_stId": "R-HSA-5690790",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690808,
+    "R_stId": "R-HSA-5690808",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690827,
+    "R_stId": "R-HSA-5690827",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690843,
+    "R_stId": "R-HSA-5690843",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690845,
+    "R_stId": "R-HSA-5690845",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690856,
+    "R_stId": "R-HSA-5690856",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5690870,
+    "R_stId": "R-HSA-5690870",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5691381,
+    "R_stId": "R-HSA-5691381",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5691411,
+    "R_stId": "R-HSA-5691411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5691431,
+    "R_stId": "R-HSA-5691431",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5691439,
+    "R_stId": "R-HSA-5691439",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5693061,
+    "R_stId": "R-HSA-5693061",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5693807,
+    "R_stId": "R-HSA-5693807",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5693925,
+    "R_stId": "R-HSA-5693925",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694409,
+    "R_stId": "R-HSA-5694409",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694410,
+    "R_stId": "R-HSA-5694410",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694413,
+    "R_stId": "R-HSA-5694413",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694415,
+    "R_stId": "R-HSA-5694415",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694417,
+    "R_stId": "R-HSA-5694417",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694418,
+    "R_stId": "R-HSA-5694418",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694421,
+    "R_stId": "R-HSA-5694421",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694423,
+    "R_stId": "R-HSA-5694423",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694425,
+    "R_stId": "R-HSA-5694425",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694427,
+    "R_stId": "R-HSA-5694427",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694428,
+    "R_stId": "R-HSA-5694428",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694431,
+    "R_stId": "R-HSA-5694431",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694433,
+    "R_stId": "R-HSA-5694433",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694435,
+    "R_stId": "R-HSA-5694435",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694436,
+    "R_stId": "R-HSA-5694436",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694439,
+    "R_stId": "R-HSA-5694439",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694441,
+    "R_stId": "R-HSA-5694441",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694442,
+    "R_stId": "R-HSA-5694442",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694445,
+    "R_stId": "R-HSA-5694445",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694446,
+    "R_stId": "R-HSA-5694446",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694487,
+    "R_stId": "R-HSA-5694487",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694522,
+    "R_stId": "R-HSA-5694522",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5694527,
+    "R_stId": "R-HSA-5694527",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696534,
+    "R_stId": "R-HSA-5696534",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696547,
+    "R_stId": "R-HSA-5696547",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696564,
+    "R_stId": "R-HSA-5696564",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696600,
+    "R_stId": "R-HSA-5696600",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696605,
+    "R_stId": "R-HSA-5696605",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696627,
+    "R_stId": "R-HSA-5696627",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696872,
+    "R_stId": "R-HSA-5696872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696914,
+    "R_stId": "R-HSA-5696914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696945,
+    "R_stId": "R-HSA-5696945",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696947,
+    "R_stId": "R-HSA-5696947",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696958,
+    "R_stId": "R-HSA-5696958",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696960,
+    "R_stId": "R-HSA-5696960",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696968,
+    "R_stId": "R-HSA-5696968",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5696997,
+    "R_stId": "R-HSA-5696997",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 5697009,
+    "R_stId": "R-HSA-5697009",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781764,
+    "R_stId": "R-HSA-6781764",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781779,
+    "R_stId": "R-HSA-6781779",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781797,
+    "R_stId": "R-HSA-6781797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781814,
+    "R_stId": "R-HSA-6781814",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781897,
+    "R_stId": "R-HSA-6781897",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781899,
+    "R_stId": "R-HSA-6781899",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781905,
+    "R_stId": "R-HSA-6781905",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781922,
+    "R_stId": "R-HSA-6781922",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6781953,
+    "R_stId": "R-HSA-6781953",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6782106,
+    "R_stId": "R-HSA-6782106",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6782628,
+    "R_stId": "R-HSA-6782628",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6782685,
+    "R_stId": "R-HSA-6782685",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6782820,
+    "R_stId": "R-HSA-6782820",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6783177,
+    "R_stId": "R-HSA-6783177",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6783238,
+    "R_stId": "R-HSA-6783238",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6786012,
+    "R_stId": "R-HSA-6786012",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6786034,
+    "R_stId": "R-HSA-6786034",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6786048,
+    "R_stId": "R-HSA-6786048",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6786205,
+    "R_stId": "R-HSA-6786205",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6787533,
+    "R_stId": "R-HSA-6787533",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6787540,
+    "R_stId": "R-HSA-6787540",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6787623,
+    "R_stId": "R-HSA-6787623",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6787632,
+    "R_stId": "R-HSA-6787632",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6787642,
+    "R_stId": "R-HSA-6787642",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6787677,
+    "R_stId": "R-HSA-6787677",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6788650,
+    "R_stId": "R-HSA-6788650",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6788855,
+    "R_stId": "R-HSA-6788855",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6788867,
+    "R_stId": "R-HSA-6788867",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6792572,
+    "R_stId": "R-HSA-6792572",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6793590,
+    "R_stId": "R-HSA-6793590",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6793591,
+    "R_stId": "R-HSA-6793591",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6803761,
+    "R_stId": "R-HSA-6803761",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6803771,
+    "R_stId": "R-HSA-6803771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6803789,
+    "R_stId": "R-HSA-6803789",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6804468,
+    "R_stId": "R-HSA-6804468",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6804485,
+    "R_stId": "R-HSA-6804485",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807214,
+    "R_stId": "R-HSA-6807214",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807224,
+    "R_stId": "R-HSA-6807224",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807229,
+    "R_stId": "R-HSA-6807229",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807864,
+    "R_stId": "R-HSA-6807864",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807866,
+    "R_stId": "R-HSA-6807866",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807868,
+    "R_stId": "R-HSA-6807868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807872,
+    "R_stId": "R-HSA-6807872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807875,
+    "R_stId": "R-HSA-6807875",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6807877,
+    "R_stId": "R-HSA-6807877",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6809003,
+    "R_stId": "R-HSA-6809003",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6809006,
+    "R_stId": "R-HSA-6809006",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6809010,
+    "R_stId": "R-HSA-6809010",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6809011,
+    "R_stId": "R-HSA-6809011",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6809014,
+    "R_stId": "R-HSA-6809014",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6809015,
+    "R_stId": "R-HSA-6809015",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6810464,
+    "R_stId": "R-HSA-6810464",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6814831,
+    "R_stId": "R-HSA-6814831",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 6814833,
+    "R_stId": "R-HSA-6814833",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8850594,
+    "R_stId": "R-HSA-8850594",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852127,
+    "R_stId": "R-HSA-8852127",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852128,
+    "R_stId": "R-HSA-8852128",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852129,
+    "R_stId": "R-HSA-8852129",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852130,
+    "R_stId": "R-HSA-8852130",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852131,
+    "R_stId": "R-HSA-8852131",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852132,
+    "R_stId": "R-HSA-8852132",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852133,
+    "R_stId": "R-HSA-8852133",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852134,
+    "R_stId": "R-HSA-8852134",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8852136,
+    "R_stId": "R-HSA-8852136",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8853379,
+    "R_stId": "R-HSA-8853379",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8853503,
+    "R_stId": "R-HSA-8853503",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8853514,
+    "R_stId": "R-HSA-8853514",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8853515,
+    "R_stId": "R-HSA-8853515",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8853529,
+    "R_stId": "R-HSA-8853529",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8855711,
+    "R_stId": "R-HSA-8855711",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8855954,
+    "R_stId": "R-HSA-8855954",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8862184,
+    "R_stId": "R-HSA-8862184",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8865050,
+    "R_stId": "R-HSA-8865050",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8865090,
+    "R_stId": "R-HSA-8865090",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8865098,
+    "R_stId": "R-HSA-8865098",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8865182,
+    "R_stId": "R-HSA-8865182",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8865774,
+    "R_stId": "R-HSA-8865774",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8866105,
+    "R_stId": "R-HSA-8866105",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8867288,
+    "R_stId": "R-HSA-8867288",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8867370,
+    "R_stId": "R-HSA-8867370",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8869456,
+    "R_stId": "R-HSA-8869456",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8869506,
+    "R_stId": "R-HSA-8869506",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8870457,
+    "R_stId": "R-HSA-8870457",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8870461,
+    "R_stId": "R-HSA-8870461",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8870465,
+    "R_stId": "R-HSA-8870465",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8870466,
+    "R_stId": "R-HSA-8870466",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8870469,
+    "R_stId": "R-HSA-8870469",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8873946,
+    "R_stId": "R-HSA-8873946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8879117,
+    "R_stId": "R-HSA-8879117",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8879123,
+    "R_stId": "R-HSA-8879123",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8931648,
+    "R_stId": "R-HSA-8931648",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8931653,
+    "R_stId": "R-HSA-8931653",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8931858,
+    "R_stId": "R-HSA-8931858",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8931974,
+    "R_stId": "R-HSA-8931974",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932221,
+    "R_stId": "R-HSA-8932221",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932243,
+    "R_stId": "R-HSA-8932243",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932275,
+    "R_stId": "R-HSA-8932275",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932276,
+    "R_stId": "R-HSA-8932276",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932327,
+    "R_stId": "R-HSA-8932327",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932355,
+    "R_stId": "R-HSA-8932355",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932413,
+    "R_stId": "R-HSA-8932413",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8932427,
+    "R_stId": "R-HSA-8932427",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8938770,
+    "R_stId": "R-HSA-8938770",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8938773,
+    "R_stId": "R-HSA-8938773",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8938815,
+    "R_stId": "R-HSA-8938815",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8938829,
+    "R_stId": "R-HSA-8938829",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8939323,
+    "R_stId": "R-HSA-8939323",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8939335,
+    "R_stId": "R-HSA-8939335",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8940100,
+    "R_stId": "R-HSA-8940100",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8940388,
+    "R_stId": "R-HSA-8940388",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8942099,
+    "R_stId": "R-HSA-8942099",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8942101,
+    "R_stId": "R-HSA-8942101",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8943003,
+    "R_stId": "R-HSA-8943003",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8943007,
+    "R_stId": "R-HSA-8943007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8943040,
+    "R_stId": "R-HSA-8943040",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8943041,
+    "R_stId": "R-HSA-8943041",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8943080,
+    "R_stId": "R-HSA-8943080",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8943083,
+    "R_stId": "R-HSA-8943083",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951644,
+    "R_stId": "R-HSA-8951644",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951648,
+    "R_stId": "R-HSA-8951648",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951656,
+    "R_stId": "R-HSA-8951656",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951661,
+    "R_stId": "R-HSA-8951661",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951751,
+    "R_stId": "R-HSA-8951751",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951764,
+    "R_stId": "R-HSA-8951764",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8951766,
+    "R_stId": "R-HSA-8951766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952039,
+    "R_stId": "R-HSA-8952039",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952044,
+    "R_stId": "R-HSA-8952044",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952289,
+    "R_stId": "R-HSA-8952289",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952618,
+    "R_stId": "R-HSA-8952618",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952620,
+    "R_stId": "R-HSA-8952620",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952625,
+    "R_stId": "R-HSA-8952625",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952626,
+    "R_stId": "R-HSA-8952626",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952630,
+    "R_stId": "R-HSA-8952630",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952631,
+    "R_stId": "R-HSA-8952631",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952638,
+    "R_stId": "R-HSA-8952638",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8952639,
+    "R_stId": "R-HSA-8952639",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8953917,
+    "R_stId": "R-HSA-8953917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8953946,
+    "R_stId": "R-HSA-8953946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955241,
+    "R_stId": "R-HSA-8955241",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955245,
+    "R_stId": "R-HSA-8955245",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955285,
+    "R_stId": "R-HSA-8955285",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955289,
+    "R_stId": "R-HSA-8955289",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955706,
+    "R_stId": "R-HSA-8955706",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955712,
+    "R_stId": "R-HSA-8955712",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8955869,
+    "R_stId": "R-HSA-8955869",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956025,
+    "R_stId": "R-HSA-8956025",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956026,
+    "R_stId": "R-HSA-8956026",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956031,
+    "R_stId": "R-HSA-8956031",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956040,
+    "R_stId": "R-HSA-8956040",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956045,
+    "R_stId": "R-HSA-8956045",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956050,
+    "R_stId": "R-HSA-8956050",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956099,
+    "R_stId": "R-HSA-8956099",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956103,
+    "R_stId": "R-HSA-8956103",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956106,
+    "R_stId": "R-HSA-8956106",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956140,
+    "R_stId": "R-HSA-8956140",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956184,
+    "R_stId": "R-HSA-8956184",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956200,
+    "R_stId": "R-HSA-8956200",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956234,
+    "R_stId": "R-HSA-8956234",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 8956365,
+    "R_stId": "R-HSA-8956365",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9629578,
+    "R_stId": "R-HSA-9629578",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9629591,
+    "R_stId": "R-HSA-9629591",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9629869,
+    "R_stId": "R-HSA-9629869",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9629888,
+    "R_stId": "R-HSA-9629888",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9629946,
+    "R_stId": "R-HSA-9629946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9630022,
+    "R_stId": "R-HSA-9630022",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9630769,
+    "R_stId": "R-HSA-9630769",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9630967,
+    "R_stId": "R-HSA-9630967",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9630993,
+    "R_stId": "R-HSA-9630993",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9631355,
+    "R_stId": "R-HSA-9631355",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9638090,
+    "R_stId": "R-HSA-9638090",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9638097,
+    "R_stId": "R-HSA-9638097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9638120,
+    "R_stId": "R-HSA-9638120",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9668023,
+    "R_stId": "R-HSA-9668023",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9755303,
+    "R_stId": "R-HSA-9755303",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9755304,
+    "R_stId": "R-HSA-9755304",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9755306,
+    "R_stId": "R-HSA-9755306",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9755505,
+    "R_stId": "R-HSA-9755505",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9755507,
+    "R_stId": "R-HSA-9755507",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9758088,
+    "R_stId": "R-HSA-9758088",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9758090,
+    "R_stId": "R-HSA-9758090",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9834809,
+    "R_stId": "R-HSA-9834809",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9858752,
+    "R_stId": "R-HSA-9858752",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907898,
+    "R_stId": "R-HSA-9907898",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907912,
+    "R_stId": "R-HSA-9907912",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907919,
+    "R_stId": "R-HSA-9907919",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907925,
+    "R_stId": "R-HSA-9907925",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907928,
+    "R_stId": "R-HSA-9907928",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907940,
+    "R_stId": "R-HSA-9907940",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907941,
+    "R_stId": "R-HSA-9907941",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907948,
+    "R_stId": "R-HSA-9907948",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907951,
+    "R_stId": "R-HSA-9907951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907954,
+    "R_stId": "R-HSA-9907954",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907965,
+    "R_stId": "R-HSA-9907965",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907976,
+    "R_stId": "R-HSA-9907976",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907979,
+    "R_stId": "R-HSA-9907979",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907980,
+    "R_stId": "R-HSA-9907980",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907992,
+    "R_stId": "R-HSA-9907992",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9907998,
+    "R_stId": "R-HSA-9907998",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908007,
+    "R_stId": "R-HSA-9908007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908014,
+    "R_stId": "R-HSA-9908014",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908019,
+    "R_stId": "R-HSA-9908019",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908026,
+    "R_stId": "R-HSA-9908026",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908034,
+    "R_stId": "R-HSA-9908034",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908041,
+    "R_stId": "R-HSA-9908041",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908051,
+    "R_stId": "R-HSA-9908051",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908052,
+    "R_stId": "R-HSA-9908052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908069,
+    "R_stId": "R-HSA-9908069",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908101,
+    "R_stId": "R-HSA-9908101",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908105,
+    "R_stId": "R-HSA-9908105",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908108,
+    "R_stId": "R-HSA-9908108",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908178,
+    "R_stId": "R-HSA-9908178",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908186,
+    "R_stId": "R-HSA-9908186",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908686,
+    "R_stId": "R-HSA-9908686",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908709,
+    "R_stId": "R-HSA-9908709",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908721,
+    "R_stId": "R-HSA-9908721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908723,
+    "R_stId": "R-HSA-9908723",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908764,
+    "R_stId": "R-HSA-9908764",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908775,
+    "R_stId": "R-HSA-9908775",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908777,
+    "R_stId": "R-HSA-9908777",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908780,
+    "R_stId": "R-HSA-9908780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908800,
+    "R_stId": "R-HSA-9908800",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9908844,
+    "R_stId": "R-HSA-9908844",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9909159,
+    "R_stId": "R-HSA-9909159",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9935449,
+    "R_stId": "R-HSA-9935449",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9935469,
+    "R_stId": "R-HSA-9935469",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9937295,
+    "R_stId": "R-HSA-9937295",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9937298,
+    "R_stId": "R-HSA-9937298",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9937340,
+    "R_stId": "R-HSA-9937340",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940714,
+    "R_stId": "R-HSA-9940714",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940718,
+    "R_stId": "R-HSA-9940718",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940735,
+    "R_stId": "R-HSA-9940735",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940756,
+    "R_stId": "R-HSA-9940756",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940804,
+    "R_stId": "R-HSA-9940804",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940805,
+    "R_stId": "R-HSA-9940805",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9940844,
+    "R_stId": "R-HSA-9940844",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Post-translational protein modification",
+    "pathway_stId": "R-HSA-597592",
+    "R": 9948070,
+    "R_stId": "R-HSA-9948070",
+    "species": "Homo sapiens"
+  }
+]

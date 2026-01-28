@@ -1,0 +1,6988 @@
+﻿[
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 71010,
+    "R_stId": "R-HSA-71010",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 71020,
+    "R_stId": "R-HSA-71020",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 71031,
+    "R_stId": "R-HSA-71031",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 73912,
+    "R_stId": "R-HSA-73912",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 73916,
+    "R_stId": "R-HSA-73916",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 73918,
+    "R_stId": "R-HSA-73918",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 73920,
+    "R_stId": "R-HSA-73920",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 74177,
+    "R_stId": "R-HSA-74177",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 74180,
+    "R_stId": "R-HSA-74180",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 74181,
+    "R_stId": "R-HSA-74181",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75848,
+    "R_stId": "R-HSA-75848",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75851,
+    "R_stId": "R-HSA-75851",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75872,
+    "R_stId": "R-HSA-75872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75879,
+    "R_stId": "R-HSA-75879",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75883,
+    "R_stId": "R-HSA-75883",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75885,
+    "R_stId": "R-HSA-75885",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75886,
+    "R_stId": "R-HSA-75886",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75887,
+    "R_stId": "R-HSA-75887",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75889,
+    "R_stId": "R-HSA-75889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75899,
+    "R_stId": "R-HSA-75899",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 75900,
+    "R_stId": "R-HSA-75900",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 76496,
+    "R_stId": "R-HSA-76496",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 76500,
+    "R_stId": "R-HSA-76500",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77254,
+    "R_stId": "R-HSA-77254",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77256,
+    "R_stId": "R-HSA-77256",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77263,
+    "R_stId": "R-HSA-77263",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77271,
+    "R_stId": "R-HSA-77271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77274,
+    "R_stId": "R-HSA-77274",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77277,
+    "R_stId": "R-HSA-77277",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77283,
+    "R_stId": "R-HSA-77283",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77299,
+    "R_stId": "R-HSA-77299",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77301,
+    "R_stId": "R-HSA-77301",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77303,
+    "R_stId": "R-HSA-77303",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77304,
+    "R_stId": "R-HSA-77304",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77309,
+    "R_stId": "R-HSA-77309",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77312,
+    "R_stId": "R-HSA-77312",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77314,
+    "R_stId": "R-HSA-77314",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77319,
+    "R_stId": "R-HSA-77319",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77321,
+    "R_stId": "R-HSA-77321",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77323,
+    "R_stId": "R-HSA-77323",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77325,
+    "R_stId": "R-HSA-77325",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77327,
+    "R_stId": "R-HSA-77327",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77329,
+    "R_stId": "R-HSA-77329",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77331,
+    "R_stId": "R-HSA-77331",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77333,
+    "R_stId": "R-HSA-77333",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77338,
+    "R_stId": "R-HSA-77338",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77340,
+    "R_stId": "R-HSA-77340",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77342,
+    "R_stId": "R-HSA-77342",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77344,
+    "R_stId": "R-HSA-77344",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 77345,
+    "R_stId": "R-HSA-77345",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 109338,
+    "R_stId": "R-HSA-109338",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 109339,
+    "R_stId": "R-HSA-109339",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 109341,
+    "R_stId": "R-HSA-109341",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 109342,
+    "R_stId": "R-HSA-109342",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 109343,
+    "R_stId": "R-HSA-109343",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 109998,
+    "R_stId": "R-HSA-109998",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 111883,
+    "R_stId": "R-HSA-111883",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 140355,
+    "R_stId": "R-HSA-140355",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 140359,
+    "R_stId": "R-HSA-140359",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 159425,
+    "R_stId": "R-HSA-159425",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 159431,
+    "R_stId": "R-HSA-159431",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163402,
+    "R_stId": "R-HSA-163402",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163416,
+    "R_stId": "R-HSA-163416",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163418,
+    "R_stId": "R-HSA-163418",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163432,
+    "R_stId": "R-HSA-163432",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163489,
+    "R_stId": "R-HSA-163489",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163539,
+    "R_stId": "R-HSA-163539",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163549,
+    "R_stId": "R-HSA-163549",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163551,
+    "R_stId": "R-HSA-163551",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163554,
+    "R_stId": "R-HSA-163554",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163568,
+    "R_stId": "R-HSA-163568",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163595,
+    "R_stId": "R-HSA-163595",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163602,
+    "R_stId": "R-HSA-163602",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 163756,
+    "R_stId": "R-HSA-163756",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 165026,
+    "R_stId": "R-HSA-165026",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 188467,
+    "R_stId": "R-HSA-188467",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191299,
+    "R_stId": "R-HSA-191299",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191303,
+    "R_stId": "R-HSA-191303",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191322,
+    "R_stId": "R-HSA-191322",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191323,
+    "R_stId": "R-HSA-191323",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191352,
+    "R_stId": "R-HSA-191352",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191366,
+    "R_stId": "R-HSA-191366",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191380,
+    "R_stId": "R-HSA-191380",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191382,
+    "R_stId": "R-HSA-191382",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191402,
+    "R_stId": "R-HSA-191402",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191405,
+    "R_stId": "R-HSA-191405",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191414,
+    "R_stId": "R-HSA-191414",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191422,
+    "R_stId": "R-HSA-191422",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191971,
+    "R_stId": "R-HSA-191971",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191972,
+    "R_stId": "R-HSA-191972",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191983,
+    "R_stId": "R-HSA-191983",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 191999,
+    "R_stId": "R-HSA-191999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192010,
+    "R_stId": "R-HSA-192010",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192033,
+    "R_stId": "R-HSA-192033",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192036,
+    "R_stId": "R-HSA-192036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192042,
+    "R_stId": "R-HSA-192042",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192051,
+    "R_stId": "R-HSA-192051",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192054,
+    "R_stId": "R-HSA-192054",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192056,
+    "R_stId": "R-HSA-192056",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192061,
+    "R_stId": "R-HSA-192061",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192065,
+    "R_stId": "R-HSA-192065",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192067,
+    "R_stId": "R-HSA-192067",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192097,
+    "R_stId": "R-HSA-192097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192123,
+    "R_stId": "R-HSA-192123",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192137,
+    "R_stId": "R-HSA-192137",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192157,
+    "R_stId": "R-HSA-192157",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192160,
+    "R_stId": "R-HSA-192160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192178,
+    "R_stId": "R-HSA-192178",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192312,
+    "R_stId": "R-HSA-192312",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192315,
+    "R_stId": "R-HSA-192315",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192325,
+    "R_stId": "R-HSA-192325",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192331,
+    "R_stId": "R-HSA-192331",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192335,
+    "R_stId": "R-HSA-192335",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 192341,
+    "R_stId": "R-HSA-192341",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193052,
+    "R_stId": "R-HSA-193052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193054,
+    "R_stId": "R-HSA-193054",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193060,
+    "R_stId": "R-HSA-193060",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193064,
+    "R_stId": "R-HSA-193064",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193065,
+    "R_stId": "R-HSA-193065",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193068,
+    "R_stId": "R-HSA-193068",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193070,
+    "R_stId": "R-HSA-193070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193072,
+    "R_stId": "R-HSA-193072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193073,
+    "R_stId": "R-HSA-193073",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193097,
+    "R_stId": "R-HSA-193097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193099,
+    "R_stId": "R-HSA-193099",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193101,
+    "R_stId": "R-HSA-193101",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193143,
+    "R_stId": "R-HSA-193143",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193362,
+    "R_stId": "R-HSA-193362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193369,
+    "R_stId": "R-HSA-193369",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193385,
+    "R_stId": "R-HSA-193385",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193393,
+    "R_stId": "R-HSA-193393",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193399,
+    "R_stId": "R-HSA-193399",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193401,
+    "R_stId": "R-HSA-193401",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193407,
+    "R_stId": "R-HSA-193407",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193424,
+    "R_stId": "R-HSA-193424",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193452,
+    "R_stId": "R-HSA-193452",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193455,
+    "R_stId": "R-HSA-193455",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193460,
+    "R_stId": "R-HSA-193460",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193482,
+    "R_stId": "R-HSA-193482",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193491,
+    "R_stId": "R-HSA-193491",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193497,
+    "R_stId": "R-HSA-193497",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193508,
+    "R_stId": "R-HSA-193508",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193519,
+    "R_stId": "R-HSA-193519",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193533,
+    "R_stId": "R-HSA-193533",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193535,
+    "R_stId": "R-HSA-193535",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193537,
+    "R_stId": "R-HSA-193537",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193709,
+    "R_stId": "R-HSA-193709",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193711,
+    "R_stId": "R-HSA-193711",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193713,
+    "R_stId": "R-HSA-193713",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193715,
+    "R_stId": "R-HSA-193715",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193719,
+    "R_stId": "R-HSA-193719",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193722,
+    "R_stId": "R-HSA-193722",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193727,
+    "R_stId": "R-HSA-193727",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193736,
+    "R_stId": "R-HSA-193736",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193737,
+    "R_stId": "R-HSA-193737",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193743,
+    "R_stId": "R-HSA-193743",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193746,
+    "R_stId": "R-HSA-193746",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193753,
+    "R_stId": "R-HSA-193753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193755,
+    "R_stId": "R-HSA-193755",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193758,
+    "R_stId": "R-HSA-193758",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193761,
+    "R_stId": "R-HSA-193761",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193763,
+    "R_stId": "R-HSA-193763",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193766,
+    "R_stId": "R-HSA-193766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193767,
+    "R_stId": "R-HSA-193767",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193774,
+    "R_stId": "R-HSA-193774",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193776,
+    "R_stId": "R-HSA-193776",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193780,
+    "R_stId": "R-HSA-193780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193781,
+    "R_stId": "R-HSA-193781",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193786,
+    "R_stId": "R-HSA-193786",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193787,
+    "R_stId": "R-HSA-193787",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193789,
+    "R_stId": "R-HSA-193789",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193792,
+    "R_stId": "R-HSA-193792",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193800,
+    "R_stId": "R-HSA-193800",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193801,
+    "R_stId": "R-HSA-193801",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193808,
+    "R_stId": "R-HSA-193808",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193812,
+    "R_stId": "R-HSA-193812",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193816,
+    "R_stId": "R-HSA-193816",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193821,
+    "R_stId": "R-HSA-193821",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193824,
+    "R_stId": "R-HSA-193824",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193832,
+    "R_stId": "R-HSA-193832",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193841,
+    "R_stId": "R-HSA-193841",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193845,
+    "R_stId": "R-HSA-193845",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193961,
+    "R_stId": "R-HSA-193961",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193964,
+    "R_stId": "R-HSA-193964",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193965,
+    "R_stId": "R-HSA-193965",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193981,
+    "R_stId": "R-HSA-193981",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193995,
+    "R_stId": "R-HSA-193995",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193996,
+    "R_stId": "R-HSA-193996",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 193997,
+    "R_stId": "R-HSA-193997",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194017,
+    "R_stId": "R-HSA-194017",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194023,
+    "R_stId": "R-HSA-194023",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194025,
+    "R_stId": "R-HSA-194025",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194036,
+    "R_stId": "R-HSA-194036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194079,
+    "R_stId": "R-HSA-194079",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194083,
+    "R_stId": "R-HSA-194083",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194121,
+    "R_stId": "R-HSA-194121",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194130,
+    "R_stId": "R-HSA-194130",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194153,
+    "R_stId": "R-HSA-194153",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194187,
+    "R_stId": "R-HSA-194187",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194632,
+    "R_stId": "R-HSA-194632",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194641,
+    "R_stId": "R-HSA-194641",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194642,
+    "R_stId": "R-HSA-194642",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194669,
+    "R_stId": "R-HSA-194669",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194674,
+    "R_stId": "R-HSA-194674",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194678,
+    "R_stId": "R-HSA-194678",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194689,
+    "R_stId": "R-HSA-194689",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194698,
+    "R_stId": "R-HSA-194698",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 194718,
+    "R_stId": "R-HSA-194718",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 195664,
+    "R_stId": "R-HSA-195664",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 195690,
+    "R_stId": "R-HSA-195690",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196060,
+    "R_stId": "R-HSA-196060",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196125,
+    "R_stId": "R-HSA-196125",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196126,
+    "R_stId": "R-HSA-196126",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196350,
+    "R_stId": "R-HSA-196350",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196372,
+    "R_stId": "R-HSA-196372",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196402,
+    "R_stId": "R-HSA-196402",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 196417,
+    "R_stId": "R-HSA-196417",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 199456,
+    "R_stId": "R-HSA-199456",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 200406,
+    "R_stId": "R-HSA-200406",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 200410,
+    "R_stId": "R-HSA-200410",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 200423,
+    "R_stId": "R-HSA-200423",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 200424,
+    "R_stId": "R-HSA-200424",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 200555,
+    "R_stId": "R-HSA-200555",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 201035,
+    "R_stId": "R-HSA-201035",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209738,
+    "R_stId": "R-HSA-209738",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209754,
+    "R_stId": "R-HSA-209754",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209760,
+    "R_stId": "R-HSA-209760",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209765,
+    "R_stId": "R-HSA-209765",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209766,
+    "R_stId": "R-HSA-209766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209845,
+    "R_stId": "R-HSA-209845",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209868,
+    "R_stId": "R-HSA-209868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 209944,
+    "R_stId": "R-HSA-209944",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 211873,
+    "R_stId": "R-HSA-211873",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 264622,
+    "R_stId": "R-HSA-264622",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 265295,
+    "R_stId": "R-HSA-265295",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 265296,
+    "R_stId": "R-HSA-265296",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 266012,
+    "R_stId": "R-HSA-266012",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 266046,
+    "R_stId": "R-HSA-266046",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 266050,
+    "R_stId": "R-HSA-266050",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 266051,
+    "R_stId": "R-HSA-266051",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 266070,
+    "R_stId": "R-HSA-266070",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 266072,
+    "R_stId": "R-HSA-266072",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 350147,
+    "R_stId": "R-HSA-350147",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 350158,
+    "R_stId": "R-HSA-350158",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 350168,
+    "R_stId": "R-HSA-350168",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 350186,
+    "R_stId": "R-HSA-350186",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 372519,
+    "R_stId": "R-HSA-372519",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389580,
+    "R_stId": "R-HSA-389580",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389609,
+    "R_stId": "R-HSA-389609",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389611,
+    "R_stId": "R-HSA-389611",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389622,
+    "R_stId": "R-HSA-389622",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389632,
+    "R_stId": "R-HSA-389632",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389639,
+    "R_stId": "R-HSA-389639",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389652,
+    "R_stId": "R-HSA-389652",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389889,
+    "R_stId": "R-HSA-389889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389891,
+    "R_stId": "R-HSA-389891",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389897,
+    "R_stId": "R-HSA-389897",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389986,
+    "R_stId": "R-HSA-389986",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 389995,
+    "R_stId": "R-HSA-389995",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390224,
+    "R_stId": "R-HSA-390224",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390250,
+    "R_stId": "R-HSA-390250",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390251,
+    "R_stId": "R-HSA-390251",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390252,
+    "R_stId": "R-HSA-390252",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390256,
+    "R_stId": "R-HSA-390256",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390276,
+    "R_stId": "R-HSA-390276",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390281,
+    "R_stId": "R-HSA-390281",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390284,
+    "R_stId": "R-HSA-390284",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390291,
+    "R_stId": "R-HSA-390291",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390302,
+    "R_stId": "R-HSA-390302",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390304,
+    "R_stId": "R-HSA-390304",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390393,
+    "R_stId": "R-HSA-390393",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390402,
+    "R_stId": "R-HSA-390402",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390425,
+    "R_stId": "R-HSA-390425",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390427,
+    "R_stId": "R-HSA-390427",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 390438,
+    "R_stId": "R-HSA-390438",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 400143,
+    "R_stId": "R-HSA-400143",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 400183,
+    "R_stId": "R-HSA-400183",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 400204,
+    "R_stId": "R-HSA-400204",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428123,
+    "R_stId": "R-HSA-428123",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428127,
+    "R_stId": "R-HSA-428127",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428185,
+    "R_stId": "R-HSA-428185",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428205,
+    "R_stId": "R-HSA-428205",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428231,
+    "R_stId": "R-HSA-428231",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428259,
+    "R_stId": "R-HSA-428259",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428260,
+    "R_stId": "R-HSA-428260",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428262,
+    "R_stId": "R-HSA-428262",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428273,
+    "R_stId": "R-HSA-428273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428664,
+    "R_stId": "R-HSA-428664",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428681,
+    "R_stId": "R-HSA-428681",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428690,
+    "R_stId": "R-HSA-428690",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428696,
+    "R_stId": "R-HSA-428696",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 428990,
+    "R_stId": "R-HSA-428990",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 429016,
+    "R_stId": "R-HSA-429016",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 429698,
+    "R_stId": "R-HSA-429698",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 429714,
+    "R_stId": "R-HSA-429714",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 429730,
+    "R_stId": "R-HSA-429730",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 429786,
+    "R_stId": "R-HSA-429786",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 429798,
+    "R_stId": "R-HSA-429798",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 443894,
+    "R_stId": "R-HSA-443894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 444433,
+    "R_stId": "R-HSA-444433",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 469659,
+    "R_stId": "R-HSA-469659",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548800,
+    "R_stId": "R-HSA-548800",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548814,
+    "R_stId": "R-HSA-548814",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548815,
+    "R_stId": "R-HSA-548815",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548818,
+    "R_stId": "R-HSA-548818",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548830,
+    "R_stId": "R-HSA-548830",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548831,
+    "R_stId": "R-HSA-548831",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 548843,
+    "R_stId": "R-HSA-548843",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 549112,
+    "R_stId": "R-HSA-549112",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 549192,
+    "R_stId": "R-HSA-549192",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 560473,
+    "R_stId": "R-HSA-560473",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 560517,
+    "R_stId": "R-HSA-560517",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 804969,
+    "R_stId": "R-HSA-804969",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 879724,
+    "R_stId": "R-HSA-879724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 977317,
+    "R_stId": "R-HSA-977317",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1368065,
+    "R_stId": "R-HSA-1368065",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1449687,
+    "R_stId": "R-HSA-1449687",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482533,
+    "R_stId": "R-HSA-1482533",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482539,
+    "R_stId": "R-HSA-1482539",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482543,
+    "R_stId": "R-HSA-1482543",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482545,
+    "R_stId": "R-HSA-1482545",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482546,
+    "R_stId": "R-HSA-1482546",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482547,
+    "R_stId": "R-HSA-1482547",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482548,
+    "R_stId": "R-HSA-1482548",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482571,
+    "R_stId": "R-HSA-1482571",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482598,
+    "R_stId": "R-HSA-1482598",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482604,
+    "R_stId": "R-HSA-1482604",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482612,
+    "R_stId": "R-HSA-1482612",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482626,
+    "R_stId": "R-HSA-1482626",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482629,
+    "R_stId": "R-HSA-1482629",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482635,
+    "R_stId": "R-HSA-1482635",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482636,
+    "R_stId": "R-HSA-1482636",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482646,
+    "R_stId": "R-HSA-1482646",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482647,
+    "R_stId": "R-HSA-1482647",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482654,
+    "R_stId": "R-HSA-1482654",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482656,
+    "R_stId": "R-HSA-1482656",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482667,
+    "R_stId": "R-HSA-1482667",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482679,
+    "R_stId": "R-HSA-1482679",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482685,
+    "R_stId": "R-HSA-1482685",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482689,
+    "R_stId": "R-HSA-1482689",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482691,
+    "R_stId": "R-HSA-1482691",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482695,
+    "R_stId": "R-HSA-1482695",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482696,
+    "R_stId": "R-HSA-1482696",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482745,
+    "R_stId": "R-HSA-1482745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482759,
+    "R_stId": "R-HSA-1482759",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482771,
+    "R_stId": "R-HSA-1482771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482773,
+    "R_stId": "R-HSA-1482773",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482775,
+    "R_stId": "R-HSA-1482775",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482776,
+    "R_stId": "R-HSA-1482776",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482777,
+    "R_stId": "R-HSA-1482777",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482778,
+    "R_stId": "R-HSA-1482778",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482781,
+    "R_stId": "R-HSA-1482781",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482794,
+    "R_stId": "R-HSA-1482794",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482811,
+    "R_stId": "R-HSA-1482811",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482816,
+    "R_stId": "R-HSA-1482816",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482825,
+    "R_stId": "R-HSA-1482825",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482827,
+    "R_stId": "R-HSA-1482827",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482828,
+    "R_stId": "R-HSA-1482828",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482847,
+    "R_stId": "R-HSA-1482847",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482850,
+    "R_stId": "R-HSA-1482850",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482856,
+    "R_stId": "R-HSA-1482856",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482857,
+    "R_stId": "R-HSA-1482857",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482860,
+    "R_stId": "R-HSA-1482860",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482861,
+    "R_stId": "R-HSA-1482861",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482862,
+    "R_stId": "R-HSA-1482862",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482867,
+    "R_stId": "R-HSA-1482867",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482868,
+    "R_stId": "R-HSA-1482868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482884,
+    "R_stId": "R-HSA-1482884",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482887,
+    "R_stId": "R-HSA-1482887",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482889,
+    "R_stId": "R-HSA-1482889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482892,
+    "R_stId": "R-HSA-1482892",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482894,
+    "R_stId": "R-HSA-1482894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482897,
+    "R_stId": "R-HSA-1482897",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482900,
+    "R_stId": "R-HSA-1482900",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482907,
+    "R_stId": "R-HSA-1482907",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482920,
+    "R_stId": "R-HSA-1482920",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482932,
+    "R_stId": "R-HSA-1482932",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482939,
+    "R_stId": "R-HSA-1482939",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482961,
+    "R_stId": "R-HSA-1482961",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482962,
+    "R_stId": "R-HSA-1482962",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482973,
+    "R_stId": "R-HSA-1482973",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1482976,
+    "R_stId": "R-HSA-1482976",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483002,
+    "R_stId": "R-HSA-1483002",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483004,
+    "R_stId": "R-HSA-1483004",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483063,
+    "R_stId": "R-HSA-1483063",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483077,
+    "R_stId": "R-HSA-1483077",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483081,
+    "R_stId": "R-HSA-1483081",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483087,
+    "R_stId": "R-HSA-1483087",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483089,
+    "R_stId": "R-HSA-1483089",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483096,
+    "R_stId": "R-HSA-1483096",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483099,
+    "R_stId": "R-HSA-1483099",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483107,
+    "R_stId": "R-HSA-1483107",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483116,
+    "R_stId": "R-HSA-1483116",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483121,
+    "R_stId": "R-HSA-1483121",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483142,
+    "R_stId": "R-HSA-1483142",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483159,
+    "R_stId": "R-HSA-1483159",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483165,
+    "R_stId": "R-HSA-1483165",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483170,
+    "R_stId": "R-HSA-1483170",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483174,
+    "R_stId": "R-HSA-1483174",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483182,
+    "R_stId": "R-HSA-1483182",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483186,
+    "R_stId": "R-HSA-1483186",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483190,
+    "R_stId": "R-HSA-1483190",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483197,
+    "R_stId": "R-HSA-1483197",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483203,
+    "R_stId": "R-HSA-1483203",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483209,
+    "R_stId": "R-HSA-1483209",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483211,
+    "R_stId": "R-HSA-1483211",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483212,
+    "R_stId": "R-HSA-1483212",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483218,
+    "R_stId": "R-HSA-1483218",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483219,
+    "R_stId": "R-HSA-1483219",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483222,
+    "R_stId": "R-HSA-1483222",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1483229,
+    "R_stId": "R-HSA-1483229",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1592238,
+    "R_stId": "R-HSA-1592238",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602368,
+    "R_stId": "R-HSA-1602368",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602374,
+    "R_stId": "R-HSA-1602374",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602377,
+    "R_stId": "R-HSA-1602377",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602398,
+    "R_stId": "R-HSA-1602398",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602399,
+    "R_stId": "R-HSA-1602399",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602417,
+    "R_stId": "R-HSA-1602417",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1602446,
+    "R_stId": "R-HSA-1602446",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605591,
+    "R_stId": "R-HSA-1605591",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605595,
+    "R_stId": "R-HSA-1605595",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605624,
+    "R_stId": "R-HSA-1605624",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605632,
+    "R_stId": "R-HSA-1605632",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605717,
+    "R_stId": "R-HSA-1605717",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605723,
+    "R_stId": "R-HSA-1605723",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605724,
+    "R_stId": "R-HSA-1605724",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605736,
+    "R_stId": "R-HSA-1605736",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605768,
+    "R_stId": "R-HSA-1605768",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1605797,
+    "R_stId": "R-HSA-1605797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606273,
+    "R_stId": "R-HSA-1606273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606288,
+    "R_stId": "R-HSA-1606288",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606312,
+    "R_stId": "R-HSA-1606312",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606564,
+    "R_stId": "R-HSA-1606564",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606583,
+    "R_stId": "R-HSA-1606583",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606602,
+    "R_stId": "R-HSA-1606602",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606807,
+    "R_stId": "R-HSA-1606807",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1606839,
+    "R_stId": "R-HSA-1606839",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1614336,
+    "R_stId": "R-HSA-1614336",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1614362,
+    "R_stId": "R-HSA-1614362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1638104,
+    "R_stId": "R-HSA-1638104",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1638845,
+    "R_stId": "R-HSA-1638845",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1640164,
+    "R_stId": "R-HSA-1640164",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655823,
+    "R_stId": "R-HSA-1655823",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655824,
+    "R_stId": "R-HSA-1655824",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655825,
+    "R_stId": "R-HSA-1655825",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655826,
+    "R_stId": "R-HSA-1655826",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655827,
+    "R_stId": "R-HSA-1655827",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655828,
+    "R_stId": "R-HSA-1655828",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655830,
+    "R_stId": "R-HSA-1655830",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655831,
+    "R_stId": "R-HSA-1655831",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655832,
+    "R_stId": "R-HSA-1655832",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655833,
+    "R_stId": "R-HSA-1655833",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655834,
+    "R_stId": "R-HSA-1655834",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655835,
+    "R_stId": "R-HSA-1655835",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655836,
+    "R_stId": "R-HSA-1655836",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655837,
+    "R_stId": "R-HSA-1655837",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655839,
+    "R_stId": "R-HSA-1655839",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655842,
+    "R_stId": "R-HSA-1655842",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655843,
+    "R_stId": "R-HSA-1655843",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655844,
+    "R_stId": "R-HSA-1655844",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655845,
+    "R_stId": "R-HSA-1655845",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655846,
+    "R_stId": "R-HSA-1655846",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655847,
+    "R_stId": "R-HSA-1655847",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655848,
+    "R_stId": "R-HSA-1655848",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655849,
+    "R_stId": "R-HSA-1655849",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655850,
+    "R_stId": "R-HSA-1655850",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655851,
+    "R_stId": "R-HSA-1655851",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1655852,
+    "R_stId": "R-HSA-1655852",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675773,
+    "R_stId": "R-HSA-1675773",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675776,
+    "R_stId": "R-HSA-1675776",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675780,
+    "R_stId": "R-HSA-1675780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675795,
+    "R_stId": "R-HSA-1675795",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675810,
+    "R_stId": "R-HSA-1675810",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675813,
+    "R_stId": "R-HSA-1675813",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675815,
+    "R_stId": "R-HSA-1675815",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675824,
+    "R_stId": "R-HSA-1675824",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675834,
+    "R_stId": "R-HSA-1675834",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675836,
+    "R_stId": "R-HSA-1675836",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675866,
+    "R_stId": "R-HSA-1675866",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675883,
+    "R_stId": "R-HSA-1675883",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675896,
+    "R_stId": "R-HSA-1675896",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675910,
+    "R_stId": "R-HSA-1675910",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675921,
+    "R_stId": "R-HSA-1675921",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675928,
+    "R_stId": "R-HSA-1675928",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675939,
+    "R_stId": "R-HSA-1675939",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675949,
+    "R_stId": "R-HSA-1675949",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675961,
+    "R_stId": "R-HSA-1675961",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675974,
+    "R_stId": "R-HSA-1675974",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675988,
+    "R_stId": "R-HSA-1675988",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1675994,
+    "R_stId": "R-HSA-1675994",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676005,
+    "R_stId": "R-HSA-1676005",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676020,
+    "R_stId": "R-HSA-1676020",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676024,
+    "R_stId": "R-HSA-1676024",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676041,
+    "R_stId": "R-HSA-1676041",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676048,
+    "R_stId": "R-HSA-1676048",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676065,
+    "R_stId": "R-HSA-1676065",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676082,
+    "R_stId": "R-HSA-1676082",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676105,
+    "R_stId": "R-HSA-1676105",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676109,
+    "R_stId": "R-HSA-1676109",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676114,
+    "R_stId": "R-HSA-1676114",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676124,
+    "R_stId": "R-HSA-1676124",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676133,
+    "R_stId": "R-HSA-1676133",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676134,
+    "R_stId": "R-HSA-1676134",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676141,
+    "R_stId": "R-HSA-1676141",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676145,
+    "R_stId": "R-HSA-1676145",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676149,
+    "R_stId": "R-HSA-1676149",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676152,
+    "R_stId": "R-HSA-1676152",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676161,
+    "R_stId": "R-HSA-1676161",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676162,
+    "R_stId": "R-HSA-1676162",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676164,
+    "R_stId": "R-HSA-1676164",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676168,
+    "R_stId": "R-HSA-1676168",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676174,
+    "R_stId": "R-HSA-1676174",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676177,
+    "R_stId": "R-HSA-1676177",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676185,
+    "R_stId": "R-HSA-1676185",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676203,
+    "R_stId": "R-HSA-1676203",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676204,
+    "R_stId": "R-HSA-1676204",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1676206,
+    "R_stId": "R-HSA-1676206",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1801587,
+    "R_stId": "R-HSA-1801587",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1861788,
+    "R_stId": "R-HSA-1861788",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1861789,
+    "R_stId": "R-HSA-1861789",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989745,
+    "R_stId": "R-HSA-1989745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989746,
+    "R_stId": "R-HSA-1989746",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989747,
+    "R_stId": "R-HSA-1989747",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989748,
+    "R_stId": "R-HSA-1989748",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989749,
+    "R_stId": "R-HSA-1989749",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989750,
+    "R_stId": "R-HSA-1989750",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989751,
+    "R_stId": "R-HSA-1989751",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989752,
+    "R_stId": "R-HSA-1989752",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989753,
+    "R_stId": "R-HSA-1989753",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989754,
+    "R_stId": "R-HSA-1989754",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989755,
+    "R_stId": "R-HSA-1989755",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989756,
+    "R_stId": "R-HSA-1989756",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989757,
+    "R_stId": "R-HSA-1989757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989758,
+    "R_stId": "R-HSA-1989758",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989759,
+    "R_stId": "R-HSA-1989759",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989760,
+    "R_stId": "R-HSA-1989760",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989761,
+    "R_stId": "R-HSA-1989761",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989762,
+    "R_stId": "R-HSA-1989762",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989764,
+    "R_stId": "R-HSA-1989764",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989765,
+    "R_stId": "R-HSA-1989765",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989767,
+    "R_stId": "R-HSA-1989767",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989768,
+    "R_stId": "R-HSA-1989768",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989770,
+    "R_stId": "R-HSA-1989770",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989771,
+    "R_stId": "R-HSA-1989771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989772,
+    "R_stId": "R-HSA-1989772",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989773,
+    "R_stId": "R-HSA-1989773",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989774,
+    "R_stId": "R-HSA-1989774",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989775,
+    "R_stId": "R-HSA-1989775",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989776,
+    "R_stId": "R-HSA-1989776",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989777,
+    "R_stId": "R-HSA-1989777",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989778,
+    "R_stId": "R-HSA-1989778",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 1989779,
+    "R_stId": "R-HSA-1989779",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2026996,
+    "R_stId": "R-HSA-2026996",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046083,
+    "R_stId": "R-HSA-2046083",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046084,
+    "R_stId": "R-HSA-2046084",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046085,
+    "R_stId": "R-HSA-2046085",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046087,
+    "R_stId": "R-HSA-2046087",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046088,
+    "R_stId": "R-HSA-2046088",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046089,
+    "R_stId": "R-HSA-2046089",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046090,
+    "R_stId": "R-HSA-2046090",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046092,
+    "R_stId": "R-HSA-2046092",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046093,
+    "R_stId": "R-HSA-2046093",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046094,
+    "R_stId": "R-HSA-2046094",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046095,
+    "R_stId": "R-HSA-2046095",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046096,
+    "R_stId": "R-HSA-2046096",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046097,
+    "R_stId": "R-HSA-2046097",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046098,
+    "R_stId": "R-HSA-2046098",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046099,
+    "R_stId": "R-HSA-2046099",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046100,
+    "R_stId": "R-HSA-2046100",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2046101,
+    "R_stId": "R-HSA-2046101",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2065539,
+    "R_stId": "R-HSA-2065539",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2065549,
+    "R_stId": "R-HSA-2065549",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2065550,
+    "R_stId": "R-HSA-2065550",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2065966,
+    "R_stId": "R-HSA-2065966",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066778,
+    "R_stId": "R-HSA-2066778",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066779,
+    "R_stId": "R-HSA-2066779",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066780,
+    "R_stId": "R-HSA-2066780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066781,
+    "R_stId": "R-HSA-2066781",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066782,
+    "R_stId": "R-HSA-2066782",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066785,
+    "R_stId": "R-HSA-2066785",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066787,
+    "R_stId": "R-HSA-2066787",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2066788,
+    "R_stId": "R-HSA-2066788",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161549,
+    "R_stId": "R-HSA-2161549",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161563,
+    "R_stId": "R-HSA-2161563",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161567,
+    "R_stId": "R-HSA-2161567",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161588,
+    "R_stId": "R-HSA-2161588",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161612,
+    "R_stId": "R-HSA-2161612",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161613,
+    "R_stId": "R-HSA-2161613",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161614,
+    "R_stId": "R-HSA-2161614",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161619,
+    "R_stId": "R-HSA-2161619",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161620,
+    "R_stId": "R-HSA-2161620",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161651,
+    "R_stId": "R-HSA-2161651",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161659,
+    "R_stId": "R-HSA-2161659",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161660,
+    "R_stId": "R-HSA-2161660",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161662,
+    "R_stId": "R-HSA-2161662",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161666,
+    "R_stId": "R-HSA-2161666",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161668,
+    "R_stId": "R-HSA-2161668",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161673,
+    "R_stId": "R-HSA-2161673",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161692,
+    "R_stId": "R-HSA-2161692",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161701,
+    "R_stId": "R-HSA-2161701",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161732,
+    "R_stId": "R-HSA-2161732",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161733,
+    "R_stId": "R-HSA-2161733",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161735,
+    "R_stId": "R-HSA-2161735",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161745,
+    "R_stId": "R-HSA-2161745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161768,
+    "R_stId": "R-HSA-2161768",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161775,
+    "R_stId": "R-HSA-2161775",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161776,
+    "R_stId": "R-HSA-2161776",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161779,
+    "R_stId": "R-HSA-2161779",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161789,
+    "R_stId": "R-HSA-2161789",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161790,
+    "R_stId": "R-HSA-2161790",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161791,
+    "R_stId": "R-HSA-2161791",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161792,
+    "R_stId": "R-HSA-2161792",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161794,
+    "R_stId": "R-HSA-2161794",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161795,
+    "R_stId": "R-HSA-2161795",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161814,
+    "R_stId": "R-HSA-2161814",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161844,
+    "R_stId": "R-HSA-2161844",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161868,
+    "R_stId": "R-HSA-2161868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161890,
+    "R_stId": "R-HSA-2161890",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161899,
+    "R_stId": "R-HSA-2161899",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161907,
+    "R_stId": "R-HSA-2161907",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161917,
+    "R_stId": "R-HSA-2161917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161940,
+    "R_stId": "R-HSA-2161940",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161945,
+    "R_stId": "R-HSA-2161945",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161946,
+    "R_stId": "R-HSA-2161946",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161948,
+    "R_stId": "R-HSA-2161948",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161949,
+    "R_stId": "R-HSA-2161949",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161950,
+    "R_stId": "R-HSA-2161950",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161951,
+    "R_stId": "R-HSA-2161951",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161959,
+    "R_stId": "R-HSA-2161959",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161961,
+    "R_stId": "R-HSA-2161961",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161962,
+    "R_stId": "R-HSA-2161962",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161964,
+    "R_stId": "R-HSA-2161964",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161979,
+    "R_stId": "R-HSA-2161979",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2161999,
+    "R_stId": "R-HSA-2161999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2162002,
+    "R_stId": "R-HSA-2162002",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2162019,
+    "R_stId": "R-HSA-2162019",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2248891,
+    "R_stId": "R-HSA-2248891",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2299725,
+    "R_stId": "R-HSA-2299725",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2309773,
+    "R_stId": "R-HSA-2309773",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2309779,
+    "R_stId": "R-HSA-2309779",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2309787,
+    "R_stId": "R-HSA-2309787",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2314678,
+    "R_stId": "R-HSA-2314678",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2314686,
+    "R_stId": "R-HSA-2314686",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2317530,
+    "R_stId": "R-HSA-2317530",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2317531,
+    "R_stId": "R-HSA-2317531",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426144,
+    "R_stId": "R-HSA-2426144",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426146,
+    "R_stId": "R-HSA-2426146",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426147,
+    "R_stId": "R-HSA-2426147",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426148,
+    "R_stId": "R-HSA-2426148",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426149,
+    "R_stId": "R-HSA-2426149",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426150,
+    "R_stId": "R-HSA-2426150",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426151,
+    "R_stId": "R-HSA-2426151",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426152,
+    "R_stId": "R-HSA-2426152",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426153,
+    "R_stId": "R-HSA-2426153",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426154,
+    "R_stId": "R-HSA-2426154",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426155,
+    "R_stId": "R-HSA-2426155",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426156,
+    "R_stId": "R-HSA-2426156",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426157,
+    "R_stId": "R-HSA-2426157",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426158,
+    "R_stId": "R-HSA-2426158",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426160,
+    "R_stId": "R-HSA-2426160",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426161,
+    "R_stId": "R-HSA-2426161",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426162,
+    "R_stId": "R-HSA-2426162",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426163,
+    "R_stId": "R-HSA-2426163",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 2426164,
+    "R_stId": "R-HSA-2426164",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 4546387,
+    "R_stId": "R-HSA-4546387",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5250531,
+    "R_stId": "R-HSA-5250531",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5333678,
+    "R_stId": "R-HSA-5333678",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5334794,
+    "R_stId": "R-HSA-5334794",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5340195,
+    "R_stId": "R-HSA-5340195",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5340251,
+    "R_stId": "R-HSA-5340251",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5655955,
+    "R_stId": "R-HSA-5655955",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5676637,
+    "R_stId": "R-HSA-5676637",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5690042,
+    "R_stId": "R-HSA-5690042",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5690043,
+    "R_stId": "R-HSA-5690043",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5690046,
+    "R_stId": "R-HSA-5690046",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5690066,
+    "R_stId": "R-HSA-5690066",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5690517,
+    "R_stId": "R-HSA-5690517",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5690565,
+    "R_stId": "R-HSA-5690565",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5692261,
+    "R_stId": "R-HSA-5692261",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5693390,
+    "R_stId": "R-HSA-5693390",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5693742,
+    "R_stId": "R-HSA-5693742",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5693751,
+    "R_stId": "R-HSA-5693751",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5693761,
+    "R_stId": "R-HSA-5693761",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5694485,
+    "R_stId": "R-HSA-5694485",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5694494,
+    "R_stId": "R-HSA-5694494",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5694583,
+    "R_stId": "R-HSA-5694583",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5695957,
+    "R_stId": "R-HSA-5695957",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5695980,
+    "R_stId": "R-HSA-5695980",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5695989,
+    "R_stId": "R-HSA-5695989",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696004,
+    "R_stId": "R-HSA-5696004",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696007,
+    "R_stId": "R-HSA-5696007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696074,
+    "R_stId": "R-HSA-5696074",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696080,
+    "R_stId": "R-HSA-5696080",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696119,
+    "R_stId": "R-HSA-5696119",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696415,
+    "R_stId": "R-HSA-5696415",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696424,
+    "R_stId": "R-HSA-5696424",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696448,
+    "R_stId": "R-HSA-5696448",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696457,
+    "R_stId": "R-HSA-5696457",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 5696822,
+    "R_stId": "R-HSA-5696822",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6785933,
+    "R_stId": "R-HSA-6785933",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6786650,
+    "R_stId": "R-HSA-6786650",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6786720,
+    "R_stId": "R-HSA-6786720",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6787811,
+    "R_stId": "R-HSA-6787811",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6788597,
+    "R_stId": "R-HSA-6788597",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6792445,
+    "R_stId": "R-HSA-6792445",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6800052,
+    "R_stId": "R-HSA-6800052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6800334,
+    "R_stId": "R-HSA-6800334",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6807052,
+    "R_stId": "R-HSA-6807052",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6807053,
+    "R_stId": "R-HSA-6807053",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6807055,
+    "R_stId": "R-HSA-6807055",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6807064,
+    "R_stId": "R-HSA-6807064",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6807242,
+    "R_stId": "R-HSA-6807242",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6808464,
+    "R_stId": "R-HSA-6808464",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809238,
+    "R_stId": "R-HSA-6809238",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809254,
+    "R_stId": "R-HSA-6809254",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809263,
+    "R_stId": "R-HSA-6809263",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809264,
+    "R_stId": "R-HSA-6809264",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809309,
+    "R_stId": "R-HSA-6809309",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809320,
+    "R_stId": "R-HSA-6809320",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809325,
+    "R_stId": "R-HSA-6809325",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809354,
+    "R_stId": "R-HSA-6809354",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809680,
+    "R_stId": "R-HSA-6809680",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809707,
+    "R_stId": "R-HSA-6809707",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809720,
+    "R_stId": "R-HSA-6809720",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809764,
+    "R_stId": "R-HSA-6809764",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809777,
+    "R_stId": "R-HSA-6809777",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809778,
+    "R_stId": "R-HSA-6809778",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809785,
+    "R_stId": "R-HSA-6809785",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809793,
+    "R_stId": "R-HSA-6809793",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809808,
+    "R_stId": "R-HSA-6809808",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809810,
+    "R_stId": "R-HSA-6809810",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809944,
+    "R_stId": "R-HSA-6809944",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6809975,
+    "R_stId": "R-HSA-6809975",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6810030,
+    "R_stId": "R-HSA-6810030",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6810392,
+    "R_stId": "R-HSA-6810392",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6810410,
+    "R_stId": "R-HSA-6810410",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6810474,
+    "R_stId": "R-HSA-6810474",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6810594,
+    "R_stId": "R-HSA-6810594",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6811522,
+    "R_stId": "R-HSA-6811522",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6813740,
+    "R_stId": "R-HSA-6813740",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6814132,
+    "R_stId": "R-HSA-6814132",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6814254,
+    "R_stId": "R-HSA-6814254",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6814766,
+    "R_stId": "R-HSA-6814766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6814778,
+    "R_stId": "R-HSA-6814778",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 6814797,
+    "R_stId": "R-HSA-6814797",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8847579,
+    "R_stId": "R-HSA-8847579",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8847912,
+    "R_stId": "R-HSA-8847912",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848215,
+    "R_stId": "R-HSA-8848215",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848246,
+    "R_stId": "R-HSA-8848246",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848247,
+    "R_stId": "R-HSA-8848247",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848250,
+    "R_stId": "R-HSA-8848250",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848338,
+    "R_stId": "R-HSA-8848338",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848339,
+    "R_stId": "R-HSA-8848339",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848355,
+    "R_stId": "R-HSA-8848355",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848580,
+    "R_stId": "R-HSA-8848580",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848582,
+    "R_stId": "R-HSA-8848582",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848585,
+    "R_stId": "R-HSA-8848585",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8848586,
+    "R_stId": "R-HSA-8848586",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8849969,
+    "R_stId": "R-HSA-8849969",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8856223,
+    "R_stId": "R-HSA-8856223",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8856630,
+    "R_stId": "R-HSA-8856630",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8857686,
+    "R_stId": "R-HSA-8857686",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8858270,
+    "R_stId": "R-HSA-8858270",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8858298,
+    "R_stId": "R-HSA-8858298",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8862137,
+    "R_stId": "R-HSA-8862137",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8862152,
+    "R_stId": "R-HSA-8862152",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8862380,
+    "R_stId": "R-HSA-8862380",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8865637,
+    "R_stId": "R-HSA-8865637",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8866941,
+    "R_stId": "R-HSA-8866941",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8867667,
+    "R_stId": "R-HSA-8867667",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8867876,
+    "R_stId": "R-HSA-8867876",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8868402,
+    "R_stId": "R-HSA-8868402",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8869241,
+    "R_stId": "R-HSA-8869241",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8869425,
+    "R_stId": "R-HSA-8869425",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8870332,
+    "R_stId": "R-HSA-8870332",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8870489,
+    "R_stId": "R-HSA-8870489",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8870499,
+    "R_stId": "R-HSA-8870499",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8871366,
+    "R_stId": "R-HSA-8871366",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8871370,
+    "R_stId": "R-HSA-8871370",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8871373,
+    "R_stId": "R-HSA-8871373",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8871376,
+    "R_stId": "R-HSA-8871376",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8873794,
+    "R_stId": "R-HSA-8873794",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8873834,
+    "R_stId": "R-HSA-8873834",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8873850,
+    "R_stId": "R-HSA-8873850",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8873923,
+    "R_stId": "R-HSA-8873923",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8873929,
+    "R_stId": "R-HSA-8873929",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8874435,
+    "R_stId": "R-HSA-8874435",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8874470,
+    "R_stId": "R-HSA-8874470",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8874745,
+    "R_stId": "R-HSA-8874745",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8875013,
+    "R_stId": "R-HSA-8875013",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8875071,
+    "R_stId": "R-HSA-8875071",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8875077,
+    "R_stId": "R-HSA-8875077",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8876889,
+    "R_stId": "R-HSA-8876889",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8878654,
+    "R_stId": "R-HSA-8878654",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8878787,
+    "R_stId": "R-HSA-8878787",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8878914,
+    "R_stId": "R-HSA-8878914",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8932633,
+    "R_stId": "R-HSA-8932633",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8933547,
+    "R_stId": "R-HSA-8933547",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8942208,
+    "R_stId": "R-HSA-8942208",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8949399,
+    "R_stId": "R-HSA-8949399",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8951850,
+    "R_stId": "R-HSA-8951850",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8952137,
+    "R_stId": "R-HSA-8952137",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8952251,
+    "R_stId": "R-HSA-8952251",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8952873,
+    "R_stId": "R-HSA-8952873",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8954398,
+    "R_stId": "R-HSA-8954398",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8955794,
+    "R_stId": "R-HSA-8955794",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8957389,
+    "R_stId": "R-HSA-8957389",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8959462,
+    "R_stId": "R-HSA-8959462",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8963851,
+    "R_stId": "R-HSA-8963851",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8963872,
+    "R_stId": "R-HSA-8963872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8963913,
+    "R_stId": "R-HSA-8963913",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 8963915,
+    "R_stId": "R-HSA-8963915",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018858,
+    "R_stId": "R-HSA-9018858",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018859,
+    "R_stId": "R-HSA-9018859",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018862,
+    "R_stId": "R-HSA-9018862",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018863,
+    "R_stId": "R-HSA-9018863",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018867,
+    "R_stId": "R-HSA-9018867",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018868,
+    "R_stId": "R-HSA-9018868",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018874,
+    "R_stId": "R-HSA-9018874",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018877,
+    "R_stId": "R-HSA-9018877",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018880,
+    "R_stId": "R-HSA-9018880",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018894,
+    "R_stId": "R-HSA-9018894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018895,
+    "R_stId": "R-HSA-9018895",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018901,
+    "R_stId": "R-HSA-9018901",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9018907,
+    "R_stId": "R-HSA-9018907",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020249,
+    "R_stId": "R-HSA-9020249",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020251,
+    "R_stId": "R-HSA-9020251",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020252,
+    "R_stId": "R-HSA-9020252",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020253,
+    "R_stId": "R-HSA-9020253",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020255,
+    "R_stId": "R-HSA-9020255",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020256,
+    "R_stId": "R-HSA-9020256",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020257,
+    "R_stId": "R-HSA-9020257",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020258,
+    "R_stId": "R-HSA-9020258",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020259,
+    "R_stId": "R-HSA-9020259",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020260,
+    "R_stId": "R-HSA-9020260",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020261,
+    "R_stId": "R-HSA-9020261",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020262,
+    "R_stId": "R-HSA-9020262",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020264,
+    "R_stId": "R-HSA-9020264",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020270,
+    "R_stId": "R-HSA-9020270",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020271,
+    "R_stId": "R-HSA-9020271",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020273,
+    "R_stId": "R-HSA-9020273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020274,
+    "R_stId": "R-HSA-9020274",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020275,
+    "R_stId": "R-HSA-9020275",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020277,
+    "R_stId": "R-HSA-9020277",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020278,
+    "R_stId": "R-HSA-9020278",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020282,
+    "R_stId": "R-HSA-9020282",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9020610,
+    "R_stId": "R-HSA-9020610",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9023968,
+    "R_stId": "R-HSA-9023968",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9023980,
+    "R_stId": "R-HSA-9023980",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9023983,
+    "R_stId": "R-HSA-9023983",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024586,
+    "R_stId": "R-HSA-9024586",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024624,
+    "R_stId": "R-HSA-9024624",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024630,
+    "R_stId": "R-HSA-9024630",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024766,
+    "R_stId": "R-HSA-9024766",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024785,
+    "R_stId": "R-HSA-9024785",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024872,
+    "R_stId": "R-HSA-9024872",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024881,
+    "R_stId": "R-HSA-9024881",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024890,
+    "R_stId": "R-HSA-9024890",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024973,
+    "R_stId": "R-HSA-9024973",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024983,
+    "R_stId": "R-HSA-9024983",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024993,
+    "R_stId": "R-HSA-9024993",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9024997,
+    "R_stId": "R-HSA-9024997",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025007,
+    "R_stId": "R-HSA-9025007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025152,
+    "R_stId": "R-HSA-9025152",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025957,
+    "R_stId": "R-HSA-9025957",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025995,
+    "R_stId": "R-HSA-9025995",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025996,
+    "R_stId": "R-HSA-9025996",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025998,
+    "R_stId": "R-HSA-9025998",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9025999,
+    "R_stId": "R-HSA-9025999",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026000,
+    "R_stId": "R-HSA-9026000",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026001,
+    "R_stId": "R-HSA-9026001",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026003,
+    "R_stId": "R-HSA-9026003",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026005,
+    "R_stId": "R-HSA-9026005",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026006,
+    "R_stId": "R-HSA-9026006",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026007,
+    "R_stId": "R-HSA-9026007",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026008,
+    "R_stId": "R-HSA-9026008",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026405,
+    "R_stId": "R-HSA-9026405",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026408,
+    "R_stId": "R-HSA-9026408",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026411,
+    "R_stId": "R-HSA-9026411",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026544,
+    "R_stId": "R-HSA-9026544",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026757,
+    "R_stId": "R-HSA-9026757",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026771,
+    "R_stId": "R-HSA-9026771",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026777,
+    "R_stId": "R-HSA-9026777",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026780,
+    "R_stId": "R-HSA-9026780",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026901,
+    "R_stId": "R-HSA-9026901",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026907,
+    "R_stId": "R-HSA-9026907",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026911,
+    "R_stId": "R-HSA-9026911",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026912,
+    "R_stId": "R-HSA-9026912",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026916,
+    "R_stId": "R-HSA-9026916",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026917,
+    "R_stId": "R-HSA-9026917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026918,
+    "R_stId": "R-HSA-9026918",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9026927,
+    "R_stId": "R-HSA-9026927",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027033,
+    "R_stId": "R-HSA-9027033",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027042,
+    "R_stId": "R-HSA-9027042",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027043,
+    "R_stId": "R-HSA-9027043",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027044,
+    "R_stId": "R-HSA-9027044",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027302,
+    "R_stId": "R-HSA-9027302",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027321,
+    "R_stId": "R-HSA-9027321",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027531,
+    "R_stId": "R-HSA-9027531",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027532,
+    "R_stId": "R-HSA-9027532",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027562,
+    "R_stId": "R-HSA-9027562",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027598,
+    "R_stId": "R-HSA-9027598",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027600,
+    "R_stId": "R-HSA-9027600",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027607,
+    "R_stId": "R-HSA-9027607",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027624,
+    "R_stId": "R-HSA-9027624",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027625,
+    "R_stId": "R-HSA-9027625",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027627,
+    "R_stId": "R-HSA-9027627",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027628,
+    "R_stId": "R-HSA-9027628",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027631,
+    "R_stId": "R-HSA-9027631",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027632,
+    "R_stId": "R-HSA-9027632",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9027633,
+    "R_stId": "R-HSA-9027633",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9028255,
+    "R_stId": "R-HSA-9028255",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9028260,
+    "R_stId": "R-HSA-9028260",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9028263,
+    "R_stId": "R-HSA-9028263",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9028273,
+    "R_stId": "R-HSA-9028273",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031802,
+    "R_stId": "R-HSA-9031802",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031803,
+    "R_stId": "R-HSA-9031803",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031807,
+    "R_stId": "R-HSA-9031807",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031856,
+    "R_stId": "R-HSA-9031856",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031881,
+    "R_stId": "R-HSA-9031881",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031884,
+    "R_stId": "R-HSA-9031884",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031894,
+    "R_stId": "R-HSA-9031894",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9031896,
+    "R_stId": "R-HSA-9031896",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9032021,
+    "R_stId": "R-HSA-9032021",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9032036,
+    "R_stId": "R-HSA-9032036",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9032054,
+    "R_stId": "R-HSA-9032054",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9032315,
+    "R_stId": "R-HSA-9032315",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9032323,
+    "R_stId": "R-HSA-9032323",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9032327,
+    "R_stId": "R-HSA-9032327",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9037761,
+    "R_stId": "R-HSA-9037761",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9660192,
+    "R_stId": "R-HSA-9660192",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9677320,
+    "R_stId": "R-HSA-9677320",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9695890,
+    "R_stId": "R-HSA-9695890",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9695917,
+    "R_stId": "R-HSA-9695917",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9695949,
+    "R_stId": "R-HSA-9695949",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9705584,
+    "R_stId": "R-HSA-9705584",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9705713,
+    "R_stId": "R-HSA-9705713",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9705714,
+    "R_stId": "R-HSA-9705714",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9705794,
+    "R_stId": "R-HSA-9705794",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9707186,
+    "R_stId": "R-HSA-9707186",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9707353,
+    "R_stId": "R-HSA-9707353",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9716836,
+    "R_stId": "R-HSA-9716836",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9716838,
+    "R_stId": "R-HSA-9716838",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9717830,
+    "R_stId": "R-HSA-9717830",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9717834,
+    "R_stId": "R-HSA-9717834",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9717841,
+    "R_stId": "R-HSA-9717841",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9733545,
+    "R_stId": "R-HSA-9733545",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9733960,
+    "R_stId": "R-HSA-9733960",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9733964,
+    "R_stId": "R-HSA-9733964",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9733969,
+    "R_stId": "R-HSA-9733969",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9733973,
+    "R_stId": "R-HSA-9733973",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9734475,
+    "R_stId": "R-HSA-9734475",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9734535,
+    "R_stId": "R-HSA-9734535",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9734540,
+    "R_stId": "R-HSA-9734540",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9755937,
+    "R_stId": "R-HSA-9755937",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840334,
+    "R_stId": "R-HSA-9840334",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840470,
+    "R_stId": "R-HSA-9840470",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840488,
+    "R_stId": "R-HSA-9840488",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840579,
+    "R_stId": "R-HSA-9840579",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840581,
+    "R_stId": "R-HSA-9840581",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840795,
+    "R_stId": "R-HSA-9840795",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840833,
+    "R_stId": "R-HSA-9840833",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840884,
+    "R_stId": "R-HSA-9840884",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9840949,
+    "R_stId": "R-HSA-9840949",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9841189,
+    "R_stId": "R-HSA-9841189",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9842115,
+    "R_stId": "R-HSA-9842115",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9843721,
+    "R_stId": "R-HSA-9843721",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9844587,
+    "R_stId": "R-HSA-9844587",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9844860,
+    "R_stId": "R-HSA-9844860",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9845516,
+    "R_stId": "R-HSA-9845516",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9845538,
+    "R_stId": "R-HSA-9845538",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9845587,
+    "R_stId": "R-HSA-9845587",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9846305,
+    "R_stId": "R-HSA-9846305",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9846332,
+    "R_stId": "R-HSA-9846332",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9846477,
+    "R_stId": "R-HSA-9846477",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9846501,
+    "R_stId": "R-HSA-9846501",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9851347,
+    "R_stId": "R-HSA-9851347",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9911362,
+    "R_stId": "R-HSA-9911362",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9914143,
+    "R_stId": "R-HSA-9914143",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915968,
+    "R_stId": "R-HSA-9915968",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915971,
+    "R_stId": "R-HSA-9915971",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915986,
+    "R_stId": "R-HSA-9915986",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915992,
+    "R_stId": "R-HSA-9915992",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915993,
+    "R_stId": "R-HSA-9915993",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915994,
+    "R_stId": "R-HSA-9915994",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9915997,
+    "R_stId": "R-HSA-9915997",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9916401,
+    "R_stId": "R-HSA-9916401",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9942190,
+    "R_stId": "R-HSA-9942190",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9945784,
+    "R_stId": "R-HSA-9945784",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9945787,
+    "R_stId": "R-HSA-9945787",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9945804,
+    "R_stId": "R-HSA-9945804",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9945822,
+    "R_stId": "R-HSA-9945822",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9946140,
+    "R_stId": "R-HSA-9946140",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9947148,
+    "R_stId": "R-HSA-9947148",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9947203,
+    "R_stId": "R-HSA-9947203",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9947207,
+    "R_stId": "R-HSA-9947207",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9956308,
+    "R_stId": "R-HSA-9956308",
+    "species": "Homo sapiens"
+  },
+  {
+    "pathway_name": "Metabolism of lipids",
+    "pathway_stId": "R-HSA-556833",
+    "R": 9956909,
+    "R_stId": "R-HSA-9956909",
+    "species": "Homo sapiens"
+  }
+]
