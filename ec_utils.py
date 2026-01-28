@@ -1,5 +1,9 @@
 import re
+import json
+import pandas as pd
+from pathlib import Path
 from functools import lru_cache
+from collections import defaultdict
 
 def norm_ec(x:str) -> str: # clean EC string 
     return re.sub(r'^\s*EC\s*', '', str(x).strip())
@@ -44,3 +48,35 @@ def _ec_prefix_tuple(ec: str, depth: int):
     """Tuple key of the first `depth` integer EC levels, consistent with ec_atom/ec_levels."""
     levels = [x for x in ec_levels(ec) if isinstance(x, int)]
     return tuple(levels[:depth])
+
+# Use CR-pairs to build RCR pairs on the fly 
+# significantly reduces memory usage for large pathways
+def load_rcr_from_cr_pairs(cr_pairs_path, Rset, BANNED):
+    # for each compound, find all reactions that touch it
+    # filter to pathway reactions, then generate RCR triples
+
+    cr_list = json.loads(Path(cr_pairs_path).read_text(encoding="utf-8-sig"))
+    
+    # Build compound -> [reactions] index
+    C_to_Rs = defaultdict(set)
+    for d in cr_list:
+        C = d['C']
+        R = str(d['R'])
+        # limit to reactions in pathway of interest
+        if R in Rset:
+            C_to_Rs[C].add(R)
+    
+    rcr_rows = []
+    for C, reactions in C_to_Rs.items():
+        chebi_id = C.split(':')[1] if ':' in C else C
+        if chebi_id in BANNED:
+            continue
+        if len(reactions) < 2:
+            continue  # Need at least 2 reactions to form a pair
+        
+        reactions = list(reactions)
+        for i, R1 in enumerate(reactions):
+            for R2 in reactions[i+1:]:
+                rcr_rows.append({'R': R1, 'C': chebi_id, 'R2': R2})
+    
+    return pd.DataFrame(rcr_rows)

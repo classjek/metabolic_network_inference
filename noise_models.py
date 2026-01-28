@@ -107,7 +107,7 @@ def make_noisy_prior(GE_gold, EC_pool, s_fraction=S_FRACTION, k_wrong=K_WRONG, s
     genes = list(G_to_trueE.keys())
     random.shuffle(genes)
     n_corrupt = int(s_fraction * len(genes))
-    print(f"Corrupting {n_corrupt} out of {len(genes)} genes (s={s_fraction})")
+    #print(f"Corrupting {n_corrupt} out of {len(genes)} genes (s={s_fraction})")
     corrupt = set(genes[:n_corrupt])
 
     # Start with true links at a high base probability
@@ -135,17 +135,17 @@ def make_noisy_prior(GE_gold, EC_pool, s_fraction=S_FRACTION, k_wrong=K_WRONG, s
     for key, p in list(prior.items()):
         prior[key] = clip01(p + random.gauss(0.0, sigma_n))
     
-    print(f"[§4.2] Corrupted genes: {n_corrupt} / {len(genes)}")
-    print(f"[§4.2] Injected wrong links (draws): {injected_cnt}")
+    #print(f"[§4.2] Corrupted genes: {n_corrupt} / {len(genes)}")
+    #print(f"[§4.2] Injected wrong links (draws): {injected_cnt}")
     if injected_cnt == 0:
         print("[§4.2] No injected links—check EC_pool/GE_gold sizes.")
     else:
         # show how local the injected ECs are (should skew to small distances when σ_EC is small)
-        print("[§4.2] Injected EC distance histogram (d -> count):", dict(sorted(injected_dist.items())))
+        #print("[§4.2] Injected EC distance histogram (d -> count):", dict(sorted(injected_dist.items())))
         # rough share of non-gold links in the prior
         n_gold = len(GE_gold)
         n_total = len(prior)
-        print(f"[§4.2] Prior size: {n_total} entries  (gold {n_gold}, injected {n_total-n_gold})")
+        #print(f"[§4.2] Prior size: {n_total} entries  (gold {n_gold}, injected {n_total-n_gold})")
 
     return prior
 

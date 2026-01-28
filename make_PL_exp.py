@@ -4,9 +4,9 @@ from pathlib import Path
 import pandas as pd
 from collections import defaultdict
 
-from ec_utils import norm_ec, ec_is_leaf
+from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs
 from noise_models import make_agnostic_prior, make_noisy_prior
-from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind)
+from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths)
 
 random.seed(0)
 
@@ -21,13 +21,13 @@ random.seed(0)
 # R-MMU-1430728   species = 10090    mus musculus
 # R-CFA-168256    species = 9615     canis familiaris <- Don't use, too small
 
-## New Pathways ##     nReactions   nSpeciesLinked   Name
+# # New Pathways ##     nReactions   nSpeciesLinked   Name
 # R-HSA-597592.json    998          12               Metabolism of Lipids
 # R-HSA-9006934.json   929          11               Metabolism of Proteins
 # R-HSA-392499.json    759          9                Signaling by Receptor Tyrosine Kinsases
 # R-HSA-556833.json    606          8                Post-translational protein modification
 
-## More Pathways ##    nReactions   nSpeciesLinked   Name
+# # More Pathways ##    nReactions   nSpeciesLinked   Name
 # R-HSA-372790.json    791          7                Cytokine Signaling in Immune System
 # R-HSA-1640170.json   762          7                Innate Immune System
 # R-HSA-449147.json    505          6                Signaling by Interleukins
@@ -36,18 +36,22 @@ random.seed(0)
 
 SPECIES = "9606"
 # PATHWAY_JSON = "NData/R-HSA-162582.json"   
-# PATHWAY_JSON = "NData/R-HSA-597592.json"   # L400 -> 2,  L250 -> 8 well documented species
-# PATHWAY_JSON = "NData/R-HSA-9006934.json"  # L400 -> 1,  L250 -> 4 well documented species
+PATHWAY_JSON = "NData/R-HSA-597592.json"   # L400 -> 2,  L250 -> 8 well documented species
+# PATHWAY_JSON = "NData/R-HSA-9006934.json"  # L400 -> 1,  L250 -> 4 well documented species     pretty good 
 # PATHWAY_JSON = "NData/R-HSA-392499.json"   # L400 -> 3,  L250 -> 10 well documented species
-# PATHWAY_JSON = "NData/R-HSA-556833.json"   # L400 -> 5,  L250 -> 10 well documented species
+# PATHWAY_JSON = "NData/R-HSA-556833.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
 
-PATHWAY_JSON = "NData/R-HSA-372790.json"     # L250 -> 3 well documented species
-# PATHWAY_JSON = "NData/R-HSA-1640170.json"    # Error? 
-# PATHWAY_JSON = "NData/R-HSA-449147.json"     # Also error?!
+# PATHWAY_JSON = "NData/R-HSA-372790.json"     # L250 -> 3 well documented species
+
+# PATHWAY_JSON = "NData/R-HSA-1640170.json"    # L250 -> 4 well documented species  very few rcr
+# PATHWAY_JSON = "NData/R-HSA-449147.json"     # Weird -> Signaling Pathway
+# PATHWAY_JSON = "NData/R-HSA-168249.json"       # L250 -> 4 well documented species
+# PATHWAY_JSON = "NData/R-HSA-1280215.json"    # Weird -> Signaling Pathway 
 
 
 RE_CSV       = "NData/RE.csv"               # reaction_enzyme(R,E)
 RCR_JSON     = "NData/new_RCR.json"         # reaction_compound_reaction(R1,C,R2)
+CR_JSON      = "NData/CR_pairs.json"        # compound-reaction pairs for building RCR on the fly
 GE_EXPANDED  = "NData/GE_expanded.tsv"
 SPECIES_UNIPROT = "NData/species_uniprot.json"
 
@@ -76,11 +80,20 @@ for d in rcr_list:
     d['R2'] = str(d['R2'])
 
 rcr_filtered = []
+# Keep only RCRs where both reactions are in pathway (and compound not banned)
 for d in rcr_list:
     if d['R'] in Rset and d['R2'] in Rset and d['C'][6:] not in BANNED:
         rcr_filtered.append(d)
 rcr_filtered = pd.DataFrame(rcr_filtered)
-rcr_filtered['C'] = rcr_filtered['C'].str.split(':').str[1]  # remove "CHEBI:"
+if not rcr_filtered.empty:
+    rcr_filtered['C'] = rcr_filtered['C'].str.split(':').str[1]  # remove "CHEBI:"
+
+# Create RCR (reaction-compound-reaction) triples
+rcr_from_cr = load_rcr_from_cr_pairs(CR_JSON, Rset, BANNED)
+
+print(f"Size of Rset:         {len(Rset)}")
+print(f"Size of rcr_filtered: {len(rcr_filtered)}")
+print(f"Size of rcr_from_cr:  {len(rcr_from_cr)}")
 
 # Load and filter RE (reaction-enzyme)
 rec = pd.read_csv(RE_CSV, dtype=str, keep_default_na=False)
@@ -233,6 +246,37 @@ def compute_auprc_from_prior(noisy_prior, GE_gold):
 ######################
 
 if __name__ == "__main__":
+
+    ## TESTING ##
+    print("=== Q2 Support Diagnostic (rank_ge_by_q2_support) ===")
+    
+    # Build idx for OLD method
+    idx_old = build_indices_n_graph(rcr_filtered, re_filtered, ge_filtered, banned_df)
+    ranked_old = rank_ge_by_q2_support(ge_filtered, idx_old)
+    
+    # Build idx for NEW method  
+    idx_new = build_indices_n_graph(rcr_from_cr, re_filtered, ge_filtered, banned_df)
+    ranked_new = rank_ge_by_q2_support(ge_filtered, idx_new)
+    
+    # Compute summary stats
+    def q2_summary(df, label):
+        n_total = len(df)
+        n_with_support = (df['q2_paths'] > 0).sum()
+        pct_support = 100 * n_with_support / n_total if n_total else 0
+        mean_paths = df['q2_paths'].mean()
+        total_paths = df['q2_paths'].sum()
+        print(f"{label}:")
+        print(f"  Pairs with support: {n_with_support}/{n_total} ({pct_support:.1f}%)")
+        print(f"  Mean q2_paths:      {mean_paths:.2f}")
+        print(f"  Total paths:        {total_paths}")
+    
+    q2_summary(ranked_old, "OLD (rcr_filtered)")
+    q2_summary(ranked_new, "NEW (rcr_from_cr)")
+
+    exit()
+
+    ## MAIN FUNCTION ##
+
     # Build indices
     idx = build_indices_n_graph(rcr_filtered, re_filtered, ge_filtered, banned_df)
 
@@ -243,16 +287,23 @@ if __name__ == "__main__":
     GE_gold = {(str(g), norm_ec(e)) for g, e in ge_filtered[['G','EC']].itertuples(index=False)}
     GE_gold = {(g,e) for (g,e) in GE_gold if e in EC_pool}
 
-    # Create noisy priors (choose one or both)
-    print("\n=== Creating Agnostic Prior (§4.1) ===")
-    agnostic_prior, perturbations = make_agnostic_prior(GE_gold, EC_pool, s_fraction=0.01)
+    # # Create noisy priors (choose one or both)
+    # print("\n=== Creating Agnostic Prior (§4.1) ===")
+    # agnostic_prior, perturbations = make_agnostic_prior(GE_gold, EC_pool, s_fraction=0.01)
 
-    print("\n=== Creating Noisy Prior (§4.2) ===")
+    # print("\n=== Creating Noisy Prior (§4.2) ===")
     noisy_prior = make_noisy_prior(GE_gold, EC_pool)
 
     # Evaluate baseline AUPRC
     initial_auprc = compute_auprc_from_prior(noisy_prior, GE_gold)
-    print(f"\nBaseline AUCPR of noisy prior: {initial_auprc:.4f}")
+    print(f"Baseline AUCPR of noisy prior (RCR):     {initial_auprc:.4f}")
+
+    # Now also calculate AUPRC using rcr_from_cr
+    idx2 = idx = build_indices_n_graph(rcr_from_cr, re_filtered, ge_filtered, banned_df)
+    noisy_prior2 = make_noisy_prior(GE_gold, EC_pool)
+    initial_auprc2 = compute_auprc_from_prior(noisy_prior2, GE_gold)
+    print(f"Baseline AUCPR of noisy prior (from CR): {initial_auprc2:.4f}")
+
 
     # Compute automorphism orbits (for optimization)
     print("\n=== Computing Automorphism Orbits ===")
