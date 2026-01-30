@@ -7,7 +7,7 @@ from pathlib import Path
 import pandas as pd
 from collections import defaultdict
 
-from ec_utils import load_rcr_from_cr_pairs, build_ortholog_pairs
+from ec_utils import load_rcr_from_cr_pairs, build_ortholog_pairs, ec_distance
 from problog_writer import rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support
 
 # === SHARED DATA (load once) ===
@@ -54,6 +54,42 @@ ec_expanded = ec_expanded[~bad_gene_mask].copy()
 
 banned_df = pd.DataFrame({'C': list(BANNED)})
 print("Shared data loaded.\n")
+
+
+def compute_ec_metrics(enzymes, confusion_threshold=4):
+    """
+    Compute EC clustering metrics for a set of enzymes.
+    
+    Returns:
+    - mean_ec_dist: mean pairwise EC distance (lower = more clustered = harder noise)
+    - confusion_potential: avg number of other enzymes within threshold distance per enzyme
+    """
+    enzymes = list(enzymes)
+    n = len(enzymes)
+    
+    if n < 2:
+        return 0.0, 0.0
+    
+    # Compute all pairwise distances
+    total_dist = 0
+    n_pairs = 0
+    confusion_counts = [0] * n
+    
+    for i in range(n):
+        for j in range(i + 1, n):
+            d = ec_distance(enzymes[i], enzymes[j])
+            total_dist += d
+            n_pairs += 1
+            
+            # Count confusion potential (within threshold)
+            if d <= confusion_threshold:
+                confusion_counts[i] += 1
+                confusion_counts[j] += 1
+    
+    mean_ec_dist = total_dist / n_pairs if n_pairs > 0 else 0
+    confusion_potential = sum(confusion_counts) / n if n > 0 else 0
+    
+    return mean_ec_dist, confusion_potential
 
 
 def build_indices_n_graph(rcr_df, re_df, ge_df, banned_df):
@@ -150,6 +186,10 @@ def profile_pathway(pathway_json):
     n_genes_orth = ge_orthologs['G'].nunique()
     n_ge_orth = len(ge_orthologs)
     
+    # === EC CLUSTERING METRICS ===
+    pathway_enzymes = set(re_filtered['EC'].unique())
+    mean_ec_dist, confusion_potential = compute_ec_metrics(pathway_enzymes)
+    
     # === Q2 METRICS ===
     ranked_q2 = rank_ge_by_q2_support(ge_filtered, idx)
     q2_with_support = (ranked_q2['q2_paths'] > 0).sum()
@@ -180,6 +220,8 @@ def profile_pathway(pathway_json):
         'n_rcr': n_rcr,
         'n_orthologs': n_orthologs,
         'n_other_species': n_other_species,
+        'mean_ec_dist': mean_ec_dist,
+        'confusion_potential': confusion_potential,
         'q2_pct': q2_pct,
         'q2_gene_pct': q2_gene_pct,
         'q2_mean': q2_mean,
@@ -195,6 +237,7 @@ def print_profile(stats):
     print(f"  Size: {stats['n_reactions']} reactions, {stats['n_enzymes']} enzymes, {stats['n_genes']} genes ({stats['n_ge_pairs']} GE pairs)")
     print(f"  Orthologs: +{stats['n_genes_orth']} genes, +{stats['n_ge_orth']} GE pairs from {stats['n_other_species']} other species")
     print(f"  RCR: {stats['n_rcr']}, Ortholog links: {stats['n_orthologs']}")
+    print(f"  EC clustering: mean_dist={stats['mean_ec_dist']:.1f}, confusion={stats['confusion_potential']:.1f}")
     print(f"  Q2: {stats['q2_pct']:.1f}% support, {stats['q2_gene_pct']:.1f}% gene-paths, mean={stats['q2_mean']:.1f}")
     print(f"  Q3: {stats['q3_orth_pct']:.1f}% orth, {stats['q3_pct']:.1f}% paths, mean={stats['q3_mean']:.1f}")
     print()
@@ -219,13 +262,11 @@ if __name__ == "__main__":
 
 
     # Summary: sort by Q3 connectivity (best candidates)
-    print("\n" + "="*100)
+    print("\n" + "="*115)
     print("TOP CANDIDATES (sorted by Q3% with paths, smallest first within tier)")
-    print("="*100)
-    print(f"{'Pathway':25} | {'Enz':>4} | {'Genes':>5} | {'GE':>5} | {'GE%':>5} | {'+Orth':>5} | {'Spp':>3} | {'Q2%':>5} | {'Q3%':>5}")
-    print("-"*100)
+    print("="*115)
+    print(f"{'Pathway':25} | {'Enz':>4} | {'Genes':>5} | {'GE':>5} | {'ECdist':>6} | {'Confus':>6} | {'Spp':>3} | {'Q2%':>5} | {'Q3%':>5}")
+    print("-"*115)
     results.sort(key=lambda x: (-x['q3_pct'], x['n_genes']))
     for r in results[:30]:
-        max_ge = r['n_enzymes'] * r['n_genes']
-        ge_pct = 100 * r['n_ge_pairs'] / max_ge if max_ge > 0 else 0
-        print(f"{r['name']:25} | {r['n_enzymes']:4} | {r['n_genes']:5} | {r['n_ge_pairs']:5} | {ge_pct:5.1f} | {r['n_ge_orth']:5} | {r['n_other_species']:3} | {r['q2_pct']:5.1f} | {r['q3_pct']:5.1f}")
+        print(f"{r['name']:25} | {r['n_enzymes']:4} | {r['n_genes']:5} | {r['n_ge_pairs']:5} | {r['mean_ec_dist']:6.1f} | {r['confusion_potential']:6.1f} | {r['n_other_species']:3} | {r['q2_pct']:5.1f} | {r['q3_pct']:5.1f}")
