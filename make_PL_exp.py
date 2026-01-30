@@ -6,7 +6,7 @@ from collections import defaultdict
 
 from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs
 from noise_models import make_agnostic_prior, make_noisy_prior
-from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths)
+from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support)
 
 random.seed(0)
 
@@ -283,32 +283,56 @@ if __name__ == "__main__":
     GE_gold = {(str(g), norm_ec(e)) for g, e in ge_filtered[['G','EC']].itertuples(index=False)}
     GE_gold = {(g,e) for (g,e) in GE_gold if e in EC_pool}
 
-    # Create noisy prior from ge_all (includes ortholog genes!)
-    print("\n=== Creating Noisy Prior ===")
-    # Convert DataFrame to set of tuples (same format as GE_gold)
+    # === AUPRC Evaluation (target species only) ===
+    print("\n=== Creating Noisy Prior (for AUPRC) ===")
+    eval_prior = make_noisy_prior(GE_gold, EC_pool)
+    print(f"Eval prior has {len(eval_prior)} (G,E) pairs (target species)")
+    
+    initial_auprc = compute_auprc_from_prior(eval_prior, GE_gold)
+    print(f"Baseline AUPRC: {initial_auprc:.4f}")
+
+    # === Noisy prior for ProbLog (includes orthologs) ===
+    print("\n=== Creating Full Prior (for ProbLog) ===")
     GE_all_set = {(str(g), norm_ec(e)) for g, e in ge_all[['G','EC']].itertuples(index=False)}
     GE_all_set = {(g, e) for (g, e) in GE_all_set if e in EC_pool}
     noisy_prior = make_noisy_prior(GE_all_set, EC_pool)
-    print(f"Prior has {len(noisy_prior)} (G,E) pairs")
+    print(f"Full prior has {len(noisy_prior)} (G,E) pairs (target + orthologs)")
 
-    # Evaluate baseline AUPRC (against target species gold only)
-    initial_auprc = compute_auprc_from_prior(noisy_prior, GE_gold)
-    print(f"Baseline AUPRC: {initial_auprc:.4f}")
-
-    # Compute automorphism orbits
-    print("\n=== Computing Automorphism Orbits ===")
-    entity_orbits = compute_automorphism_orbits(
-        prior=noisy_prior,
-        rcr_df=rcr_filtered[['R','C','R2']].copy(),
-        re_df=re_filtered[['R','EC']].copy(),
-        accepted_compounds=idx['accepted_compounds'],
-        ortholog_df=ortholog_df, 
-        p_round=6
+    # === Q3 Support Diagnostic ===
+    print("\n=== Q3 Support Diagnostic ===")
+    ranked_q3 = rank_ge_by_q3_support(
+        ge_df=ge_filtered,
+        idx=idx,
+        ortholog_df=ortholog_df,
+        ge_orthologs_df=ge_orthologs
     )
+    
+    n_total = len(ranked_q3)
+    n_with_orth = ranked_q3['has_orth_support'].sum()
+    n_with_q3 = (ranked_q3['q3_paths'] > 0).sum()
+    
+    print(f"Pairs with ortholog support: {n_with_orth}/{n_total} ({100*n_with_orth/n_total:.1f}%)")
+    print(f"Pairs with Q3 paths:         {n_with_q3}/{n_total} ({100*n_with_q3/n_total:.1f}%)")
+    print(f"Mean Q3 paths:               {ranked_q3['q3_paths'].mean():.2f}")
+    print(f"Total Q3 paths:              {ranked_q3['q3_paths'].sum()}")
+    
+    print("\n--- Top 10 by Q3 support ---")
+    print(ranked_q3[['G','EC','q3_paths','unique_G2','has_orth_support']].head(10))
 
-    counts = counts_by_kind(entity_orbits)
-    print(f"Unique orbits per kind: {counts}")
-    print(f"Total unique entities: {sum(counts.values())}")
+    # # Compute automorphism orbits
+    # print("\n=== Computing Automorphism Orbits ===")
+    # entity_orbits = compute_automorphism_orbits(
+    #     prior=noisy_prior,
+    #     rcr_df=rcr_filtered[['R','C','R2']].copy(),
+    #     re_df=re_filtered[['R','EC']].copy(),
+    #     accepted_compounds=idx['accepted_compounds'],
+    #     ortholog_df=ortholog_df, 
+    #     p_round=6
+    # )
+
+    # counts = counts_by_kind(entity_orbits)
+    # print(f"Unique orbits per kind: {counts}")
+    # print(f"Total unique entities: {sum(counts.values())}")
 
     # # Write ProbLog file
     # print("\n=== Writing ProbLog File ===")
