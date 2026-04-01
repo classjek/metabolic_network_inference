@@ -103,3 +103,30 @@ def build_ortholog_pairs(ec_expanded, target_species, ortholog_col='OrthoDB', ma
                 pairs.append({'G': g1, 'G2': g2})
     
     return pd.DataFrame(pairs)
+
+def compute_enzyme_pairs(rcr_df, re_df, accepted_compounds):
+    """
+    Compute enzyme_pair(E1,E2) from pathway connectivity.
+    Returns a set of (E1, E2) tuples.
+    """
+    # Build R -> [E] lookup
+    R_to_E = defaultdict(list)
+    for _, row in re_df.iterrows():
+        R_to_E[row['R']].append(row['EC'])
+    
+    enzyme_pairs = set()
+    for _, row in rcr_df.iterrows():
+        R1, C, R2 = row['R'], row['C'], row['R2']
+        if C not in accepted_compounds:
+            continue
+        
+        E1s = R_to_E.get(R1, [])
+        E2s = R_to_E.get(R2, [])
+        
+        for e1 in E1s:
+            for e2 in E2s:
+                enzyme_pairs.add((str(e1), str(e2)))
+                # Add reverse direction (undirected)
+                enzyme_pairs.add((str(e2), str(e1)))
+    
+    return enzyme_pairs

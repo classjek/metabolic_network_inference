@@ -116,8 +116,8 @@ def make_noisy_prior(GE_gold, EC_pool, s_fraction=S_FRACTION, k_wrong=K_WRONG, s
     injected_dist = Counter()   
     injected_cnt  = 0
 
-    for g in corrupt:
-        for e_true in G_to_trueE[g]:
+    for g in sorted(corrupt):
+        for e_true in sorted(G_to_trueE[g]):
             picks = sample_wrong_ecs(e_true, EC_pool, k_wrong, sigma_ec)
             for e_wrong, p_select in picks: 
                 if (g, e_wrong) in GE_gold:

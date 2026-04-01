@@ -354,6 +354,7 @@ def write_single_problog(
     re_df: pd.DataFrame,              # columns ['R','EC']
     accepted_compounds: set,          # from idx['accepted_compounds']
     ortholog_df: Optional[pd.DataFrame] = None,   
+    enzyme_pairs: Optional[set] = None,
     targets: Optional[List[Tuple[str, str]]] = None 
 ):
     lines = []
@@ -403,6 +404,12 @@ def write_single_problog(
     for R, E in re_df[['R','EC']].itertuples(index=False):
         lines.append(f"reaction_enzyme({r_atom(R)},{ec_atom(E)}).\n")
     lines.append("\n")
+
+    if enzyme_pairs:
+        lines.append("% --- Enzyme pairs (precomputed pathway connectivity) ---\n")
+        for e1, e2 in sorted(enzyme_pairs):
+            lines.append(f"enzyme_pair({ec_atom(e1)},{ec_atom(e2)}).\n")
+        lines.append("\n")
 
     if ortholog_df is not None and not ortholog_df.empty:
         lines.append("% --- Ortholog pairs ---\n")
@@ -459,3 +466,164 @@ def counts_by_kind(entity_orbits):
         kind_to_orbits[kind].add(int(oid))  # merge by orbit id
 
     return {kind: len(orbits) for kind, orbits in kind_to_orbits.items()}
+
+def write_minimal_problog(
+    out_path: str,
+    prior: dict,                      # {(G,E)->p}
+    enzyme_pairs: set,                # {(E1,E2), ...}
+    ortholog_df: Optional[pd.DataFrame] = None
+):
+    """
+    Write a minimal ProbLog file with only:
+    - function(G,E) with probabilities
+    - enzyme_pair(E1,E2) deterministic
+    - ortholog(G1,G2) deterministic
+    No rules, just facts.
+    """
+    lines = []
+    
+    lines.append("% ==============================================================\n")
+    lines.append("% Minimal ProbLog corpus - Facts only\n")
+    lines.append("% ==============================================================\n\n")
+    
+    # 1. Probabilistic function facts
+    lines.append("% --- Probabilistic gene-enzyme priors ---\n")
+    for (G, E), p in sorted(prior.items(), key=lambda kv: (kv[0][0], kv[0][1])):
+        lines.append(f"{p:.6f}::function({g_atom(G)},{ec_atom(E)}).\n")
+    lines.append("\n")
+    
+    # 2. Deterministic enzyme pairs
+    lines.append("% --- Enzyme pairs (pathway connectivity, probability 1.0) ---\n")
+    for e1, e2 in sorted(enzyme_pairs):
+        lines.append(f"1.0::enzyme_pair({ec_atom(e1)},{ec_atom(e2)}).\n")
+    lines.append("\n")
+    
+    # 3. Deterministic ortholog pairs
+    if ortholog_df is not None and not ortholog_df.empty:
+        lines.append("% --- Ortholog pairs ---\n")
+        for G, G2 in ortholog_df[['G','G2']].itertuples(index=False):
+            lines.append(f"ortholog({g_atom(G)},{g_atom(G2)}).\n")
+        lines.append("\n")
+    else:
+        lines.append("% --- Ortholog pairs ---\n% (none provided)\n\n")
+    
+    Path(out_path).write_text(''.join(lines), encoding='utf-8')
+    print(f"Wrote minimal ProbLog file -> {out_path}")
+    print(f"  {len(prior)} function facts")
+    print(f"  {len(enzyme_pairs)} enzyme_pair facts")
+    print(f"  {len(ortholog_df) if ortholog_df is not None else 0} ortholog facts")
+
+def write_array_erp(
+    out_path: str,
+    fixed_genes: List[str],    # fixed gene1 positions
+    fixed_enzymes: List[str],  # fixed enzyme2 positions
+    all_genes: List[str],      # cycling gene2 values
+    all_enzymes: List[str],    # cycling enzyme1 values
+    enzyme_pairs: Optional[set] = None,  # {(E1,E2)} - only write where enzyme_pair(e1, fixed_e) is known
+    prior: Optional[dict] = None,        # {(G,E)->p} - only write where function(g1,e1) and function(g2,e2) are known
+):
+    """
+    Write TSV file grounding erp(GENE, enzyme1, ENZYME, gene2).
+    
+    For each fixed (GENE, ENZYME) pair, cycles through all (enzyme1, gene2) combos.
+    Filters:
+      - enzyme_pair(enzyme1, ENZYME) must be known (if enzyme_pairs provided)
+      - function(fixed_gene, enzyme1) must be in prior (if prior provided)
+      - function(gene2, fixed_enzyme) must be in prior (if prior provided)
+      - fixed_gene != gene2 (no same gene on both ends)
+      - deduplicates symmetric pairs: erp(g1,e1,e2,g2) == erp(g2,e2,e1,g1)
+    Format: fixed_gene\tfixed_enzyme\tground_relation
+    """
+    lines = []
+    lines.append("fixed_gene\tfixed_enzyme\tground_relation\n")
+    
+    written = 0
+    skipped_ep = 0
+    skipped_func = 0
+    skipped_same_gene = 0
+    skipped_sym = 0
+    seen = set()
+
+    for fixed_g in sorted(fixed_genes):
+        for fixed_e in sorted(fixed_enzymes):
+            for e1 in sorted(all_enzymes):
+                # Filter: enzyme_pair(e1, fixed_e) must be known
+                if enzyme_pairs is not None and (str(e1), str(fixed_e)) not in enzyme_pairs:
+                    skipped_ep += 1
+                    continue
+                # Filter: e1 and fixed_e must be different enzymes
+                if str(e1) == str(fixed_e):
+                    continue
+                # Filter: function(fixed_g, e1) must be in prior
+                if prior is not None and (str(fixed_g), str(e1)) not in prior:
+                    skipped_func += 1
+                    continue
+                for g2 in sorted(all_genes):
+                    # Filter: no same gene on both ends
+                    if str(fixed_g) == str(g2):
+                        skipped_same_gene += 1
+                        continue
+                    # Filter: function(g2, fixed_e) must be in prior
+                    if prior is not None and (str(g2), str(fixed_e)) not in prior:
+                        skipped_func += 1
+                        continue
+
+                    # Filter: deduplicate symmetric pairs
+                    # erp(g1, e1, e2, g2) is the same connection as erp(g2, e2, e1, g1)
+                    fwd = (str(fixed_g), str(e1), str(fixed_e), str(g2))
+                    rev = (str(g2), str(fixed_e), str(e1), str(fixed_g))
+                    canonical = min(fwd, rev)
+                    if canonical in seen:
+                        skipped_sym += 1
+                        continue
+                    seen.add(canonical)
+
+                    ground = f"erp({g_atom(fixed_g)},{ec_atom(e1)},{ec_atom(fixed_e)},{g_atom(g2)})"
+                    lines.append(f"{fixed_g}\t{fixed_e}\t{ground}\n")
+                    written += 1
+    
+    Path(out_path).write_text(''.join(lines), encoding='utf-8')
+    
+    total_fixed = len(fixed_genes) * len(fixed_enzymes)
+    total_cycling = len(all_enzymes) * len(all_genes)
+    print(f"Wrote array ERP index -> {out_path}")
+    print(f"  {len(fixed_genes)} fixed genes × {len(fixed_enzymes)} fixed enzymes = {total_fixed} fixed pairs")
+    print(f"  × {len(all_enzymes)} enzymes × {len(all_genes)} genes = {total_cycling} per fixed pair")
+    print(f"  Total rows written: {written}")
+    print(f"  (Skipped {skipped_ep} no enzyme_pair, {skipped_func} missing function, {skipped_same_gene} same gene, {skipped_sym} symmetric duplicates)")
+
+# Write mapping file for Job Array for the function relation
+def write_array_function(out_path: str, genes: List[str], enzymes: List[str], prior: Optional[dict] = None ):
+    lines = []
+    
+    # Header
+    lines.append("fixed_gene\tfixed_enzyme\tground_relation\n")
+    
+    # Generate all pairs in gene-major order
+    skipped = 0
+    written = 0
+    for g in sorted(genes):
+        for e in sorted(enzymes):
+            # Skip if this pair has a value in the prior
+            if prior is not None and (str(g), str(e)) in prior:
+                skipped += 1
+                continue
+            
+            g_str = str(g)
+            e_str = str(e)
+            ground = f"function({g_atom(g)},{ec_atom(e)})"
+            lines.append(f"{g_str}\t{e_str}\t{ground}\n")
+            written += 1
+    
+    Path(out_path).write_text(''.join(lines), encoding='utf-8')
+    
+    total_possible = len(genes) * len(enzymes)
+    print(f"Wrote array function index -> {out_path}")
+    print(f"  From {total_possible} possible pairs, wrote {written} unobserved pairs")
+    print(f"  (Skipped {skipped} pairs already in prior)")
+
+# indicates
+# fixed_gene, fixed_enzyme, ground relation
+# Possible relations to choose from: 
+# erp(reaction1,enzyme1,compound2,gene2) - function(reaction1,enzyme1) - enzyme_pair(enzyme1,compound2) - function(gene2,compound2) + 2 >= 0
+# function(gene2,compound2) * function(gene2,compound2) - function(gene2,compound2) = 0

@@ -4,9 +4,9 @@ from pathlib import Path
 import pandas as pd
 from collections import defaultdict
 
-from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs
+from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs, compute_enzyme_pairs
 from noise_models import make_agnostic_prior, make_noisy_prior
-from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support)
+from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support, write_minimal_problog, write_array_function, write_array_erp)
 
 random.seed(0)
 
@@ -39,8 +39,8 @@ SPECIES = "9606"
 # PATHWAY_JSON = "NData/R-HSA-597592.json"   # L400 -> 2,  L250 -> 8 well documented species
 # PATHWAY_JSON = "NData/R-HSA-9006934.json"  # L400 -> 1,  L250 -> 4 well documented species     pretty good 
 # PATHWAY_JSON = "NData/R-HSA-392499.json"   # L400 -> 3,  L250 -> 10 well documented species
-PATHWAY_JSON = "NData/R-HSA-556833.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
-
+PATHWAY_JSON = "NData/R-HSA-1483249.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
+PATHWAY_ID = Path(PATHWAY_JSON).stem.split('-')[-1]
 # PATHWAY_JSON = "NData/R-HSA-372790.json"     # L250 -> 3 well documented species
 
 # PATHWAY_JSON = "NData/R-HSA-1640170.json"    # L250 -> 4 well documented species  very few rcr
@@ -114,7 +114,7 @@ if bad_gene_mask.any():
 
 # Filter by enzymes present in pathway and well-documented species
 ec_filt = ec_expanded[ec_expanded['EC'].isin(re_filtered['EC'])]
-documented_species = (ec_filt["species"].value_counts()[lambda s: s >= 200]).index
+documented_species = (ec_filt["species"].value_counts()[lambda s: s >= 50]).index
 print(f"We have {len(documented_species)} well documented species")
 ec_filt = ec_filt[ec_filt["species"].isin(documented_species)]
 
@@ -239,41 +239,35 @@ def compute_auprc_from_prior(noisy_prior, GE_gold):
     auprc = sum_prec_at_pos / n_pos
     return auprc
 
-######################
-### Main Execution ###
-######################
+
 
 if __name__ == "__main__":
 
-    # ## TESTING ##
-    # print("=== Q2 Support Diagnostic (rank_ge_by_q2_support) ===")
-    
-    # # Build idx for OLD method
-    # idx_old = build_indices_n_graph(rcr_filtered, re_filtered, ge_filtered, banned_df)
-    # ranked_old = rank_ge_by_q2_support(ge_filtered, idx_old)
-    
-    # # Build idx for NEW method  
-    # idx_new = build_indices_n_graph(rcr_from_cr, re_filtered, ge_filtered, banned_df)
-    # ranked_new = rank_ge_by_q2_support(ge_filtered, idx_new)
-    
-    # # Compute summary stats
-    # def q2_summary(df, label):
-    #     n_total = len(df)
-    #     n_with_support = (df['q2_paths'] > 0).sum()
-    #     pct_support = 100 * n_with_support / n_total if n_total else 0
-    #     mean_paths = df['q2_paths'].mean()
-    #     total_paths = df['q2_paths'].sum()
-    #     print(f"{label}:")
-    #     print(f"  Pairs with support: {n_with_support}/{n_total} ({pct_support:.1f}%)")
-    #     print(f"  Mean q2_paths:      {mean_paths:.2f}")
-    #     print(f"  Total paths:        {total_paths}")
-    
-    # q2_summary(ranked_old, "OLD (rcr_filtered)")
-    # q2_summary(ranked_new, "NEW (rcr_from_cr)")
-    # exit()
-
     ## MAIN FUNCTION ##
     idx = build_indices_n_graph(rcr_filtered, re_filtered, ge_all, banned_df)
+
+    print("\n=== Computing Enzyme Pairs ===")
+    enzyme_pairs = compute_enzyme_pairs(
+        rcr_filtered, 
+        re_filtered, 
+        idx['accepted_compounds']
+    )
+
+    unique_enzymes = set()
+    for e1, e2 in enzyme_pairs:
+        unique_enzymes.add(e1)
+        unique_enzymes.add(e2)
+
+    enzymes_in_pathway = set(re_filtered['EC'].unique())
+    enzymes_with_pairs = unique_enzymes
+    enzymes_isolated = enzymes_in_pathway - enzymes_with_pairs
+
+    print(f"Enzyme pairs computed: {len(enzyme_pairs)}")
+    print(f"Unique enzymes in pairs: {len(enzymes_with_pairs)}/{len(enzymes_in_pathway)}")
+    if enzymes_isolated:
+        print(f"Isolated enzymes (no pathway neighbors): {len(enzymes_isolated)}")
+    print(f"Avg pairs per enzyme: {len(enzyme_pairs)/len(enzymes_with_pairs):.1f}" if enzymes_with_pairs else "N/A")
+
 
     # Build EC pool (leaf-level enzymes in this pathway)
     EC_pool = {norm_ec(e) for e in re_filtered['EC'].astype(str)}
@@ -285,7 +279,7 @@ if __name__ == "__main__":
 
     # === AUPRC Evaluation (target species only) ===
     print("\n=== Creating Noisy Prior (for AUPRC) ===")
-    eval_prior = make_noisy_prior(GE_gold, EC_pool)
+    eval_prior = make_noisy_prior(sorted(GE_gold), sorted(EC_pool))
     print(f"Eval prior has {len(eval_prior)} (G,E) pairs (target species)")
     
     initial_auprc = compute_auprc_from_prior(eval_prior, GE_gold)
@@ -295,7 +289,7 @@ if __name__ == "__main__":
     print("\n=== Creating Full Prior (for ProbLog) ===")
     GE_all_set = {(str(g), norm_ec(e)) for g, e in ge_all[['G','EC']].itertuples(index=False)}
     GE_all_set = {(g, e) for (g, e) in GE_all_set if e in EC_pool}
-    noisy_prior = make_noisy_prior(GE_all_set, EC_pool)
+    noisy_prior = make_noisy_prior(sorted(GE_all_set), sorted(EC_pool))
     print(f"Full prior has {len(noisy_prior)} (G,E) pairs (target + orthologs)")
 
     # === Q3 Support Diagnostic ===
@@ -319,29 +313,61 @@ if __name__ == "__main__":
     print("\n--- Top 10 by Q3 support ---")
     print(ranked_q3[['G','EC','q3_paths','unique_G2','has_orth_support']].head(10))
 
-    # # Compute automorphism orbits
-    # print("\n=== Computing Automorphism Orbits ===")
-    # entity_orbits = compute_automorphism_orbits(
-    #     prior=noisy_prior,
-    #     rcr_df=rcr_filtered[['R','C','R2']].copy(),
-    #     re_df=re_filtered[['R','EC']].copy(),
-    #     accepted_compounds=idx['accepted_compounds'],
-    #     ortholog_df=ortholog_df, 
-    #     p_round=6
-    # )
+    # Compute automorphism orbits
+    print("\n=== Computing Automorphism Orbits ===")
+    entity_orbits = compute_automorphism_orbits(
+        prior=noisy_prior,
+        rcr_df=rcr_filtered[['R','C','R2']].copy(),
+        re_df=re_filtered[['R','EC']].copy(),
+        accepted_compounds=idx['accepted_compounds'],
+        ortholog_df=ortholog_df, 
+        p_round=6
+    )
 
-    # counts = counts_by_kind(entity_orbits)
-    # print(f"Unique orbits per kind: {counts}")
-    # print(f"Total unique entities: {sum(counts.values())}")
+    counts = counts_by_kind(entity_orbits)
+    print(f"Unique orbits per kind: {counts}")
+    print(f"Total unique entities: {sum(counts.values())}")
 
-    # # Write ProbLog file
-    # print("\n=== Writing ProbLog File ===")
+    # Write ProbLog file
+    print("\n=== Writing ProbLog File ===")
     # write_single_problog(
-    #     out_path="NData/q3_single.pl",
+    #     out_path="./q3_single.pl",
     #     prior=noisy_prior,
     #     rcr_df=rcr_filtered[['R','C','R2']].copy(),
     #     re_df=re_filtered[['R','EC']].copy(),
     #     accepted_compounds=idx['accepted_compounds'],
     #     ortholog_df=ortholog_df, 
+    #     enzyme_pairs=enzyme_pairs,
     #     targets=None            
     # )
+
+    print("\n=== Writing Minimal ProbLog File ===")
+    write_minimal_problog(
+        out_path=f"./minimal_{PATHWAY_ID}.pl",
+        prior=noisy_prior,
+        enzyme_pairs=enzyme_pairs,
+        ortholog_df=ortholog_df
+    )
+
+
+    genes_list = sorted(ge_all['G'].unique())
+    enzymes_list = sorted(re_filtered['EC'].unique())
+
+    print(f"Total number of Genes: {len(genes_list)}")
+    print(f"Total number of Enzymes: {len(enzymes_list)}")  
+
+    # write_array_function(
+    #     out_path="./array_function.tsv",
+    #     genes=genes_list,
+    #     enzymes=enzymes_list, 
+    #     prior = noisy_prior
+    # )
+    write_array_erp(
+        out_path=f"./array_erp_{PATHWAY_ID}.tsv",
+        fixed_genes=genes_list,
+        fixed_enzymes=enzymes_list,
+        all_genes=genes_list,
+        all_enzymes=enzymes_list,
+        enzyme_pairs=enzyme_pairs,
+        prior=noisy_prior,
+    )

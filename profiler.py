@@ -265,8 +265,13 @@ if __name__ == "__main__":
     print("\n" + "="*115)
     print("TOP CANDIDATES (sorted by Q3% with paths, smallest first within tier)")
     print("="*115)
-    print(f"{'Pathway':25} | {'Enz':>4} | {'Genes':>5} | {'GE':>5} | {'ECdist':>6} | {'Confus':>6} | {'Spp':>3} | {'Q2%':>5} | {'Q3%':>5}")
-    print("-"*115)
+    print(f"{'Pathway':25} | {'Enz':>4} | {'Genes':>5} | {'GE':>5} | {'ECdist':>6} | {'Confus':>6} | {'Spp':>3} | {'Q2%':>5} | {'Q2g%':>5} | {'Q3%':>5}")
+    print("-"*125)
     results.sort(key=lambda x: (-x['q3_pct'], x['n_genes']))
     for r in results[:30]:
-        print(f"{r['name']:25} | {r['n_enzymes']:4} | {r['n_genes']:5} | {r['n_ge_pairs']:5} | {r['mean_ec_dist']:6.1f} | {r['confusion_potential']:6.1f} | {r['n_other_species']:3} | {r['q2_pct']:5.1f} | {r['q3_pct']:5.1f}")
+        print(f"{r['name']:25} | {r['n_enzymes']:4} | {r['n_genes']:5} | {r['n_ge_pairs']:5} | {r['mean_ec_dist']:6.1f} | {r['confusion_potential']:6.1f} | {r['n_other_species']:3} | {r['q2_pct']:5.1f} | {r['q2_gene_pct']:5.1f} | {r['q3_pct']:5.1f}")
+    # print(f"{'Pathway':25} | {'Enz':>4} | {'Genes':>5} | {'GE':>5} | {'ECdist':>6} | {'Confus':>6} | {'Spp':>3} | {'Q2%':>5} | {'Q3%':>5}")
+    # print("-"*115)
+    # results.sort(key=lambda x: (-x['q3_pct'], x['n_genes']))
+    # for r in results[:30]:
+    #     print(f"{r['name']:25} | {r['n_enzymes']:4} | {r['n_genes']:5} | {r['n_ge_pairs']:5} | {r['mean_ec_dist']:6.1f} | {r['confusion_potential']:6.1f} | {r['n_other_species']:3} | {r['q2_pct']:5.1f} | {r['q3_pct']:5.1f}")
