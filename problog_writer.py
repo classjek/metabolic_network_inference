@@ -535,8 +535,10 @@ def write_array_erp(
     Format: fixed_gene\tfixed_enzyme\tground_relation
     """
     lines = []
-    lines.append("fixed_gene\tfixed_enzyme\tground_relation\n")
-    
+    # lines.append("fixed_gene\tfixed_enzyme\tground_relation\terp_value\n")
+    lines.append("fixed_gene\tfixed_enzyme\tground_relation\terp_value\tproblog_value\n")
+
+    # Header
     written = 0
     skipped_ep = 0
     skipped_func = 0
@@ -578,8 +580,23 @@ def write_array_erp(
                         continue
                     seen.add(canonical)
 
+                    p_g2_fe = prior[(str(g2), str(fixed_e))]
+                    p_fg_e1 = prior[(str(fixed_g), str(e1))]
+                    erp_val_1 = p_fg_e1 + p_g2_fe - 1   # equals -[ 2 - p_fg_e1 - p_g2_fe - 1 ]
+                    if p_g2_fe > 0: 
+                        erp_val_2 = -(1.0 - p_g2_fe - p_fg_e1) / p_g2_fe
+                        erp_val = max(erp_val_1, erp_val_2)
+                    else:
+                        erp_val = erp_val_1
+                    
+                    if erp_val < 0:
+                        # Don't write this line at all 
+                        continue
+                    
+                    problog_val = p_fg_e1 * p_g2_fe
+
                     ground = f"erp({g_atom(fixed_g)},{ec_atom(e1)},{ec_atom(fixed_e)},{g_atom(g2)})"
-                    lines.append(f"{fixed_g}\t{fixed_e}\t{ground}\n")
+                    lines.append(f"{fixed_g}\t{fixed_e}\t{ground}\t{erp_val:.6f}\t{problog_val:.6f}\n")
                     written += 1
     
     Path(out_path).write_text(''.join(lines), encoding='utf-8')
