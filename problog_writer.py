@@ -592,9 +592,19 @@ def write_array_erp(
                     if erp_val < 0:
                         # Don't write this line at all 
                         continue
-                    
+                    erp_val = min(erp_val, 1)  # clamp to 1 to avoid floating point overshoot
+
                     problog_val = p_fg_e1 * p_g2_fe
 
+                    # santiy check 
+                    if not (0 <= erp_val <= 1):
+                        raise ValueError(
+                            f"erp_val out of [0,1] range: {erp_val:.6f} "
+                            f"for (fixed_g={fixed_g}, e1={e1}, fixed_e={fixed_e}, g2={g2}) "
+                            f"p_fg_e1={p_fg_e1:.6f}, p_g2_fe={p_g2_fe:.6f}"
+                        )
+
+                    # print(f"p_fg_e1: {p_fg_e1}, p_g2_fe: {p_g2_fe}, erp_val: {erp_val}, problog_val: {problog_val}")        
                     ground = f"erp({g_atom(fixed_g)},{ec_atom(e1)},{ec_atom(fixed_e)},{g_atom(g2)})"
                     lines.append(f"{fixed_g}\t{fixed_e}\t{ground}\t{erp_val:.6f}\t{problog_val:.6f}\n")
                     written += 1
@@ -608,6 +618,41 @@ def write_array_erp(
     print(f"  × {len(all_enzymes)} enzymes × {len(all_genes)} genes = {total_cycling} per fixed pair")
     print(f"  Total rows written: {written}")
     print(f"  (Skipped {skipped_ep} no enzyme_pair, {skipped_func} missing function, {skipped_same_gene} same gene, {skipped_sym} symmetric duplicates)")
+
+def write_ground_truth(out_path: str, tsv_path: str, ge_gold: set):
+    """
+    Write deterministic function facts for (G,E) pairs that:
+      1. Appear as either end of an erp chain in the TSV, AND
+      2. Are genuinely known true annotations (present in ge_gold).
+    ge_gold should be a set of (raw_gene_id, raw_ec) string tuples,
+    e.g. {('100846983', '3.6.1.61'), ...}
+    """
+    import re as _re
+    erp_pattern = _re.compile(r'erp\((\w+),(\w+),(\w+),(\w+)\)')
+
+    true_pairs = set()
+    with open(tsv_path) as f:
+        next(f)  # skip header
+        for line in f:
+            m = erp_pattern.search(line)
+            if m:
+                g1_atom, e1_atom, e2_atom, g2_atom = m.group(1), m.group(2), m.group(3), m.group(4)
+                raw_g1 = g1_atom[1:]               # strip leading 'g'
+                raw_e1 = e1_atom[3:].replace('_', '.')  # strip 'ec_', restore dots
+                raw_g2 = g2_atom[1:]
+                raw_e2 = e2_atom[3:].replace('_', '.')
+                if (raw_g1, raw_e1) in ge_gold:
+                    true_pairs.add((g1_atom, e1_atom))
+                if (raw_g2, raw_e2) in ge_gold:
+                    true_pairs.add((g2_atom, e2_atom))
+
+    lines = ["% Ground truth function facts\n\n"]
+    for g, e in sorted(true_pairs):
+        lines.append(f"function({g},{e}).\n")
+
+    Path(out_path).write_text(''.join(lines), encoding='utf-8')
+    print(f"Wrote ground truth -> {out_path}  ({len(true_pairs)} facts)")
+
 
 # Write mapping file for Job Array for the function relation
 def write_array_function(out_path: str, genes: List[str], enzymes: List[str], prior: Optional[dict] = None ):

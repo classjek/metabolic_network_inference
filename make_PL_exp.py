@@ -6,7 +6,7 @@ from collections import defaultdict
 
 from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs, compute_enzyme_pairs
 from noise_models import make_agnostic_prior, make_noisy_prior
-from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support, write_minimal_problog, write_array_function, write_array_erp)
+from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support, write_minimal_problog, write_array_function, write_array_erp, write_ground_truth)
 
 random.seed(0)
 
@@ -39,7 +39,8 @@ SPECIES = "9606"
 # PATHWAY_JSON = "NData/R-HSA-597592.json"   # L400 -> 2,  L250 -> 8 well documented species
 # PATHWAY_JSON = "NData/R-HSA-9006934.json"  # L400 -> 1,  L250 -> 4 well documented species     pretty good 
 # PATHWAY_JSON = "NData/R-HSA-392499.json"   # L400 -> 3,  L250 -> 10 well documented species
-PATHWAY_JSON = "NData/R-HSA-1483249.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
+# PATHWAY_JSON = "NData/R-HSA-1483249.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
+PATHWAY_JSON = "NData/R-HSA-1483249.json"
 PATHWAY_ID = Path(PATHWAY_JSON).stem.split('-')[-1]
 # PATHWAY_JSON = "NData/R-HSA-372790.json"     # L250 -> 3 well documented species
 
@@ -114,8 +115,12 @@ if bad_gene_mask.any():
 
 # Filter by enzymes present in pathway and well-documented species
 ec_filt = ec_expanded[ec_expanded['EC'].isin(re_filtered['EC'])]
-documented_species = (ec_filt["species"].value_counts()[lambda s: s >= 50]).index
-print(f"We have {len(documented_species)} well documented species")
+species_counts = ec_filt["species"].value_counts()
+documented_species = species_counts[species_counts >= 25].index
+# documented_species = (ec_filt["species"].value_counts()[lambda s: s >= 25]).index
+print(f"We have {len(documented_species)} well documented species:")
+for sp in documented_species:
+    print(f"  {sp}: {species_counts[sp]} (G,E) rows")
 ec_filt = ec_filt[ec_filt["species"].isin(documented_species)]
 
 
@@ -341,9 +346,12 @@ if __name__ == "__main__":
     #     targets=None            
     # )
 
+    exp_dir = Path("./experiments")
+    exp_dir.mkdir(exist_ok=True)
+
     print("\n=== Writing Minimal ProbLog File ===")
     write_minimal_problog(
-        out_path=f"./minimal_{PATHWAY_ID}.pl",
+        out_path=exp_dir / f"minimal_{PATHWAY_ID}.pl",
         prior=noisy_prior,
         enzyme_pairs=enzyme_pairs,
         ortholog_df=ortholog_df
@@ -357,17 +365,24 @@ if __name__ == "__main__":
     print(f"Total number of Enzymes: {len(enzymes_list)}")  
 
     # write_array_function(
-    #     out_path="./array_function.tsv",
+    #     out_path=exp_dir / "array_function.tsv",
     #     genes=genes_list,
     #     enzymes=enzymes_list, 
     #     prior = noisy_prior
     # )
+    tsv_path = exp_dir / f"array_erp_{PATHWAY_ID}.tsv"
     write_array_erp(
-        out_path=f"./array_erp_{PATHWAY_ID}.tsv",
+        out_path=tsv_path,
         fixed_genes=genes_list,
         fixed_enzymes=enzymes_list,
         all_genes=genes_list,
         all_enzymes=enzymes_list,
         enzyme_pairs=enzyme_pairs,
         prior=noisy_prior,
+    )
+
+    write_ground_truth(
+        out_path=exp_dir / f"groundtruth_{PATHWAY_ID}.pl",
+        tsv_path=tsv_path,
+        ge_gold=GE_all_set,
     )
