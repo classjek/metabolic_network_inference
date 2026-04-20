@@ -3,8 +3,9 @@ import random
 from pathlib import Path
 import pandas as pd
 from collections import defaultdict
+import statistics
 
-from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs, compute_enzyme_pairs
+from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs, compute_enzyme_pairs, ec_distance
 from noise_models import make_agnostic_prior, make_noisy_prior
 from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support, write_minimal_problog, write_array_function, write_array_erp, write_ground_truth)
 
@@ -284,7 +285,8 @@ if __name__ == "__main__":
 
     # === AUPRC Evaluation (target species only) ===
     print("\n=== Creating Noisy Prior (for AUPRC) ===")
-    eval_prior = make_noisy_prior(sorted(GE_gold), sorted(EC_pool))
+    eval_prior, _ = make_noisy_prior(sorted(GE_gold), sorted(EC_pool))
+
     print(f"Eval prior has {len(eval_prior)} (G,E) pairs (target species)")
     
     initial_auprc = compute_auprc_from_prior(eval_prior, GE_gold)
@@ -294,8 +296,54 @@ if __name__ == "__main__":
     print("\n=== Creating Full Prior (for ProbLog) ===")
     GE_all_set = {(str(g), norm_ec(e)) for g, e in ge_all[['G','EC']].itertuples(index=False)}
     GE_all_set = {(g, e) for (g, e) in GE_all_set if e in EC_pool}
-    noisy_prior = make_noisy_prior(sorted(GE_all_set), sorted(EC_pool))
+    noisy_prior, injection_map = make_noisy_prior(sorted(GE_all_set), sorted(EC_pool))
     print(f"Full prior has {len(noisy_prior)} (G,E) pairs (target + orthologs)")
+
+    ###############################
+    ### NOISE MODEL DIAGNOSTICS ###
+    print("\n=== Noise Model Diagnostics ===")
+    # Build per-gene true EC mapping (deterministic: sorted)
+    _G_to_trueE = defaultdict(set)
+    for g, e in sorted(GE_all_set):
+        _G_to_trueE[g].add(e)
+
+    pool_list = sorted(EC_pool)  # deterministic iteration
+
+    close_counts, far_counts = [], []
+    for g in sorted(_G_to_trueE.keys()):
+        rep_ec = sorted(_G_to_trueE[g])[0]
+        close = sum(1 for e in pool_list if e != rep_ec and ec_distance(rep_ec, e) == 2)
+        far   = sum(1 for e in pool_list if e != rep_ec and ec_distance(rep_ec, e) > 2)
+        close_counts.append(close)
+        far_counts.append(far)
+
+    print(f"Neighborhood size per gene (distance == 2 from true EC, closest siblings):")
+    print(f"  min={min(close_counts)}, max={max(close_counts)}, "
+          f"mean={statistics.mean(close_counts):.1f}, median={statistics.median(close_counts):.1f}")
+    print(f"Neighborhood size per gene (distance > 2 from true EC):")
+    print(f"  min={min(far_counts)}, max={max(far_counts)}, "
+          f"mean={statistics.mean(far_counts):.1f}, median={statistics.median(far_counts):.1f}")
+
+    # Fake probability distribution
+    fake_probs = []
+    for g in sorted(injection_map.keys()):
+        for e_fake in sorted(injection_map[g]):
+            fake_probs.append(noisy_prior.get((g, e_fake), 0.0))
+
+    if fake_probs:
+        near_zero = sum(1 for p in fake_probs if p <= 0.01)
+        print(f"\nFake probability distribution (n={len(fake_probs)}):")
+        print(f"  mean={statistics.mean(fake_probs):.4f}, median={statistics.median(fake_probs):.4f}, max={max(fake_probs):.4f}")
+        print(f"  near-zero (<=0.01): {near_zero}/{len(fake_probs)} ({100*near_zero/len(fake_probs):.1f}%)")
+    
+    true_probs = []
+    for g, e in sorted(GE_all_set):
+        true_probs.append(noisy_prior.get((g, e), 0.0))
+    if true_probs:
+        print(f"True probability distribution (n={len(true_probs)}):")
+        print(f"  mean={statistics.mean(true_probs):.4f}, median={statistics.median(true_probs):.4f}, max={max(true_probs):.4f}, min={min(true_probs):.4f}")
+    ### END OF DIAGNOSTICS ###
+    #############################
 
     # === Q3 Support Diagnostic ===
     print("\n=== Q3 Support Diagnostic ===")
@@ -382,7 +430,9 @@ if __name__ == "__main__":
     )
 
     write_ground_truth(
-        out_path=exp_dir / f"groundtruth_{PATHWAY_ID}.pl",
+        out_path=exp_dir / f"groundtruth_{PATHWAY_ID}.json",
         tsv_path=tsv_path,
         ge_gold=GE_all_set,
+        noisy_prior=noisy_prior,
+        injection_map=injection_map,
     )

@@ -582,12 +582,12 @@ def write_array_erp(
 
                     p_g2_fe = prior[(str(g2), str(fixed_e))]
                     p_fg_e1 = prior[(str(fixed_g), str(e1))]
-                    erp_val_1 = p_fg_e1 + p_g2_fe - 1   # equals -[ 2 - p_fg_e1 - p_g2_fe - 1 ]
-                    if p_g2_fe > 0: 
-                        erp_val_2 = -(1.0 - p_g2_fe - p_fg_e1) / p_g2_fe
-                        erp_val = max(erp_val_1, erp_val_2)
-                    else:
-                        erp_val = erp_val_1
+
+                    erp_val_1 = p_fg_e1 + p_g2_fe - 1   # Follows from linear encoding when enzyme_pair = 1
+                    erp_val_2 = p_fg_e1 * p_g2_fe   # from encoding: erp - enzyme_pair(E1,E2) - function(G1,E1)*function(G2,E2) + 1 ≥ 0
+                    
+                    # take stricter constraint
+                    erp_val = max(erp_val_1, erp_val_2)
                     
                     if erp_val < 0:
                         # Don't write this line at all 
@@ -619,39 +619,72 @@ def write_array_erp(
     print(f"  Total rows written: {written}")
     print(f"  (Skipped {skipped_ep} no enzyme_pair, {skipped_func} missing function, {skipped_same_gene} same gene, {skipped_sym} symmetric duplicates)")
 
-def write_ground_truth(out_path: str, tsv_path: str, ge_gold: set):
+def write_ground_truth(out_path: str, tsv_path: str, ge_gold: set, noisy_prior: dict, injection_map: dict):
     """
-    Write deterministic function facts for (G,E) pairs that:
-      1. Appear as either end of an erp chain in the TSV, AND
-      2. Are genuinely known true annotations (present in ge_gold).
-    ge_gold should be a set of (raw_gene_id, raw_ec) string tuples,
-    e.g. {('100846983', '3.6.1.61'), ...}
+    Write a JSON evaluation file for ranking assessment.
+    One group per corrupted gene: the representative true enzyme (first sorted true EC,
+    matching the rep_ec used during injection) plus its k fake candidates.
+    Only includes groups where the gene appears in the TSV.
+    ge_gold and noisy_prior both use (raw_gene_id, norm_ec) string tuples as keys.
+    injection_map: {raw_g -> [raw_e_fake, ...]}
     """
     import re as _re
+    import json as _json
+
     erp_pattern = _re.compile(r'erp\((\w+),(\w+),(\w+),(\w+)\)')
 
-    true_pairs = set()
+    # Collect all raw gene IDs that appear in the TSV
+    tsv_genes = set()
     with open(tsv_path) as f:
         next(f)  # skip header
         for line in f:
             m = erp_pattern.search(line)
             if m:
-                g1_atom, e1_atom, e2_atom, g2_atom = m.group(1), m.group(2), m.group(3), m.group(4)
-                raw_g1 = g1_atom[1:]               # strip leading 'g'
-                raw_e1 = e1_atom[3:].replace('_', '.')  # strip 'ec_', restore dots
-                raw_g2 = g2_atom[1:]
-                raw_e2 = e2_atom[3:].replace('_', '.')
-                if (raw_g1, raw_e1) in ge_gold:
-                    true_pairs.add((g1_atom, e1_atom))
-                if (raw_g2, raw_e2) in ge_gold:
-                    true_pairs.add((g2_atom, e2_atom))
+                tsv_genes.add(m.group(1)[1:])  # strip leading 'g'
+                tsv_genes.add(m.group(4)[1:])
 
-    lines = ["% Ground truth function facts\n\n"]
-    for g, e in sorted(true_pairs):
-        lines.append(f"function({g},{e}).\n")
+    # Build gene -> true ECs map from ge_gold
+    g_to_true_ecs = defaultdict(set)
+    for (raw_g, raw_e) in ge_gold:
+        g_to_true_ecs[raw_g].add(raw_e)
 
-    Path(out_path).write_text(''.join(lines), encoding='utf-8')
-    print(f"Wrote ground truth -> {out_path}  ({len(true_pairs)} facts)")
+    result = []
+    for raw_g in sorted(injection_map.keys()):
+        if raw_g not in tsv_genes:
+            continue
+
+        fakes = injection_map[raw_g]
+        # Use the same representative true EC that was used during injection
+        raw_e_true = sorted(g_to_true_ecs[raw_g])[0]
+
+        candidates = []
+
+        # The one true candidate
+        true_prob = noisy_prior.get((raw_g, raw_e_true), 0.0)
+        candidates.append({
+            "enzyme": ec_atom(raw_e_true),
+            "noisy_prob": round(true_prob, 6),
+            "is_true": True
+        })
+
+        # The k fakes sampled near this true enzyme
+        for raw_e_fake in fakes:
+            fake_prob = noisy_prior.get((raw_g, raw_e_fake), 0.0)
+            candidates.append({
+                "enzyme": ec_atom(raw_e_fake),
+                "noisy_prob": round(fake_prob, 6),
+                "is_true": False
+            })
+
+        candidates.sort(key=lambda x: x["noisy_prob"], reverse=True)
+        result.append({
+            "gene": g_atom(raw_g),
+            "true_enzyme": ec_atom(raw_e_true),
+            "candidates": candidates
+        })
+
+    Path(out_path).write_text(_json.dumps(result, indent=2), encoding='utf-8')
+    print(f"Wrote evaluation JSON -> {out_path}  ({len(result)} groups)")
 
 
 # Write mapping file for Job Array for the function relation

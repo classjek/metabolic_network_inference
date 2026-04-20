@@ -10,7 +10,7 @@ S_FRACTION = 0.50    # s: fraction of genes to corrupt
 K_WRONG    = 5       # k: wrong ECs per corrupted gene
 SIGMA_EC   = 1.5     # how "local" wrong ECs are in EC tree
 SIGMA_N    = 0.125   # Gaussian jitter added to probabilities
-BASE_TRUE  = 0.40    # prior for true links before noise
+BASE_TRUE  = 0.25    # prior for true links before noise
 
 
 def _gauss_w(d, sigmaEC):  # weight ∝ exp(-d^2 / (2 σ^2))
@@ -95,59 +95,66 @@ def make_agnostic_prior(GE_gold, EC_pool, s_fraction=0.01, lcp_depth=2, rng=None
 
 def make_noisy_prior(GE_gold, EC_pool, s_fraction=S_FRACTION, k_wrong=K_WRONG, sigma_ec=SIGMA_EC, sigma_n=SIGMA_N, base_true=BASE_TRUE):
     # 1) Select a fraction s of genes to corrupt.
-    # 2) For each (g, E_true) of those genes, add k_wrong links (g, E_wrong), where E_wrong is sampled with probability ∝ N(0, σ_EC) over the topological distance.
-    # 3) Set belief for each (g, E) to: selection_probability(g,E) + N(0, σ_N), clipped to [0,1]. For true links, we use a high base (base_true) before the same N(0, σ_N) jitter.
-    # Returns: dict {(G, EC) -> probability}
+    # 2) For each selected gene, sample k_wrong fake links once per gene (not per true EC),
+    #    matching the paper's model. The pool excludes all of the gene's true enzymes so
+    #    fakes are guaranteed non-true. For genes with multiple true ECs the representative
+    #    EC used for sampling is the first in sorted order.
+    # 3) Set belief for each (g, E) to: selection_probability(g,E) + N(0, σ_N), clipped to [0,1].
+    #    For true links, we use a high base (base_true) before the same N(0, σ_N) jitter.
+    # Returns: (prior dict {(G, EC) -> probability},
+    #           injection_map {g -> [e_fake, ...]})
     def clip01(x): return 0.0 if x < 0 else (1.0 if x > 1 else x)
+
+    EC_pool_set = set(EC_pool)
 
     G_to_trueE = defaultdict(set)
     for g, e in GE_gold:
         G_to_trueE[g].add(e)
-    
+
     genes = list(G_to_trueE.keys())
     random.shuffle(genes)
     n_corrupt = int(s_fraction * len(genes))
-    #print(f"Corrupting {n_corrupt} out of {len(genes)} genes (s={s_fraction})")
     corrupt = set(genes[:n_corrupt])
 
     # Start with true links at a high base probability
     prior = {(g, e): base_true for (g, e) in GE_gold}
 
-    injected_dist = Counter()   
+    # injection_map: {g -> [e_fake, ...]} — k fakes per gene
+    injection_map = {}
+
+    injected_dist = Counter()
     injected_cnt  = 0
 
     for g in sorted(corrupt):
-        for e_true in sorted(G_to_trueE[g]):
-            picks = sample_wrong_ecs(e_true, EC_pool, k_wrong, sigma_ec)
-            for e_wrong, p_select in picks: 
-                if (g, e_wrong) in GE_gold:
-                    # It's already a true link—leave it as base_true; still count distance for stats
-                    pass
-                else:
-                    # If multiple true ECs of g inject the same wrong EC, keep the max selection prob (most generous)
-                    prior[(g, e_wrong)] = max(prior.get((g, e_wrong), 0.0), p_select)
-                    injected_cnt += 1
-                # diagnostics: measure distance from this true EC (one proxy)
-                d = ec_distance(e_true, e_wrong)
-                injected_dist[d] += 1
-    
-    # Add N(0, σ_N) noise to *every* prior entry and clip to [0,1]
-    for key, p in list(prior.items()):
-        prior[key] = clip01(p + random.gauss(0.0, sigma_n))
-    
-    #print(f"[§4.2] Corrupted genes: {n_corrupt} / {len(genes)}")
-    #print(f"[§4.2] Injected wrong links (draws): {injected_cnt}")
+        true_ecs = G_to_trueE[g]
+        # Pool excludes all true enzymes of this gene
+        available_pool = sorted(EC_pool_set - true_ecs)
+        # Sample near the representative true EC (first in sorted order)
+        rep_ec = sorted(true_ecs)[0]
+        picks = sample_wrong_ecs(rep_ec, available_pool, k_wrong, sigma_ec)
+
+        gene_fakes = []
+        seen_fakes = set()
+        for e_wrong, p_select in picks:
+            if e_wrong in seen_fakes:
+                continue  # skip duplicates from random.choices with replacement
+            prior[(g, e_wrong)] = p_select
+            gene_fakes.append(e_wrong)
+            seen_fakes.add(e_wrong)
+            injected_cnt += 1
+            d = ec_distance(rep_ec, e_wrong)
+            injected_dist[d] += 1
+
+        injection_map[g] = gene_fakes
+
+    # Add N(0, σ_N) noise to every prior entry and clip to [0,1]
+    for key in sorted(prior.keys()):
+        prior[key] = clip01(prior[key] + random.gauss(0.0, sigma_n))
+
     if injected_cnt == 0:
         print("[§4.2] No injected links—check EC_pool/GE_gold sizes.")
-    else:
-        # show how local the injected ECs are (should skew to small distances when σ_EC is small)
-        #print("[§4.2] Injected EC distance histogram (d -> count):", dict(sorted(injected_dist.items())))
-        # rough share of non-gold links in the prior
-        n_gold = len(GE_gold)
-        n_total = len(prior)
-        #print(f"[§4.2] Prior size: {n_total} entries  (gold {n_gold}, injected {n_total-n_gold})")
 
-    return prior
+    return prior, injection_map
 
 def build_true_map(GE_gold):
     G_to_trueE = defaultdict(set)
