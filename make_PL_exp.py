@@ -292,19 +292,31 @@ if __name__ == "__main__":
     initial_auprc = compute_auprc_from_prior(eval_prior, GE_gold)
     print(f"Baseline AUPRC: {initial_auprc:.4f}")
 
-    # === Noisy prior for ProbLog (includes orthologs) ===
+    # === Noisy prior for ProbLog (noise on target species only) ===
     print("\n=== Creating Full Prior (for ProbLog) ===")
-    GE_all_set = {(str(g), norm_ec(e)) for g, e in ge_all[['G','EC']].itertuples(index=False)}
-    GE_all_set = {(g, e) for (g, e) in GE_all_set if e in EC_pool}
-    noisy_prior, injection_map = make_noisy_prior(sorted(GE_all_set), sorted(EC_pool))
-    print(f"Full prior has {len(noisy_prior)} (G,E) pairs (target + orthologs)")
+    # Target genes get a noisy prior (§4.2 noise model)
+    noisy_target, injection_map = make_noisy_prior(sorted(GE_gold), sorted(EC_pool))
+
+    # Background/ortholog genes stay deterministic at p=1.0
+    bg_GE_set = {(str(g), norm_ec(e)) for g, e in ge_orthologs[['G','EC']].itertuples(index=False)}
+    bg_GE_set = {(g, e) for (g, e) in bg_GE_set if e in EC_pool}
+    bg_prior = {(g, e): 1.0 for (g, e) in bg_GE_set}
+
+    # Merge: background first, target overwrites any overlap
+    noisy_prior = {**bg_prior, **noisy_target}
+
+    # GE_all_set kept for downstream code that needs the full combined key set
+    GE_all_set = set(noisy_prior.keys())
+
+    print(f"Full prior has {len(noisy_prior)} (G,E) pairs "
+          f"({len(noisy_target)} target noisy + {len(bg_prior)} background deterministic)")
 
     ###############################
     ### NOISE MODEL DIAGNOSTICS ###
     print("\n=== Noise Model Diagnostics ===")
-    # Build per-gene true EC mapping (deterministic: sorted)
+    # Build per-gene true EC mapping for target species only (these are the perturbed genes)
     _G_to_trueE = defaultdict(set)
-    for g, e in sorted(GE_all_set):
+    for g, e in sorted(GE_gold):
         _G_to_trueE[g].add(e)
 
     pool_list = sorted(EC_pool)  # deterministic iteration
@@ -337,7 +349,7 @@ if __name__ == "__main__":
         print(f"  near-zero (<=0.01): {near_zero}/{len(fake_probs)} ({100*near_zero/len(fake_probs):.1f}%)")
     
     true_probs = []
-    for g, e in sorted(GE_all_set):
+    for g, e in sorted(GE_gold):
         true_probs.append(noisy_prior.get((g, e), 0.0))
     if true_probs:
         print(f"True probability distribution (n={len(true_probs)}):")
@@ -432,7 +444,7 @@ if __name__ == "__main__":
     write_ground_truth(
         out_path=exp_dir / f"groundtruth_{PATHWAY_ID}.json",
         tsv_path=tsv_path,
-        ge_gold=GE_all_set,
+        ge_gold=GE_gold,
         noisy_prior=noisy_prior,
         injection_map=injection_map,
     )

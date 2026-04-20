@@ -87,31 +87,19 @@ def evaluate_ranking(json_file, results_PL, results_SOS):
 
         pl_best_prob, pl_best_enzyme = -1, None
         sos_best_prob, sos_best_enzyme = -1, None
-        skip = False
 
         for candidate in entry['candidates']:
             enzyme = candidate['enzyme'][3:].replace('_', '.')
             key = (gene, enzyme)
 
-            if key not in results_PL:
-                print(f"  [SKIP] ({gene}, {enzyme}) not in results_PL")
-                skip = True
-                break
-            if key not in results_SOS:
-                print(f"  [SKIP] ({gene}, {enzyme}) not in results_SOS")
-                skip = True
-                break
-
-            pl_prob  = results_PL[key][0]
-            sos_prob = results_SOS[key][0]
+            # Missing from ERP → no pathway support → score 0 (not a skip)
+            pl_prob  = results_PL[key][0]  if key in results_PL  else 0.0
+            sos_prob = results_SOS[key][0] if key in results_SOS else 0.0
 
             if pl_prob > pl_best_prob:
                 pl_best_prob, pl_best_enzyme = pl_prob, enzyme
             if sos_prob > sos_best_prob:
                 sos_best_prob, sos_best_enzyme = sos_prob, enzyme
-
-        if skip:
-            continue
 
         total_with_erp += 1
         if baseline_enzyme == true_enzyme:
@@ -122,10 +110,9 @@ def evaluate_ranking(json_file, results_PL, results_SOS):
             sos_correct += 1
 
     print(f"\n=== Evaluation Results ===")
-    print(f"Baseline (noisy_prob) all genes:      {baseline_correct}/{total_baseline} = {baseline_correct/total_baseline:.3f}")
-    print(f"Baseline (noisy_prob) ERP subset:     {baseline_correct_erp}/{total_with_erp} = {baseline_correct_erp/total_with_erp:.3f}")
-    print(f"ProbLog accuracy:                     {pl_correct}/{total_with_erp} = {pl_correct/total_with_erp:.3f}")
-    print(f"SOS     accuracy:                     {sos_correct}/{total_with_erp} = {sos_correct/total_with_erp:.3f}")
+    print(f"Baseline (noisy_prob):  {baseline_correct}/{total_baseline} = {baseline_correct/total_baseline:.3f}")
+    print(f"ProbLog (Q2):           {pl_correct}/{total_with_erp} = {pl_correct/total_with_erp:.3f}")
+    print(f"SOS     (max-ERP):      {sos_correct}/{total_with_erp} = {sos_correct/total_with_erp:.3f}")
 
 
 def spot_check(json_file, results_PL, results_SOS, target_gene=None, n=3):
@@ -144,25 +131,18 @@ def spot_check(json_file, results_PL, results_SOS, target_gene=None, n=3):
 
         true_enzyme = entry['true_enzyme'][3:].replace('_', '.')
 
-        # Check full ERP coverage for this gene
+        # Build rows for this gene; missing ERP entries get score 0
         rows = []
-        skip = False
         for candidate in entry['candidates']:
             enzyme = candidate['enzyme'][3:].replace('_', '.')
             key = (gene, enzyme)
-            if key not in results_PL or key not in results_SOS:
-                skip = True
-                break
             rows.append({
                 'enzyme':     enzyme,
                 'noisy_prob': candidate['noisy_prob'],
-                'pl_query2':  results_PL[key][0],
-                'sos_lb':     results_SOS[key][0],
+                'pl_query2':  results_PL[key][0]  if key in results_PL  else 0.0,
+                'sos_lb':     results_SOS[key][0] if key in results_SOS else 0.0,
                 'true':       enzyme == true_enzyme,
             })
-
-        if skip:
-            continue
 
         print(f"\n--- Gene {gene} | true enzyme: {true_enzyme} ---")
         print(f"  {'enzyme':<14} {'noisy_prob':>12} {'pl_query2':>12} {'sos_lb':>10}  true?")
@@ -200,4 +180,4 @@ if __name__ == '__main__':
     # print(df_sorted.head(238).to_string(index=False))
 
     evaluate_ranking(GROUNDTRUTH_JSON, results_PL, results_SOS)
-    spot_check(GROUNDTRUTH_JSON, results_PL, results_SOS, n=3)
+    spot_check(GROUNDTRUTH_JSON, results_PL, results_SOS, n=7)

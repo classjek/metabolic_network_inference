@@ -6,19 +6,20 @@ from ec_utils import ec_is_leaf, ec_distance, ec_levels, _ec_prefix_tuple
 
 
 # Default noise model parameters (from paper §4.2)
-S_FRACTION = 0.50    # s: fraction of genes to corrupt
+S_FRACTION = 0.80    # s: fraction of genes to corrupt
 K_WRONG    = 5       # k: wrong ECs per corrupted gene
 SIGMA_EC   = 1.5     # how "local" wrong ECs are in EC tree
 SIGMA_N    = 0.125   # Gaussian jitter added to probabilities
-BASE_TRUE  = 0.25    # prior for true links before noise
+BASE_TRUE  = 0.30    # prior for true links before noise
 
 
 def _gauss_w(d, sigmaEC):  # weight ∝ exp(-d^2 / (2 σ^2))
     return math.exp(-(d*d)/(2.0*sigmaEC*sigmaEC))
 
 def sample_wrong_ecs(target_ec, pool, k, sigmaEC):
-    # Pick k ECs from pool that are 'close' to target_ec 
-    # Closeness is biased by a Gaussian over ec_distance
+    # Pick k ECs from pool that are 'close' to target_ec, WITHOUT replacement.
+    # Closeness is biased by a Gaussian over ec_distance.
+    # Guarantees min(k, len(pool)-1) unique fakes per gene.
     cands = [e for e in pool if e != target_ec]
     if not cands:
         return []
@@ -30,9 +31,25 @@ def sample_wrong_ecs(target_ec, pool, k, sigmaEC):
         return []
 
     probs = [w/total for w in weights]
-    picks = random.choices(range(len(cands)), weights=weights, k=k)  # indices
-    # map picked indices to (EC, prob) tuples
-    return [(cands[i], probs[i]) for i in picks]
+
+    k_actual = min(k, len(cands))
+    picked_indices = []
+    remaining_idx     = list(range(len(cands)))
+    remaining_weights = list(weights)
+
+    for _ in range(k_actual):
+        w_total = sum(remaining_weights)
+        r = random.random() * w_total
+        cumulative = 0.0
+        for pos, (idx, w) in enumerate(zip(remaining_idx, remaining_weights)):
+            cumulative += w
+            if cumulative >= r:
+                picked_indices.append(idx)
+                remaining_idx.pop(pos)
+                remaining_weights.pop(pos)
+                break
+
+    return [(cands[i], probs[i]) for i in picked_indices]
 
 
 def make_agnostic_prior(GE_gold, EC_pool, s_fraction=0.01, lcp_depth=2, rng=None):
