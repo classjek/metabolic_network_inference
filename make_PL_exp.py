@@ -41,7 +41,13 @@ SPECIES = "9606"
 # PATHWAY_JSON = "NData/R-HSA-9006934.json"  # L400 -> 1,  L250 -> 4 well documented species     pretty good 
 # PATHWAY_JSON = "NData/R-HSA-392499.json"   # L400 -> 3,  L250 -> 10 well documented species
 # PATHWAY_JSON = "NData/R-HSA-1483249.json"   # L400 -> 5,  L250 -> 10 well documented species    pretty good
-PATHWAY_JSON = "NData/R-HSA-1483249.json"
+
+# PATHWAY_JSON = "NData/R-HSA-1483249.json"  # Been working with this one
+# PATHWAY_JSON = "NData/R-HSA-1483206.json" # Decent, Problog is winning here. Sometimes both are above baseline
+# PATHWAY_JSON = "NData/R-HSA-1483257.json"
+# PATHWAY_JSON = "NData/R-HSA-1483206.json"
+# PATHWAY_JSON = "NData/R-HSA-196854.json" # Best one, achieving desired results here
+PATHWAY_JSON = "NData/R-HSA-196854.json"
 PATHWAY_ID = Path(PATHWAY_JSON).stem.split('-')[-1]
 # PATHWAY_JSON = "NData/R-HSA-372790.json"     # L250 -> 3 well documented species
 
@@ -379,19 +385,19 @@ if __name__ == "__main__":
     print(ranked_q3[['G','EC','q3_paths','unique_G2','has_orth_support']].head(10))
 
     # Compute automorphism orbits
-    print("\n=== Computing Automorphism Orbits ===")
-    entity_orbits = compute_automorphism_orbits(
-        prior=noisy_prior,
-        rcr_df=rcr_filtered[['R','C','R2']].copy(),
-        re_df=re_filtered[['R','EC']].copy(),
-        accepted_compounds=idx['accepted_compounds'],
-        ortholog_df=ortholog_df, 
-        p_round=6
-    )
+    # print("\n=== Computing Automorphism Orbits ===")
+    # entity_orbits = compute_automorphism_orbits(
+    #     prior=noisy_prior,
+    #     rcr_df=rcr_filtered[['R','C','R2']].copy(),
+    #     re_df=re_filtered[['R','EC']].copy(),
+    #     accepted_compounds=idx['accepted_compounds'],
+    #     ortholog_df=ortholog_df, 
+    #     p_round=6
+    # )
 
-    counts = counts_by_kind(entity_orbits)
-    print(f"Unique orbits per kind: {counts}")
-    print(f"Total unique entities: {sum(counts.values())}")
+    # counts = counts_by_kind(entity_orbits)
+    # print(f"Unique orbits per kind: {counts}")
+    # print(f"Total unique entities: {sum(counts.values())}")
 
     # Write ProbLog file
     print("\n=== Writing ProbLog File ===")

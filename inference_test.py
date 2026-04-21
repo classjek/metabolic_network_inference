@@ -11,7 +11,7 @@ import json
 import pandas as pd
 from collections import defaultdict
 
-PATHWAY_ID = '1483249'
+PATHWAY_ID = '196854'
 TSV_FILE = f'./experiments/array_erp_{PATHWAY_ID}.tsv'
 GROUNDTRUTH_JSON = f"./experiments/groundtruth_{PATHWAY_ID}.json"
 
@@ -79,37 +79,41 @@ def evaluate_ranking(json_file, results_PL, results_SOS):
         gene = entry['gene'].lstrip('g')
         true_enzyme = entry['true_enzyme'][3:].replace('_', '.')
 
-        # Baseline: pick highest noisy_prob directly from JSON (no skips possible)
-        best_candidate = max(entry['candidates'], key=lambda c: c['noisy_prob'])
-        baseline_enzyme = best_candidate['enzyme'][3:].replace('_', '.')
-        if baseline_enzyme == true_enzyme:
+        # Baseline: Precision@1 — correct only when the true enzyme is the UNIQUE top scorer.
+        noisy_scores = {c['enzyme'][3:].replace('_', '.'): c['noisy_prob'] for c in entry['candidates']}
+        noisy_best = max(noisy_scores.values())
+        baseline_top = [e for e, p in noisy_scores.items() if p == noisy_best]
+        baseline_enzyme = baseline_top[0] if len(baseline_top) == 1 else None
+        if len(baseline_top) == 1 and baseline_enzyme == true_enzyme:
             baseline_correct += 1
 
-        pl_best_prob, pl_best_enzyme = -1, None
-        sos_best_prob, sos_best_enzyme = -1, None
+        pl_scores  = {}
+        sos_scores = {}
 
         for candidate in entry['candidates']:
             enzyme = candidate['enzyme'][3:].replace('_', '.')
             key = (gene, enzyme)
 
             # Missing from ERP → no pathway support → score 0 (not a skip)
-            pl_prob  = results_PL[key][0]  if key in results_PL  else 0.0
-            sos_prob = results_SOS[key][0] if key in results_SOS else 0.0
+            pl_scores[enzyme]  = results_PL[key][0]  if key in results_PL  else 0.0
+            sos_scores[enzyme] = results_SOS[key][0] if key in results_SOS else 0.0
 
-            if pl_prob > pl_best_prob:
-                pl_best_prob, pl_best_enzyme = pl_prob, enzyme
-            if sos_prob > sos_best_prob:
-                sos_best_prob, sos_best_enzyme = sos_prob, enzyme
+        # Precision@1: correct only when the true enzyme is the UNIQUE top scorer.
+        # Ties (e.g. ProbLog saturating at 1.0 for multiple candidates) count as wrong.
+        pl_best  = max(pl_scores.values())
+        sos_best = max(sos_scores.values())
+        pl_top   = [e for e, p in pl_scores.items()  if p == pl_best]
+        sos_top  = [e for e, p in sos_scores.items() if p == sos_best]
 
         total_with_erp += 1
         if baseline_enzyme == true_enzyme:
             baseline_correct_erp += 1
-        if pl_best_enzyme == true_enzyme:
+        if len(pl_top) == 1 and pl_top[0] == true_enzyme:
             pl_correct += 1
-        if sos_best_enzyme == true_enzyme:
+        if len(sos_top) == 1 and sos_top[0] == true_enzyme:
             sos_correct += 1
 
-    print(f"\n=== Evaluation Results ===")
+    print(f"\n=== Evaluation Results (Precision@1, ties = wrong) ===")
     print(f"Baseline (noisy_prob):  {baseline_correct}/{total_baseline} = {baseline_correct/total_baseline:.3f}")
     print(f"ProbLog (Q2):           {pl_correct}/{total_with_erp} = {pl_correct/total_with_erp:.3f}")
     print(f"SOS     (max-ERP):      {sos_correct}/{total_with_erp} = {sos_correct/total_with_erp:.3f}")
@@ -155,6 +159,116 @@ def spot_check(json_file, results_PL, results_SOS, target_gene=None, n=3):
             break
 
 
+def load_erp_raw(tsv_file):
+    """
+    Load all ERP rows from the TSV, grouped by (gene, enzyme).
+
+    Each ERP row  erp(gFG, ecE1, ecFE, gG2)  contributes to two (gene, enzyme) pairs:
+      - 'left'  endpoint: (FG, E1)  — fixed_gene has function(FG, E1)
+      - 'right' endpoint: (G2, FE)  — g2 has function(G2, FE)
+
+    Returns:
+      dict { (gene, enzyme): [ { 'erp_str', 'direction', 'bridge_e', 'other_gene',
+                                  'erp_value', 'problog_value' }, ... ] }
+    """
+    raw = defaultdict(list)
+    with open(tsv_file) as f:
+        reader = csv.DictReader(f, delimiter='\t')
+        for row in reader:
+            e1, g2, fe = _parse_erp(row)   # e1=bridging, fe=fixed_enzyme, g2=other gene
+            fg  = row['fixed_gene']
+            erp_val     = float(row['erp_value'])
+            problog_val = float(row['problog_value'])
+            erp_str     = row['ground_relation']
+
+            # Left endpoint: gene=FG scored for enzyme=E1
+            raw[(fg, e1)].append({
+                'erp_str':     erp_str,
+                'direction':   'left',
+                'bridge_e':    fe,          # the enzyme connecting via enzyme_pair
+                'other_gene':  g2,
+                'erp_value':   erp_val,
+                'problog_value': problog_val,
+            })
+
+            # Right endpoint: gene=G2 scored for enzyme=FE
+            raw[(g2, fe)].append({
+                'erp_str':     erp_str,
+                'direction':   'right',
+                'bridge_e':    e1,
+                'other_gene':  fg,
+                'erp_value':   erp_val,
+                'problog_value': problog_val,
+            })
+
+    return raw
+
+
+def spot_check_verbose(json_file, results_PL, results_SOS, erp_raw,
+                       target_gene=None, n=3, max_paths=5):
+    """
+    Like spot_check but shows the individual ERP paths that produced each
+    pl_query2 and sos_lb score.
+    """
+    with open(json_file) as f:
+        data = json.load(f)
+
+    shown = 0
+    for entry in data:
+        gene = entry['gene'].lstrip('g')
+        if target_gene and gene != str(target_gene):
+            continue
+
+        true_enzyme = entry['true_enzyme'][3:].replace('_', '.')
+
+        # Title card + summary table (same as spot_check)
+        print(f"\n{'='*70}")
+        print(f"Gene {gene}  |  true enzyme: {true_enzyme}")
+        print(f"{'='*70}")
+
+        candidates = []
+        for candidate in entry['candidates']:
+            enzyme = candidate['enzyme'][3:].replace('_', '.')
+            key = (gene, enzyme)
+            pl_prob  = results_PL[key][0]  if key in results_PL  else 0.0
+            sos_prob = results_SOS[key][0] if key in results_SOS else 0.0
+            candidates.append((enzyme, candidate['noisy_prob'], pl_prob, sos_prob))
+
+        candidates_sorted = sorted(candidates, key=lambda x: x[1], reverse=True)
+
+        # Summary table
+        print(f"\n  {'enzyme':<14} {'noisy_prob':>12} {'pl_query2':>12} {'sos_lb':>10}  true?")
+        for enzyme, noisy_prob, pl_prob, sos_prob in candidates_sorted:
+            marker = ' <--' if enzyme == true_enzyme else ''
+            print(f"  {enzyme:<14} {noisy_prob:>12.6f} {pl_prob:>12.6f} {sos_prob:>10.6f}{marker}")
+
+        # Per-candidate ERP path breakdown
+        for enzyme, noisy_prob, pl_prob, sos_prob in candidates_sorted:
+            marker = '  <-- TRUE' if enzyme == true_enzyme else ''
+            print(f"\n  Candidate: {enzyme}{marker}")
+            print(f"    noisy_prob : {noisy_prob:.6f}")
+            print(f"    pl_query2  : {pl_prob:.6f}")
+            print(f"    sos_lb     : {sos_prob:.6f}")
+
+            paths = erp_raw.get((gene, enzyme), [])
+            if not paths:
+                print(f"    ERP paths  : (none — scored as 0)")
+                continue
+
+            paths_sorted = sorted(paths, key=lambda p: p['erp_value'], reverse=True)
+            n_paths = len(paths_sorted)
+            print(f"    ERP paths  : {n_paths} total  (showing top {min(max_paths, n_paths)})")
+            print(f"    {'sos_contribution':>10} {'problog_val':>12}  erp_str")
+            for p in paths_sorted[:max_paths]:
+                print(f"    {p['erp_value']:>10.6f} {p['problog_value']:>12.6f}  {p['erp_str']}")
+            if n_paths > max_paths:
+                print(f"    ... ({n_paths - max_paths} more paths not shown)")
+
+        shown += 1
+        if shown >= n:
+            break
+
+
 if __name__ == '__main__':
     results_PL  = compute_query2_PL(TSV_FILE)
     results_SOS = compute_query2_SOS(TSV_FILE)
@@ -172,6 +286,8 @@ if __name__ == '__main__':
     df = pd.DataFrame(rows)
     df['sos_minus_pl'] = (df['sos_lb'] - df['pl_query2']).round(6)
     df_sorted = df.sort_values('sos_minus_pl', ascending=False)
+
+    print("The shape: ", df_sorted.shape)
     
     # filter 
     df_sorted = df_sorted[df_sorted['erp_count'] >= 4]
@@ -180,4 +296,10 @@ if __name__ == '__main__':
     # print(df_sorted.head(238).to_string(index=False))
 
     evaluate_ranking(GROUNDTRUTH_JSON, results_PL, results_SOS)
-    spot_check(GROUNDTRUTH_JSON, results_PL, results_SOS, n=7)
+    # spot_check(GROUNDTRUTH_JSON, results_PL, results_SOS, n=10)
+
+    # print("\n\n" + "="*70)
+    # print("VERBOSE SPOT CHECK (ERP path breakdown)")
+    # print("="*70)
+    # erp_raw = load_erp_raw(TSV_FILE)
+    # spot_check_verbose(GROUNDTRUTH_JSON, results_PL, results_SOS, erp_raw, n=4)
