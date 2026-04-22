@@ -113,10 +113,15 @@ def evaluate_ranking(json_file, results_PL, results_SOS):
         if len(sos_top) == 1 and sos_top[0] == true_enzyme:
             sos_correct += 1
 
+    b = baseline_correct / total_baseline if total_baseline else 0.0
+    p = pl_correct / total_with_erp      if total_with_erp  else 0.0
+    s = sos_correct / total_with_erp     if total_with_erp  else 0.0
+
     print(f"\n=== Evaluation Results (Precision@1, ties = wrong) ===")
-    print(f"Baseline (noisy_prob):  {baseline_correct}/{total_baseline} = {baseline_correct/total_baseline:.3f}")
-    print(f"ProbLog (Q2):           {pl_correct}/{total_with_erp} = {pl_correct/total_with_erp:.3f}")
-    print(f"SOS     (max-ERP):      {sos_correct}/{total_with_erp} = {sos_correct/total_with_erp:.3f}")
+    print(f"Baseline (noisy_prob):  {baseline_correct}/{total_baseline} = {b:.3f}")
+    print(f"ProbLog (Q2):           {pl_correct}/{total_with_erp} = {p:.3f}")
+    print(f"SOS     (max-ERP):      {sos_correct}/{total_with_erp} = {s:.3f}")
+    print(f"RESULT baseline={b:.4f} problog={p:.4f} sos={s:.4f} n={total_with_erp}")
 
 
 def spot_check(json_file, results_PL, results_SOS, target_gene=None, n=3):

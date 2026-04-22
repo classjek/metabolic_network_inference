@@ -1,3 +1,4 @@
+import argparse
 import json
 import random
 from pathlib import Path
@@ -6,10 +7,19 @@ from collections import defaultdict
 import statistics
 
 from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs, compute_enzyme_pairs, ec_distance
-from noise_models import make_agnostic_prior, make_noisy_prior
+from noise_models import make_agnostic_prior, make_noisy_prior, S_FRACTION, SIGMA_EC, SIGMA_N, BASE_TRUE, K_WRONG
 from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support, write_minimal_problog, write_array_function, write_array_erp, write_ground_truth)
 
-random.seed(0)
+_parser = argparse.ArgumentParser(add_help=False)
+_parser.add_argument("--s_fraction", type=float, default=S_FRACTION)
+_parser.add_argument("--sigma_ec",   type=float, default=SIGMA_EC)
+_parser.add_argument("--sigma_n",    type=float, default=SIGMA_N)
+_parser.add_argument("--base_true",  type=float, default=BASE_TRUE)
+_parser.add_argument("--k_wrong",    type=int,   default=K_WRONG)
+_parser.add_argument("--seed",       type=int,   default=0)
+_args, _ = _parser.parse_known_args()
+
+random.seed(_args.seed)
 
 ######################
 ### Configuration ###
@@ -127,7 +137,10 @@ documented_species = species_counts[species_counts >= 25].index
 # documented_species = (ec_filt["species"].value_counts()[lambda s: s >= 25]).index
 print(f"We have {len(documented_species)} well documented species:")
 for sp in documented_species:
-    print(f"  {sp}: {species_counts[sp]} (G,E) rows")
+    sp_df = ec_filt[ec_filt["species"] == sp]
+    n_genes   = sp_df["GeneID"].nunique()
+    n_enzymes = sp_df["EC"].nunique()
+    print(f"  {sp}: {species_counts[sp]} (G,E) rows{'':>30}{n_enzymes} enzymes, {n_genes} genes")
 ec_filt = ec_filt[ec_filt["species"].isin(documented_species)]
 
 
@@ -291,7 +304,14 @@ if __name__ == "__main__":
 
     # === AUPRC Evaluation (target species only) ===
     print("\n=== Creating Noisy Prior (for AUPRC) ===")
-    eval_prior, _ = make_noisy_prior(sorted(GE_gold), sorted(EC_pool))
+    _noise_kwargs = dict(
+        s_fraction=_args.s_fraction,
+        k_wrong=_args.k_wrong,
+        sigma_ec=_args.sigma_ec,
+        sigma_n=_args.sigma_n,
+        base_true=_args.base_true,
+    )
+    eval_prior, _ = make_noisy_prior(sorted(GE_gold), sorted(EC_pool), **_noise_kwargs)
 
     print(f"Eval prior has {len(eval_prior)} (G,E) pairs (target species)")
     
@@ -301,7 +321,7 @@ if __name__ == "__main__":
     # === Noisy prior for ProbLog (noise on target species only) ===
     print("\n=== Creating Full Prior (for ProbLog) ===")
     # Target genes get a noisy prior (§4.2 noise model)
-    noisy_target, injection_map = make_noisy_prior(sorted(GE_gold), sorted(EC_pool))
+    noisy_target, injection_map = make_noisy_prior(sorted(GE_gold), sorted(EC_pool), **_noise_kwargs)
 
     # Background/ortholog genes stay deterministic at p=1.0
     bg_GE_set = {(str(g), norm_ec(e)) for g, e in ge_orthologs[['G','EC']].itertuples(index=False)}
@@ -424,7 +444,10 @@ if __name__ == "__main__":
     )
 
 
-    genes_list = sorted(ge_all['G'].unique())
+    # genes_list = sorted(ge_all['G'].unique())
+    # Switch to species specific
+    genes_list = sorted(ge_filtered['G'].unique()) 
+
     enzymes_list = sorted(re_filtered['EC'].unique())
 
     print(f"Total number of Genes: {len(genes_list)}")

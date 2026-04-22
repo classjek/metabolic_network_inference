@@ -6,10 +6,10 @@ from ec_utils import ec_is_leaf, ec_distance, ec_levels, _ec_prefix_tuple
 
 
 # Default noise model parameters (from paper §4.2)
-S_FRACTION = 0.5    # s: fraction of genes to corrupt
+S_FRACTION = 0.6    # s: fraction of genes to corrupt
 K_WRONG    = 5       # k: wrong ECs per corrupted gene
-SIGMA_EC   = 4.0     # how "local" wrong ECs are in EC tree
-SIGMA_N    = 0.275   # Gaussian jitter added to probabilities
+SIGMA_EC   = 2.0     # how "local" wrong ECs are in EC tree
+SIGMA_N    = 0.175   # Gaussian jitter added to probabilities
 BASE_TRUE  = 0.30    # prior for true links before noise
 
 
