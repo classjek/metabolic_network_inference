@@ -9,6 +9,7 @@ import statistics
 from ec_utils import norm_ec, ec_is_leaf, load_rcr_from_cr_pairs, build_ortholog_pairs, compute_enzyme_pairs, ec_distance
 from noise_models import make_agnostic_prior, make_noisy_prior, S_FRACTION, SIGMA_EC, SIGMA_N, BASE_TRUE, K_WRONG
 from problog_writer import (compute_automorphism_orbits, write_single_problog, counts_by_kind, rank_ge_by_q2_support, rank_ge_by_q2_gene_paths, rank_ge_by_q3_support, write_minimal_problog, write_array_function, write_array_erp, write_ground_truth)
+from inference_test import write_query_summary, compute_query2_PL, compute_query2_SOS
 
 _parser = argparse.ArgumentParser(add_help=False)
 _parser.add_argument("--s_fraction", type=float, default=S_FRACTION)
@@ -436,12 +437,17 @@ if __name__ == "__main__":
     exp_dir.mkdir(exist_ok=True)
 
     print("\n=== Writing Minimal ProbLog File ===")
+    # TARGET-ONLY MODE: restrict .pl file to target-species genes only.
+    # Change `noisy_target` back to `noisy_prior` to restore multi-species .pl file.
+    target_only_prior = {k: v for k, v in noisy_prior.items() if k[0] in set(ge_filtered['G'])}
     write_minimal_problog(
         out_path=exp_dir / f"minimal_{PATHWAY_ID}.pl",
-        prior=noisy_prior,
+        prior=target_only_prior,
         enzyme_pairs=enzyme_pairs,
-        ortholog_df=ortholog_df
+        ortholog_df=None 
+        # ortholog_df=ortholog_df
     )
+    print(f"Unique genes in .pl file: {len({k[0] for k in target_only_prior})}")
 
 
     # genes_list = sorted(ge_all['G'].unique())
@@ -470,10 +476,17 @@ if __name__ == "__main__":
         prior=noisy_prior,
     )
 
+    groundtruth_path = exp_dir / f"groundtruth_{PATHWAY_ID}.json"
     write_ground_truth(
-        out_path=exp_dir / f"groundtruth_{PATHWAY_ID}.json",
+        out_path=groundtruth_path,
         tsv_path=tsv_path,
         ge_gold=GE_gold,
         noisy_prior=noisy_prior,
         injection_map=injection_map,
+    )
+
+    write_query_summary(
+        json_file=str(groundtruth_path),
+        tsv_file=str(tsv_path),
+        out_path=str(exp_dir / f"array_query2_{PATHWAY_ID}.tsv"),
     )

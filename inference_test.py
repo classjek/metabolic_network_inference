@@ -59,6 +59,54 @@ def compute_query2_SOS(tsv_file):
 
     return results
 
+def write_query_summary(json_file, tsv_file, out_path):
+    """
+    Write a per-(gene, candidate_enzyme) summary TSV matching the array_erp format:
+      fixed_gene  fixed_enzyme  ground_relation              erp_value  problog_value
+
+    One row per candidate per gene (from groundtruth JSON).
+      erp_value     = max(erp_value_i)              — SOS lower bound
+      problog_value = 1 - prod(1 - erp_value_i)     — ProbLog inclusion-exclusion
+    Pairs with no ERP paths get 0.0 for both.
+    """
+    results_PL  = compute_query2_PL(tsv_file)
+    results_SOS = compute_query2_SOS(tsv_file)
+
+    with open(json_file) as f:
+        data = json.load(f)
+
+    def _g_atom(g):  return 'g' + g
+    def _ec_atom(ec): return 'ec_' + ec.replace('.', '_')
+
+    rows = []
+    for entry in data:
+        gene = entry['gene'].lstrip('g')
+        for candidate in entry['candidates']:
+            enzyme = candidate['enzyme'][3:].replace('_', '.')
+            key    = (gene, enzyme)
+            erp_value     = results_SOS[key][0] if key in results_SOS else 0.0
+            problog_value = results_PL[key][0]  if key in results_PL  else 0.0
+            ground_relation = f"query({_g_atom(gene)},{_ec_atom(enzyme)})"
+            rows.append({
+                'fixed_gene':       gene,
+                'fixed_enzyme':     enzyme,
+                'ground_relation':  ground_relation,
+                'erp_value':        f'{erp_value:.6f}',
+                'problog_value':    f'{problog_value:.6f}',
+            })
+
+    with open(out_path, 'w', newline='') as f:
+        writer = csv.DictWriter(
+            f,
+            fieldnames=['fixed_gene','fixed_enzyme','ground_relation','erp_value','problog_value'],
+            delimiter='\t'
+        )
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"Wrote query summary -> {out_path}  ({len(rows)} rows, {len(data)} genes)")
+
+
 def evaluate_ranking(json_file, results_PL, results_SOS):
     """
     For each gene in the JSON, find the candidate enzyme with the highest
@@ -301,7 +349,7 @@ if __name__ == '__main__':
     # print(df_sorted.head(238).to_string(index=False))
 
     evaluate_ranking(GROUNDTRUTH_JSON, results_PL, results_SOS)
-    # spot_check(GROUNDTRUTH_JSON, results_PL, results_SOS, n=10)
+    spot_check(GROUNDTRUTH_JSON, results_PL, results_SOS, n=10)
 
     # print("\n\n" + "="*70)
     # print("VERBOSE SPOT CHECK (ERP path breakdown)")
